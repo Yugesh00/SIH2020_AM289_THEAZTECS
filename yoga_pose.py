@@ -11,7 +11,7 @@ def extract_entities_from_type(request, entity_type):
 def get_other_names(request, responder):
     responder = _get_yoga_pose(request, responder, 'other_names')
     try:
-        responder.reply("Other names for {name} are {other_names} ")
+        responder.reply("Other names for {name_c} are {other_names} ")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
     return
@@ -20,7 +20,7 @@ def get_other_names(request, responder):
 def get_pose_description(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_description')
     try:
-        responder.reply("{pose_description}")
+        responder.reply("{pose_description} \n\n You can ask for 'Steps of {name_c}'")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
@@ -30,7 +30,7 @@ def get_pose_description(request, responder):
 def get_pose_steps(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_steps')
     try:
-        responder.reply("Steps for {name} are: {pose_steps}")
+        responder.reply("Steps for {name_c} are: {pose_steps} \n\n You can ask for 'Video for {name_c}' or 'Benefits for {name_c}'")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
@@ -50,7 +50,7 @@ def get_pose_release(request, responder):
 def get_pose_benefits(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_benefits')
     try:
-        responder.reply("Benefits for {name} are {pose_benefits}")        
+        responder.reply("Benefits for {name_c} are {pose_benefits} \n\n You can ask for 'Preacautions for {name_c}'")        
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
@@ -60,7 +60,7 @@ def get_pose_benefits(request, responder):
 def get_pose_precautions(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_precautions')
     try:
-        responder.reply("{pose_precautions}")
+        responder.reply("{pose_precautions}\n\n You can ask for 'Details of {name_c}'")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
@@ -69,7 +69,7 @@ def get_pose_precautions(request, responder):
 def get_pose_links(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_links')
     try:
-        responder.reply("You can watch video for {name} here {pose_links}")
+        responder.reply("You can watch video for {name_c} here {pose_links}")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
@@ -81,6 +81,7 @@ def get_info_default(request, responder):
 
     try:
         name_ent = extract_entities_from_type(request, 'pose_name')
+        responder.slots['name_c'] = name_ent[0]['text']
         name = name_ent[0]['value'][0]['cname']
 
         if name == '':
@@ -90,7 +91,7 @@ def get_info_default(request, responder):
         responder.frame['name'] = name
         responder.frame['info_visited'] = True
         responder.slots['name'] = name
-        responder.reply("What would you like to know about {name}? ")
+        responder.reply("What would you like to know about {name_c}? \n\nYou can ask for 'Details of {name_c}' or 'Benefits of {name_c}' or 'Steps to perform {name_c}'")
         
 
     except (KeyError, IndexError):
@@ -130,6 +131,7 @@ def _get_yoga_pose(request, responder, entity_type):
     name = request.frame.get('pose_name')
     try:
         name_ent = extract_entities_from_type(request, 'pose_name')
+        responder.slots['name_c'] = name_ent[0]['text']
         name = name_ent[0]['value'][0]['cname']
     except IndexError:
         if not name:

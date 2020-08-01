@@ -1,0 +1,22 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "perform",
+            "order",
+            "steps",
+            "step",
+            "details",
+            "need",
+            "prepare",
+            "progress",
+            "performing",
+            "posture",
+            "reach the streach",
+            "do",
+            "carry out"
+         ],
+         "cname":"pose_steps"
+      }
+   ]
+}

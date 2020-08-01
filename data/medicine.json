@@ -1,0 +1,887 @@
+[
+        {
+            "id": "m1",
+            "problem": "Piles",
+            "medicine": "Divya Arsa Kalpa Vati"
+        },
+        {
+            "id": "m2",
+            "problem": "Kidney stone",
+            "medicine": "Divya Asmari - Hara Kvatha"
+        },
+        {
+            "id": "m3",
+            "problem": "Gall stone",
+            "medicine": "Divya Asmari - Hara Kvatha"
+        },
+        {
+            "id": "m4",
+            "problem": "Urinary problems.",
+            "medicine": "Divya Asmarihara Rasa"
+        },
+        {
+            "id": "m5",
+            "problem": "Abdominal pain",
+            "medicine": "Divya Udramrit Vati"
+        },
+        {
+            "id": "m6",
+            "problem": "Dyspepsia",
+            "medicine": "Divya Udramrit Vati"
+        },
+        {
+            "id": "m7",
+            "problem": "Liver problem",
+            "medicine": "Divya Udramrit Vati or Divya Kaya Kalpa Kwatha"
+        },
+        {
+            "id": "m8",
+            "problem": "Indigestion",
+            "medicine": "Divya Udramrit Vati, Divya dhara, Divya Medohara Vati, Divya Vatari Churna, Divya Sarva Kalpa Kwatha, Trifala, Lasunadi vati/Gutika and Boswellia"
+        },
+        {
+            "id": "m9",
+            "problem": "Constipation",
+            "medicine": "Divya Udara Kalpa Churna, Divya Gaisa - Hara Churna and Trifala"
+        },
+        {
+            "id": "m10",
+            "problem": "Digestive disorders",
+            "medicine": "Divya Udara Kalpa Churna"
+        },
+        {
+            "id": "m11",
+            "problem": "Eczema",
+            "medicine": "Divya Kaya Kalpa Vati"
+        },
+        {
+            "id": "m12",
+            "problem": "Skin problem/problems",
+            "medicine": "Divya Kaya Kalpa Vati, Neem ghrita and Divya Kaya Kalpa Taila"
+        },
+        {
+            "id": "m13",
+            "problem": "Leukoderma",
+            "medicine": "Divya Kaya Kalpa Vati"
+        },
+        {
+            "id": "m14",
+            "problem": "Scabies",
+            "medicine": "Divya Kaya Kalpa Vati"
+        },
+        {
+            "id": "m15",
+            "problem": "Psoriasis",
+            "medicine": "Divya Kaya Kalpa Vati"
+        },
+        {
+            "id": "m16",
+            "problem": "Wounds Itching",
+            "medicine": "Divya Kaya Kalpa Taila"
+        },
+        {
+            "id": "m17",
+            "problem": "Fungal infections",
+            "medicine": "Divya Kaya Kalpa Kwatha"
+        },
+        {
+            "id": "m18",
+            "problem": "Hairfall",
+            "medicine": "Divya Kesh Taila"
+        },
+        {
+            "id": "m19",
+            "problem": "Headaches",
+            "medicine": "Divya Kesh Taila"
+        },
+        {
+            "id": "m20",
+            "problem": "Scalp nourishment",
+            "medicine": "Divya Kesh Taila"
+        },
+        {
+            "id": "m21",
+            "problem": "Flatulence",
+            "medicine": "Divya Gaisa - Hara Churna"
+        },
+        {
+            "id": "m22",
+            "problem": "Abdominal distension",
+            "medicine": "Divya Gaisa - Hara Churna"
+        },
+        {
+            "id": "m23",
+            "problem": "Acidity",
+            "medicine": "Divya Gaisa - Hara Churna"
+        },
+        {
+            "id": "m24",
+            "problem": "Intestinal faeces",
+            "medicine": "Divya Churna"
+        },
+        {
+            "id": "m25",
+            "problem": "Abdominal pain",
+            "medicine": "Divya Churna"
+        },
+        {
+            "id": "m26",
+            "problem": "Nausea",
+            "medicine": "Divya Churna"
+        },
+        {
+            "id": "m27",
+            "problem": "Improves immunity",
+            "medicine": "Divya Peya or Panchatulsi drops"
+        },
+        {
+            "id": "m28",
+            "problem": "Cholestrol control",
+            "medicine": "Divya Peya"
+        },
+        {
+            "id": "m29",
+            "problem": "Strengthens liiver",
+            "medicine": "Divya Peya"
+        },
+        {
+            "id": "m30",
+            "problem": "Tranquilizes brain",
+            "medicine": "Divya Peya"
+        },
+        {
+            "id": "m31",
+            "problem": "Strengthens body",
+            "medicine": "Divya Peya"
+        },
+        {
+            "id": "m32",
+            "problem": "Improves digestion",
+            "medicine": "Divya Peya"
+        },
+        {
+            "id": "m33",
+            "problem": "Cholera",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m34",
+            "problem": "Asthama",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m35",
+            "problem": "Gas",
+            "medicine": "Divya dhara or Divya Gaisa - Hara Churna"
+        },
+        {
+            "id": "m36",
+            "problem": "Colic pain",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m37",
+            "problem": "Trauma",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m38",
+            "problem": "Epistaxis",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m39",
+            "problem": "Ear disease",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m40",
+            "problem": "Headache",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m41",
+            "problem": "Urticaria",
+            "medicine": "Divya dhara"
+        },
+        {
+            "id": "m42",
+            "problem": "Strengthens gums",
+            "medicine": "Divya Danta Manjan"
+        },
+        {
+            "id": "m43",
+            "problem": "Tooth problems",
+            "medicine": "Divya Danta Manjan or Divya dhara"
+        },
+        {
+            "id": "m44",
+            "problem": "Avoid foul smell",
+            "medicine": "Divya Danta Manjan"
+        },
+        {
+            "id": "m45",
+            "problem": "Sciatica",
+            "medicine": "Divya Pidantaka Rasa"
+        },
+        {
+            "id": "m46",
+            "problem": "Cervical spindylisis",
+            "medicine": "Divya Pidantaka Rasa or Narayana taila"
+        },
+        {
+            "id": "m47",
+            "problem": "Lumbar pain",
+            "medicine": "Divya Pidantaka Rasa"
+        },
+        {
+            "id": "m48",
+            "problem": "Arthritis",
+            "medicine": "Divya Pidantaka Rasa, Divya Pidantaka Kwatha, Divya Medohara Vati and Divya Vatari Churna"
+        },
+        {
+            "id": "m49",
+            "problem": "All bodily pains",
+            "medicine": "Divya Pidantaka Rasa"
+        },
+        {
+            "id": "m50",
+            "problem": "All type of mascular and skeletal pains",
+            "medicine": "Divya Pidantaka Kwatha"
+        },
+        {
+            "id": "m51",
+            "problem": "Knee pain",
+            "medicine": "Divya Pidantaka Taila"
+        },
+        {
+            "id": "m52",
+            "problem": "Slip disc",
+            "medicine": "Divya Pidantaka Taila"
+        },
+        {
+            "id": "m53",
+            "problem": "Trauma",
+            "medicine": "Divya Pidantaka Taila"
+        },
+        {
+            "id": "m54",
+            "problem": "Oedema",
+            "medicine": "Divya Pidantaka Taila"
+        },
+        {
+            "id": "m55",
+            "problem": "Inflamation",
+            "medicine": "Divya Pidantaka Taila"
+        },
+        {
+            "id": "m56",
+            "problem": "Strengthens body, heart and brain",
+            "medicine": "Divya Yuavanamrita Vati"
+        },
+        {
+            "id": "m57",
+            "problem": "Promoes sexual desires",
+            "medicine": "Divya Yuavanamrita Vati"
+        },
+        {
+            "id": "m58",
+            "problem": "Impotency",
+            "medicine": "Divya Yuavanamrita Vati"
+        },
+        {
+            "id": "m59",
+            "problem": "Pancreatic disorders",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m60",
+            "problem": "Infection of skin, gums and urethra",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m61",
+            "problem": "Blurred vision",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m62",
+            "problem": "Frequent urination",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m63",
+            "problem": "Morbid thirst",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m64",
+            "problem": "Weight loss",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m65",
+            "problem": "Tiredness",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m66",
+            "problem": "Diabetic weakness and tension",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m67",
+            "problem": "Numb hands and feet",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m68",
+            "problem": "Brain health",
+            "medicine": "Divya Madhunasini Vati"
+        },
+        {
+            "id": "m69",
+            "problem": "Pancreatic disorders",
+            "medicine": "Divya Madhukalpa Vati"
+        },
+        {
+            "id": "m70",
+            "problem": "High blood pressure",
+            "medicine": "Divya Mukta Vati"
+        },
+        {
+            "id": "m71",
+            "problem": "Insomnia",
+            "medicine": "Divya Mukta Vati"
+        },
+        {
+            "id": "m72",
+            "problem": "Kidney disorders",
+            "medicine": "Divya Mukta Vati"
+        },
+        {
+            "id": "m73",
+            "problem": "Heart problem",
+            "medicine": "Divya Mukta Vati"
+        },
+        {
+            "id": "m74",
+            "problem": "Uneasiness",
+            "medicine": "Divya Mukta Vati or Divya Medha Kwatha"
+        },
+        {
+            "id": "m75",
+            "problem": "Chronic headache",
+            "medicine": "Divya Medha Kwatha"
+        },
+        {
+            "id": "m76",
+            "problem": "Migraine",
+            "medicine": "Divya Medha Kwatha"
+        },
+        {
+            "id": "m77",
+            "problem": "Sleeplessness",
+            "medicine": "Divya Medha Kwatha"
+        },
+        {
+            "id": "m78",
+            "problem": "Negativity",
+            "medicine": "Divya Medha Kwatha"
+        },
+        {
+            "id": "m79",
+            "problem": "Depression",
+            "medicine": "Divya Medha Kwatha"
+        },
+        {
+            "id": "m80",
+            "problem": "Promotes memory",
+            "medicine": "Divya Medha Kwatha"
+        },
+        {
+            "id": "m81",
+            "problem": "Mental disorders",
+            "medicine": "Divya Medha Vati"
+        },
+        {
+            "id": "m82",
+            "problem": "Promotes self - confidence and memory",
+            "medicine": "Divya Medha Vati"
+        },
+        {
+            "id": "m83",
+            "problem": "Cools down the brain",
+            "medicine": "Divya Medha Vati"
+        },
+        {
+            "id": "m84",
+            "problem": "Rejuvenation",
+            "medicine": "Divya Amrita Rasayana"
+        },
+        {
+            "id": "m85",
+            "problem": "Body nourishment",
+            "medicine": "Divya Amrita Rasayana"
+        },
+        {
+            "id": "m86",
+            "problem": "Eye disorders",
+            "medicine": "Divya Amrita Rasayana"
+        },
+        {
+            "id": "m87",
+            "problem": "Thyroid disorders",
+            "medicine": "Divya Medohara Vati"
+        },
+        {
+            "id": "m88",
+            "problem": "Obesity",
+            "medicine": "Divya Medohara Vati"
+        },
+        {
+            "id": "m89",
+            "problem": "Lung disorders",
+            "medicine": "Divya Swasari Rasa"
+        },
+        {
+            "id": "m90",
+            "problem": "Promotes lung immunity",
+            "medicine": "Divya Swasari Rasa"
+        },
+        {
+            "id": "m91",
+            "problem": "Sneezing",
+            "medicine": "Divya Swasari Rasa"
+        },
+        {
+            "id": "m92",
+            "problem": "Sinusitis",
+            "medicine": "Divya Swasari Rasa"
+        },
+        {
+            "id": "m93",
+            "problem": "Irregular menstruation",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m94",
+            "problem": "Leucorrhoea",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m95",
+            "problem": "Menorrhoea",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m96",
+            "problem": "Pain in lower abdomen or lumbar region",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m97",
+            "problem": "Excessive bleeding during menstruation",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m98",
+            "problem": "Face wrinkles",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m99",
+            "problem": "Laziness",
+            "medicine": "Divya Stri Rasayana Vati"
+        },
+        {
+            "id": "m100",
+            "problem": "Heart health",
+            "medicine": "Divya Hridayamrita Vati"
+        },
+        {
+            "id": "m101",
+            "problem": "Angina pain",
+            "medicine": "Divya Hridayamrita Vati"
+        },
+        {
+            "id": "m102",
+            "problem": "Back and lumbar pain",
+            "medicine": "Divya Vatari Churna"
+        },
+        {
+            "id": "m103",
+            "problem": "Sciatica",
+            "medicine": "Divya Vatari Churna"
+        },
+        {
+            "id": "m104",
+            "problem": "Nervous system and kidney disorders",
+            "medicine": "Divya Shilajita Rasayana Vati"
+        },
+        {
+            "id": "m105",
+            "problem": "Promotes strength and quantity of semen",
+            "medicine": "Divya Shilajita Rasayana Vati"
+        },
+        {
+            "id": "m106",
+            "problem": "Urinary disorders",
+            "medicine": "Divya Shilajita Rasayana Vati"
+        },
+        {
+            "id": "m107",
+            "problem": "Night fall",
+            "medicine": "Divya Shilajita Rasayana Vati"
+        },
+        {
+            "id": "m108",
+            "problem": "Leucorrhoea",
+            "medicine": "Divya Shilajita Rasayana Vati"
+        },
+        {
+            "id": "m109",
+            "problem": "Hepatitis B",
+            "medicine": "Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m110",
+            "problem": "Hepatitis C",
+            "medicine": "Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m111",
+            "problem": "Jaundice",
+            "medicine": "Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m112",
+            "problem": "Liver disorders",
+            "medicine": "Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m113",
+            "problem": "Oedema",
+            "medicine": "Divya Sarva Kalpa Kwatha or  Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m114",
+            "problem": "Oliguria",
+            "medicine": "Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m115",
+            "problem": "Stomach pain",
+            "medicine": "Divya Sarva Kalpa Kwatha"
+        },
+        {
+            "id": "m116",
+            "problem": "Pimple",
+            "medicine": "Divya Kanti Lepa"
+        },
+        {
+            "id": "m117",
+            "problem": "Acne",
+            "medicine": "Divya Kanti Lepa"
+        },
+        {
+            "id": "m118",
+            "problem": "Wrinkles",
+            "medicine": "Divya Kanti Lepa"
+        },
+        {
+            "id": "m119",
+            "problem": "Loss of shine",
+            "medicine": "Divya Kanti Lepa"
+        },
+        {
+            "id": "m120",
+            "problem": "Darkness",
+            "medicine": "Divya Kanti Lepa"
+        },
+        {
+            "id": "m121",
+            "problem": "Oral health",
+            "medicine": "Trifala"
+        },
+        {
+            "id": "m122",
+            "problem": "Immunity",
+            "medicine": "Giloy"
+        },
+        {
+            "id": "m123",
+            "problem": "Increase blood",
+            "medicine": "Lohasava"
+        },
+        {
+            "id": "m124",
+            "problem": "Stress",
+            "medicine": "Ashwagandha"
+        },
+        {
+            "id": "m125",
+            "problem": "Anxiety",
+            "medicine": "Ashwagandha"
+        },
+        {
+            "id": "m126",
+            "problem": "Controls cortisol level in body",
+            "medicine": "Ashwagandha"
+        },
+        {
+            "id": "m127",
+            "problem": "Memory",
+            "medicine": "Ashwagandha"
+        },
+        {
+            "id": "m128",
+            "problem": "Male fertility",
+            "medicine": "Ashwagandha"
+        },
+        {
+            "id": "m129",
+            "problem": "Joint pain",
+            "medicine": "Boswellia, Tifala, Divya Pidantaka Rasa, Divya Medohara Vati and Narayana taila"
+        },
+        {
+            "id": "m130",
+            "problem": "Oral Health",
+            "medicine": "Boswellia"
+        },
+        {
+            "id": "m131",
+            "problem": "Brain function",
+            "medicine": "Brahmi"
+        },
+        {
+            "id": "m132",
+            "problem": "Inflamation",
+            "medicine": "Brahmi, Turmeric, Licorice root and Divya Kaya Kalpa Kwatha"
+        },
+        {
+            "id": "m133",
+            "problem": "Protect against food borne disease",
+            "medicine": "Cumin"
+        },
+        {
+            "id": "m134",
+            "problem": "Diabetes",
+            "medicine": "Cumin"
+        },
+        {
+            "id": "m135",
+            "problem": "Heart problem",
+            "medicine": "Cumin"
+        },
+        {
+            "id": "m136",
+            "problem": "IBS",
+            "medicine": "Cumin"
+        },
+        {
+            "id": "m137",
+            "problem": "Heart health",
+            "medicine": "Turmeric"
+        },
+        {
+            "id": "m138",
+            "problem": "Brain health",
+            "medicine": "Turmeric"
+        },
+        {
+            "id": "m139",
+            "problem": "Infections",
+            "medicine": "Licorice root"
+        },
+        {
+            "id": "m140",
+            "problem": "Digestive problems",
+            "medicine": "Licorice root"
+        },
+        {
+            "id": "m141",
+            "problem": "Skin irritation",
+            "medicine": "Licorice root"
+        },
+        {
+            "id": "m142",
+            "problem": "Stress",
+            "medicine": "Gotu Kola"
+        },
+        {
+            "id": "m143",
+            "problem": "Anxiety",
+            "medicine": "Gotu Kola"
+        },
+        {
+            "id": "m144",
+            "problem": "Depression",
+            "medicine": "Gotu Kola"
+        },
+        {
+            "id": "m145",
+            "problem": "Boosts memory",
+            "medicine": "Gotu Kola"
+        },
+        {
+            "id": "m146",
+            "problem": "Various skin conditions",
+            "medicine": "Gotu Kola"
+        },
+        {
+            "id": "m147",
+            "problem": "Lowers blood sugar level",
+            "medicine": "Bitter melon"
+        },
+        {
+            "id": "m148",
+            "problem": "Boosts insulin secretion",
+            "medicine": "Bitter melon"
+        },
+        {
+            "id": "m149",
+            "problem": "Reduces bad cholestrol level",
+            "medicine": "Bitter melon"
+        },
+        {
+            "id": "m150",
+            "problem": "Lowers blood pressure",
+            "medicine": "Cardamom"
+        },
+        {
+            "id": "m151",
+            "problem": "Improves breathing",
+            "medicine": "Cardamom"
+        },
+        {
+            "id": "m152",
+            "problem": "Stomach ulcers",
+            "medicine": "Cardamom"
+        },
+        {
+            "id": "m153",
+            "problem": "Controls Blood Pressure.",
+            "medicine": "Muktawati"
+        },
+        {
+            "id": "m154",
+            "problem": "Stomach problems.",
+            "medicine": "Pravalpishti"
+        },
+        {
+            "id": "m155",
+            "problem": "Menstrual problems.",
+            "medicine": "Shatavari"
+        },
+        {
+            "id": "m156",
+            "problem": "Fever.",
+            "medicine": "Mahasudarshan kadha/churna"
+        },
+        {
+            "id": "m157",
+            "problem": "Poly Cystic Ovarian Disorders (PCOD).",
+            "medicine": "Pravalpishti"
+        },
+        {
+            "id": "m158",
+            "problem": "Diabetes.",
+            "medicine": "Madhunashini"
+        },
+        {
+            "id": "m159",
+            "problem": "Amlapitta.",
+            "medicine": "Kamadudha"
+        },
+        {
+            "id": "m160",
+            "problem": "Constipation, Acidity, Stomach problems.",
+            "medicine": "Abhayarishta"
+        },
+        {
+            "id": "m161",
+            "problem": "Acidity",
+            "medicine": "Abhayarishta"
+        },
+        {
+            "id": "m162",
+            "problem": "Stomach problems",
+            "medicine": "Abhayarishta"
+        },
+        {
+            "id": "m163",
+            "problem": "Cough",
+            "medicine": "Arogya vati, Panchatulsi drops, Divya dhara and Divya Swasari Rasa"
+        },
+        {
+            "id": "m164",
+            "problem": "Cold",
+            "medicine": "Arogya vati, Panchatulsi drops and Divya Swasari Rasa"
+        },
+        {
+            "id": "m165",
+            "problem": "Nasal problems.",
+            "medicine": "Shwasari"
+        },
+        {
+            "id": "m166",
+            "problem": "Renal calculi.",
+            "medicine": "Ashmarihar ras"
+        },
+        {
+            "id": "m167",
+            "problem": "Blocked nostrils.",
+            "medicine": "Anu tel"
+        },
+        {
+            "id": "m168",
+            "problem": "Cardiac problem.",
+            "medicine": "Hridayamrit"
+        },
+        {
+            "id": "m169",
+            "problem": "Cardiovascular disease.",
+            "medicine": "Guggul"
+        },
+        {
+            "id": "m170",
+            "problem": "Hyper acidity.",
+            "medicine": "Avipattikara churna"
+        },
+        {
+            "id": "m171",
+            "problem": "Flatulence.",
+            "medicine": "Ajwain ark"
+        },
+        {
+            "id": "m172",
+            "problem": "Diarrhoea",
+            "medicine": "Lasunadi vati/Gutika"
+        },
+        {
+            "id": "m173",
+            "problem": "Stomach pain",
+            "medicine": "Lasunadi vati/Gutika"
+        },
+        {
+            "id": "m174",
+            "problem": "Osteoarthiritis",
+            "medicine": "Narayana taila"
+        },
+        {
+            "id": "m175",
+            "problem": "Allergy",
+            "medicine": "Panchatulsi drops"
+        },
+        {
+            "id": "m176",
+            "problem": "Flu",
+            "medicine": "Panchatulsi drops"
+        },
+        {
+            "id": "m177",
+            "problem": "Asthama",
+            "medicine": "Panchatulsi drops or Boswellia"
+        }
+    ]

@@ -1,0 +1,3 @@
+qa.load_kb('getfit', 'condition', './data/condition.json')
+qa.load_kb('getfit', 'yoga_pose', './data/yoga_pose.json')
+qa.load_kb('getfit', 'category', './data/category.json')

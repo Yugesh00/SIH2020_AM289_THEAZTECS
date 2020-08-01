@@ -1,19 +1,66 @@
 {Brief|pose} me {Abdominal Disorders|condition_name}
+{Abdominal Disorders|condition_name} {Brief|pose} 
+Can you tell me how to {cure|pose} {Insomnia|condition_name}
+Can you tell name of {asanas|pose} to cure {kidney disorder|condition_name}
+Hey can you tell me how to {cure|pose} {liver disorder|condition_name}
+{Cure|pose} for {menopause disorder|condition_name}
+Is there any {cure|pose} for {menstural disorder|condition_name} 
+How can I {cure|pose} {Neurasthenia|condition_name}
+I'm suffering from {Asthama|condition_name}
+{Brief|pose} {Abdominal Disorders|condition_name} 
+{Asthama|condition_name}
+{Neurasthenia|condition_name}
+{Bronchitis|condition_name}
+{Back-Ache|condition_name}
+{Arthritis|condition_name}
 {Show|pose} me {Arthritis|condition_name}
-How to {cure|pose} {Abdominal Disorders|condition_name} 
+{Show|pose} {Arthritis|condition_name}
+Can you tell me how to {cure|pose} {Insomnia|condition_name}
+Can you tell name of {asanas|pose} to cure {kidney disorder|condition_name}
+Hey can you tell me how to {cure|pose} {liver disorder|condition_name}
+{Cure|pose} for {menopause disorder|condition_name}
+Is there any {cure|pose} for {menstural disorder|condition_name} 
+How can I {cure|pose} {Neurasthenia|condition_name}
+{Asthama|condition_name}
+{Neurasthenia|condition_name}
+{Bronchitis|condition_name}
+{Back-Ache|condition_name}
+{Arthritis|condition_name}
+I have {Depression|condition_name}
+I'm suffering from {Depression|condition_name}
+I am suffering from {Constipation|condition_name}
+I have {Constipation|condition_name}
+I might have symtoms of {Bronchitis|condition_name}
+How to {cure|pose} {Abdominal Disorders|condition_name}
+{cure|pose} {Abdominal Disorders|condition_name}
+{Abdominal Disorders|condition_name} {cure|pose} 
 Give {information|pose} of {Asthama|condition_name}
+{information|pose} of {Asthama|condition_name}
+{Asthama|condition_name} {information|pose}
 {Information|pose} on {Asthama|condition_name}
 Give {overview|pose} of {Back-Ache|condition_name}
+{Back-Ache|condition_name} {overview|pose} 
 {Overview|pose} of {Back-Ache|condition_name}
+{Asthama|condition_name}
+{Neurasthenia|condition_name}
+{Bronchitis|condition_name}
+{Back-Ache|condition_name}
+{Arthritis|condition_name}
 Give {description|pose} of  {Bronchitis|condition_name}
 {Description|pose} of  {Bronchitis|condition_name}
+{Bronchitis|condition_name} {Description|pose} 
 {Detail|pose} of {Constipation|condition_name}
+{Constipation|condition_name} {Detail|pose} 
 Brief me {about|pose} {Depression|condition_name}
 Tell me {about|pose} {Diabetes|condition_name}
 Which {yoga poses|pose} is used to cure {Arthritis|condition_name}
+{yoga poses|pose} to cure {Arthritis|condition_name}
+{yoga poses|pose} for {Arthritis|condition_name}
 For {cold|condition_name} which yoga should I {perform|pose}
 {Yoga|pose} to cure {Asthama|condition_name}
 How can I {cure|pose} {Back-Ache|condition_name}
+{cure|pose} {Back-Ache|condition_name}
+{Back-Ache|condition_name} {cure|pose} 
 {asanas|pose} to cure {Bronchitis|condition_name}
 {Pranayama|pose} for {Constipation|condition_name}
 {Yoga|pose}  for {Depression|condition_name}
@@ -29,15 +76,16 @@ Hey can you tell me how to {cure|pose} {liver disorder|condition_name}
 {Cure|pose} for {menopause disorder|condition_name}
 Is there any {cure|pose} for {menstural disorder|condition_name} 
 How can I {cure|pose} {Neurasthenia|condition_name}
-
-
-
-
-
-
-
-
-
+{Asthama|condition_name}
+{Neurasthenia|condition_name}
+{Bronchitis|condition_name}
+{Back-Ache|condition_name}
+{Arthritis|condition_name}
+I have {Depression|condition_name}
+I'm suffering from {Depression|condition_name}
+I am suffering from {Constipation|condition_name}
+I have {Constipation|condition_name}
+I might have symtoms of {Bronchitis|condition_name}
 
 
 

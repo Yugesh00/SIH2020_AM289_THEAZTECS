@@ -1,0 +1,452 @@
+[
+   {
+      "id":"901",
+      "condition_name":"Abdominal Disorders",
+      "pose":"Lolasana,Pavanmuktasana,Bhujangasana, Purna-Salabhasana,Paschimottanasana"
+   },
+   {
+      "id":"902",
+      "condition_name":"Arthritis",
+      "pose":"Shashankasana,Setu-Bandha-Sarvangasana,Purna-Salabhasana"
+   },
+   {
+      "id":"903",
+      "condition_name":"Asthama",
+      "pose":"kapalbhati,Siddhasana,Shirshasana,Sarvangasana-1,Adva-Matsyasana,Ardha-Matsyendrasana,Supta-Vajrasana,Bhujangasana"
+   },
+   {
+      "id":"904",
+      "condition_name":"Back-Ache",
+      "pose":"Dhanurasana,Setu-Bandha-Sarvangasana,Majrasana,Gomukhasana,Adva-Matsyasana,Shirshasana,Akaran-Dhanurasana,Sarvangasana-1,Chakrasana,&#10;Ardha-Matsyendrasana,Matsyendrasana"
+   },
+   {
+      "id":"905",
+      "condition_name":"Bronchitis",
+      "pose":"Kapalbhati,Bhujangasana,Adva-Matsyasana,Purna-Salabhasana,Padmasana,Sarvangasana-1,Lolasana"
+   },
+   {
+      "id":"906",
+      "condition_name":"Cold",
+      "pose":"Simhasana"
+   },
+   {
+      "id":"907",
+      "condition_name":"Constipation",
+      "pose":"Hastapadasana,Shirshasana,Pavanmuktasana,Halasana,Akaran-Dhanurasana,Matsyendrasana,Vajrasana"
+   },
+   {
+      "id":"908",
+      "condition_name":"Depression",
+      "pose":"Yoga-Mudra,Shavasana,Hastapadasana,Parvatasana,Shirshasana,Trikonasana"
+   },
+   {
+      "id":"909",
+      "condition_name":"Diabetes",
+      "pose":"Shavasana,Bhujangasana,Mayurasana,Halasana,Sarvangasana-1,Matsyendrasana,Yoga-Mudra,Mandukasana"
+   },
+   {
+      "id":"910",
+      "condition_name":"Gall-bladder disorder",
+      "pose":"Dhanurasana,Bhujangasana,Mayurasana,Trikonasana"
+   },
+   {
+      "id":"911",
+      "condition_name":"Headache",
+      "pose":"Shavasana,Sitali"
+   },
+   {
+      "id":"912",
+      "condition_name":"Indigestion",
+      "pose":"Lolasana,Katti-Chakrasana,Bhujangasana,Shavasana,Tadasana,Mayurasana,Halasana,Sarvangasana-1,Matsyendrasana,Yoga-Mudra,Vajrasana,Mandukasana"
+   },
+   {
+      "id":"913",
+      "condition_name":"Insomnia",
+      "pose":"Bhujangasana,Shavasana,Purna-Salabhasana,Tadasana,Halasana,Sarvangasana-1"
+   },
+   {
+      "id":"914",
+      "condition_name":"kidney disorder",
+      "pose":"Dhanurasana,Bhujangasana,Purna-Salabhasana,Sarvangasana-1,Matsyendrasana,Vakrasana"
+   },
+   {
+      "id":"915",
+      "condition_name":"liver disorder",
+      "pose":"Paripurna-Navasana"
+   },
+   {
+      "id":"916",
+      "condition_name":"menopause disorder",
+      "pose":"Majrasana,Bhujangasana,Shavasana,Adva-Matsyasana,Halasana,Sarvangasana-1"
+   },
+   {
+      "id":"917",
+      "condition_name":"menstural disorder",
+      "pose":"Uddiyan-bandha,Majrasana,Bhujangasana,Shavasana,Hastapadasana,Halasana,Shirshasana"
+   },
+   {
+      "id":"918",
+      "condition_name":"Neurasthenia",
+      "pose":"Shavasana,Shirshasana,Virasana-2,Siddhasana,Tadasana"
+   },
+   {
+      "id":"919",
+      "condition_name":"Obesity",
+      "pose":"Dhanurasana,Bhujangasana,Hastapadasana,Halasana,Matsyendrasana,Mandukasana,Supta-Vajrasana,Paschimottanasana,Ardha-Matsyendrasana"
+   },
+   {
+      "id":"920",
+      "condition_name":"piles",
+      "pose":"Adva-Matsyasana,Shirshasana,Halasana"
+   },
+   {
+      "id":"921",
+      "condition_name":"poor posture",
+      "pose":"Dhanurasana,Ushtrasana,Bhujangasana,Gomukhasana,Tadasana,Tiriyaka-Tadasana,Trikonasana"
+   },
+   {
+      "id":"922",
+      "condition_name":"prolapse",
+      "pose":"Uddiyan-bandha,Shirshasana,Sarvangasana-1"
+   },
+   {
+      "id":"923",
+      "condition_name":"reproductive",
+      "pose":"Bhujangasana,Shirshasana,Halasana,Sarvangasana-1,Shavasana,vajrasana"
+   },
+   {
+      "id":"924",
+      "condition_name":"Rheumatism",
+      "pose":"Dhanurasana,Gomukhasana,Matsyendrasana,Trikonasana"
+   },
+   {
+      "id":"925",
+      "condition_name":"Sexual disability",
+      "pose":"Uddiyan-bandha,Kapalbhati,Dhanurasana,Bhujangasana,Majrasana,Adho-Mukha-Svanasana,Balasana-1,Shirshasana,Sarvangasana-1,Yoga-Mudra,Matsyendrasana"
+   },
+   {
+      "id":"926",
+      "condition_name":"sinus",
+      "pose":"Shavasana,Bhastrika"
+   },
+   {
+      "id":"927",
+      "condition_name":"Throat Disorders",
+      "pose":"Simhasana,Ujjai"
+   },
+   {
+      "id":"928",
+      "condition_name":"Thyroid Disorders",
+      "pose":"Setu-Bandha-Sarvangasana,Adva-Matsyasana,Sarvangasana-1"
+   },
+   {
+      "id":"929",
+      "condition_name":"Varicose Veins",
+      "pose":"Shirshasana,Sarvangasana-1"
+   },
+   {
+      "id":"930",
+      "condition_name":"Wind Pains",
+      "pose":"Uddiyan-bandha,Pavanmuktasana"
+   },
+   {
+      "id":"931",
+      "condition_name":"Chronic Back Pain",
+      "pose":"Cat-Cow,Downward-Facing Dog,Extended Triangle,Sphinx Pose,Cobra Pose,Locust Pose,Bridge Pose,Lord of the Fishes."
+   },
+   {
+      "id":"932",
+      "condition_name":"Breast Cancer",
+      "pose":"Seated Side Bend,Fish Pose,Belly breathing (diaphragmatic pranayama),Cat-Cow Pose, Padma Balasana,Ardha Matsyendrasana,Veerbhadrasana,Matsyendrasana\n"
+   },
+   {
+      "id":"933",
+      "condition_name":"Heart Disease\n",
+      "pose":"Tadasana (Mountain pose),Vrikshasana (Tree pose),Utthita Hastapadasana (Extended hands and feet pose),Trikonasana (Triangle pose), Veerabhadrasana (Warrior pose) ,Utkatasana (Chair pose),Marjariasana (Cat pose),Adho Mukho Svanasana (Downward facing dog pose)"
+   },
+   {
+      "id":"934",
+      "condition_name":"Mental health",
+      "pose":"Anjaneyasana,Garudasana,Natarajasana,Virabhadrasana,Adho Mukha Vrksasana,Vajrasana,Padmasana,Vriksasana,Chakrasana,Savasana"
+   },
+   {
+      "id":"935",
+      "condition_name":"Tyroid problem",
+      "pose":"Viparita Karani (Inverted Pose),Sarvangasana (shoulder stand),Ustrasana (Camel Pose),Setu Bandhasana (bridge pose),Halasana (plough pose),Matsyasana (fish pose),Dhanurasana (bow pose),Bhujangasana (cobra pose)"
+   },
+   {
+      "id":"936",
+      "condition_name":"Digestion troubles",
+      "pose":"Pawanmuktasana,Trikonasana,Ustrasana,Paschimottanasana,Bhujangasana,Kapal Bhati Pranayama"
+   },
+   {
+      "id":"937",
+      "condition_name":"PCOS",
+      "pose":"Titli Asana (Butterfly Pose),Bhujangasana (Cobra Pose),Dhanurasana (Bow Pose),Viparita Shalabhasana (Superman Pose),Chakki Asana (Mill Churning Pose)"
+   },
+   {
+      "id":"938",
+      "condition_name":"Bipolar disorder",
+      "pose":"Pranayama,Meditation and yoga nidra (guided meditation)"
+   },
+   {
+      "id":"939",
+      "condition_name":"Flat feet",
+      "pose":"Bound Angle Pose( Baddha Konasana),Chair Pose(Utkatasana),Dolphin Pose,Heron Pose,Half Frog Pose,Intense Side Stretch Pose,Extended Triangle Pose"
+   },
+   {
+      "id":"940",
+      "condition_name":"Shoulder bursitis",
+      "pose":"Virabhadrasana II (Warrior Pose II),Virabhadrasana I (Warrior Pose I), Utthita Parsvakonasana (Extended Side Angle Pose), or Urdhva Hastasana (Upward Salute)"
+   },
+   {
+      "id":"941",
+      "condition_name":"High cholesterol",
+      "pose":"Kapalbhati Pranayam,Chakrasana,Shalabhasana,Sarvangasana,Paschimottanasana,Ardha Matsyendrasana"
+   },
+   {
+      "id":"942",
+      "condition_name":"Hyperkyposis",
+      "pose":"Marjaryasana (Cat Pose),Adho Mukha Svanasana (Downward Dog Pose),Cobra Pose Or Bhujangasana"
+   },
+   {
+      "id":"943",
+      "condition_name":"Spasticity (Muscle Stiffness)",
+      "pose":"Calf stretch, Ankle stretch (heel cord stretch),Hip flexor stretch,Foot roll\n"
+   },
+   {
+      "id":"944",
+      "condition_name":"Lumbopelvic Syndrome (Lower Back Pain)",
+      "pose":"Trikonasana (Extended Triangle Pose),Utthita Parsvakonasana (Extended Side Angle Pose),Parivrtta Janu Sirsasana (Revolving Head to Knee Pose),Setu Bandhasana (Bridge Pose),Parighasana (Gate Pose),Sukhasana (Easy Pose),Parsva Sukhasana (Extended Easy Pose)"
+   },
+   {
+      "id":"945",
+      "condition_name":"Atherosclerosis",
+      "pose":"Parsva sukhasana,ardha Bhujangasana,supta vajrasana,supta baddha konasana,matsyasana,sukha pranayama,chandra bheda pranayama"
+   },
+   {
+      "id":"946",
+      "condition_name":"Inflenza",
+      "pose":"Lion pose, head wrap pose, standing forward bend pose, fish pose, shoulder stand pose, bow pose, boat pose,sarvangasan,matsyasana,parvankasana,shirshasana,shavasana"
+   },
+   {
+      "id":"947",
+      "condition_name":"Autism",
+      "pose":"Brahmari  buzz like a bee,Simple Anuloma viloma,Kaphalabhati breathing,Lions Breath  roar like a lion"
+   },
+   {
+      "id":"948",
+      "condition_name":"Fatigue",
+      "pose":"Padangusthasana,Baddha Konasana,Dhanurasana,Ustrasana,Balasana,Bhujangasana,Savasana,Dolphin Pose"
+   },
+   {
+      "id":"949",
+      "condition_name":"Epilepsy",
+      "pose":"Pashimotanasana, Halasana, Mahamudra, Shashankasana, Bhujangasana, nadi Shodhan Prnayama (bina kumbhak k), Ujjayi Prnayama (With antarkumbhak), Sheetali Pranayama, Meditation and Yoga Nidra.\n"
+   },
+   {
+      "id":"950",
+      "condition_name":"Gas in stomach",
+      "pose":"Pawanmuktasana,Apanasana,Spinal twist,Setu Bandha Sarvangasana,Paschimottanasana"
+   },
+   {
+      "id":"951",
+      "condition_name":"Ear disorder",
+      "pose":"Tree pose, cobra pose, head rotation, neck flexion and extension, downward dog,legs up the wall,Sukshma Vyayama Kriya ,Bhamari Pranayama ,Sanmukhi Mudra,Haakara,Makarasana"
+   },
+   {
+      "id":"952",
+      "condition_name":"Eye disorder",
+      "pose":"Palming,Blinking,Sideways viewing,Front and sideways viewing,Rotational viewing,Up and down viewing,Preliminary nose tip gazing,Bhramari Pranayama,hastrika Pranayam"
+   },
+   {
+      "id":"953",
+      "condition_name":"Ankle injury",
+      "pose":"Vrksasana,virasana(variation),Namaste and Reverse Namaste for the feet"
+   },
+   {
+      "id":"954",
+      "condition_name":"Hernia",
+      "pose":"Shirshasana, Sarvangasana, Akarna Dhanurasana."
+   },
+   {
+      "id":"955",
+      "condition_name":"Infertility",
+      "pose":"Bhramari Pranayama,Paschimottanasana,Hastapadasana,Janu Shirasana,Baddha Konasana, Supta Baddha Konasana,Balasana,Kapalbhati Pranayama"
+   },
+   {
+      "id":"956",
+      "condition_name":"Low blood pressure",
+      "pose":"Bharadvaja's Twist( Bharadvajasana I),Boat Pose( Paripurna Navasana),Bow Pose(Dhanurasana),Camel Pose (Ustrasana),Chair Pose( Utkatasana),Extended Side Angle Pose. (Utthita Parsvakonasana),Extended Triangle Pose(Utthita Trikonasana),Fish Pose(Matsyasana)."
+   },
+   {
+      "id":"957",
+      "condition_name":"Migraine",
+      "pose":"Sirshasana, Sarvangasana, Pashimotanasana, Do meditation in Pasamasana or Sidhasana, Virasana, Savasana, Nadi Sodhan Prnayama (Without Kumbhak), Udgeeth Prnayama, Yoga Nidra."
+   },
+   {
+      "id":"958",
+      "condition_name":"Neck pain",
+      "pose":"Bharadvaja's Twist(Bharadvajasana I),Cat Pose (Marjaryasana),Childs Pose (Balasana),Corpse Pose,Cow Pose (Bitilasana),Extended Puppy Pose,Extended Triangle Pose."
+   },
+   {
+      "id":"959",
+      "condition_name":"Scoliosis",
+      "pose":"Half Forward Bend (Ardha Uttanasana),Downward-Facing Dog (Adho Mukha Svanasna) with a belt around a door for traction to lengthen the spine.,Locust Pose (Salabhasana),Bridge Pose (Setu Bandha),Side Plank (Vasisthasana),Side-Reclining Leg Lift (Anantasana)"
+   },
+   {
+      "id":"960",
+      "condition_name":"Prevent wrist pain",
+      "pose":"Warm up gently before placing your full weight on your wrists,Extended Arms,Clenched Fists,Side Thumb Stretch,Wall Stretch,Upward Bound Fingers Pose"
+   },
+   {
+      "id":"961",
+      "condition_name":"Back pain",
+      "pose":"Supt Vajarasana, Dhanurasana, Bhujangasana, Parvatasana, Sarvangasana, Ardh Matasyendrasana, Shirshasana, Chakarasana, Nadi Shodhan Pranyaama, Kapalbhati."
+   },
+   {
+      "id":"962",
+      "condition_name":"Knee pain",
+      "pose":"Foam Rolling,Reclined Hand-to-Big-Toe Pose (Supta Padangusthasana),Bridge Pose (Setu Bandhasana),Banana Pose (Bananasana),Mountain Pose and Chair Pose (Tadasana + Utkatasana)"
+   },
+   {
+      "id":"963",
+      "condition_name":"shoulder pain",
+      "pose":"Seated Cat Pose (Marjaryasana),Seated Cow Pose (Bitilasana),Seated Eagle Arms (Garudhasana) Variation,Thread the Needle,Chest Opener,Downward Facing Dog (Adho Mukha Svanasana),Dolphin (Makarasana),Cobra (Bhujangasana),Wide Legged Forward Fold Pose (Prasarita Padottanasana),Locust (Salabhasana) variation,Bridge (Setu Bandhasana)"
+   },
+   {
+      "id":"964",
+      "condition_name":"Chronic fatigue syndrome",
+      "pose":"Adho Mukha Svanasana (Downward-Facing Dog),Uttanasana (Standing Forward Bend),Lying over cross-bolsters,CHILDS POSE (WIDE-LEGGED VARIATION),LEGS UP THE WALL POSE,STANDING FORWARD FOLD,SEATED FORWARD FOLD,SEATED FORWARD FOLD"
+   },
+   {
+      "id":"965",
+      "condition_name":"Protect against hamstring injury",
+      "pose":"Seated Forward Bend,Standing Forward Bend,Wide-Legged Forward Bend,Standing Forward Bend against the wall,Plow Pose with straight legs,Pigeon Pose,Lay on your back with one foot in the air and a strap around your foot"
+   },
+   {
+      "id":"966",
+      "condition_name":"Inflammatory bowel disease",
+      "pose":"uddiyana bandha,nauli "
+   },
+   {
+      "id":"967",
+      "condition_name":"IBS",
+      "pose":"Downward-Facing Dog,PARIGHASANA (GATE POSE),ARDHA MATSYENDRASANA (HALF-SEATED SPINAL TWIST),JATHARA PARIVRITTI (RECLINING ABDOMINAL TWIST)\n\n"
+   },
+   {
+      "id":"968",
+      "condition_name":"Liopsoas syndrome",
+      "pose":"Diaphragmatic Breathing in Savasana,Supine Knee to Chest Pose,Supported Bridge Variations,Side-Lying Iliopsoas Stretch,Low Lunge with Optional Side Bend,Warrior I with Optional Side Bend,Pelvic Tilts and Prone Savasana with Blanket Under Thighs"
+   },
+   {
+      "id":"969",
+      "condition_name":"Prostate cancer",
+      "pose":"Baddha Konasana (Cobbler Pose), Paripurna Navasana (Boat Pose),Supta Padangusthasana (Reclining Hand-To-Big Toe Pose),Virasana (Hero Pose)Janusirsasana (Head-To-Knee Pose)\n"
+   },
+   {
+      "id":"970",
+      "condition_name":"High blood pressure",
+      "pose":"Padmasana, Sidhasana, Pawanmuktasana, pashimotanasana, Sheetkari and Shitili Prnayama, Chandrabhedan Prnayama, Ujjayi Paranayama, Yoga Nidra."
+   },
+   {
+      "id":"971",
+      "condition_name":"Low Blood Pressure",
+      "pose":"Salamb Sirshasana, Sarvangasana, Halasana, Karn Pidasana, Virasana, Surya Namaskar, Shashankasana, nadi Shodhan Prnayama, Bhastrika Pranayama, Kapalbhati, Suryabhedan Prnayama, Savasana."
+   },
+   {
+      "id":"972",
+      "condition_name":"Chest related disease",
+      "pose":"Sirshasana, Sarvangasana, Surya Namaskar, Bhujangasana, Dhanurasana, Pasamasana, Pashimotanasana, Akarn Dhanuurasana, Vakasana, Baddhkonasana, Chakarasana, Kapotasana, Natarajasana, Ujjayi and Nadi Shodhana Prnayama, Yoga Nidra."
+   },
+   {
+      "id":"973",
+      "condition_name":"For the development of brain and memory power",
+      "pose":"Shirshasana, Sarvangasana, Pashimotanasana, Uttanasana, Yoga Mudrasana, Paadhastasana, Practice Meditation in Pasamasana or Sidhasana, Savasana, Anulom Vilom Pranayama, Surya Bhedan Prnayama, Bhastrika Prnayama, Yoga Nidra."
+   },
+   {
+      "id":"974",
+      "condition_name":"Colic/Abdominal pain",
+      "pose":"Shirshasana, Sarvangasana, Halasana, Uttanasana, Virasana, Supt Virasana, Vajrasana, Naukasana."
+   },
+   {
+      "id":"975",
+      "condition_name":"kidney disease",
+      "pose":"Shirshasana, Sarvangasana, Halasana, Pashimotanasana, Surya Namaskar, Ushtrasana, Shalbhasana, Dhanurasana, Half Naukasana, Matasyendrasana, Bhujangasana, Hanumanasana, Kapotasana."
+   },
+   {
+      "id":"976",
+      "condition_name":"Laziness",
+      "pose":"Shirshasana, Uttanasana, Sarvangasana, Paschimottanasana, Nadi Shodhna Pranayama."
+   },
+   {
+      "id":"977",
+      "condition_name":"Diariaha",
+      "pose":"Shirshasana, Sarvangasana, Janushirshasa, Nadi Shodhan Pranayama."
+   },
+   {
+      "id":"978",
+      "condition_name":"Visceral ulcer",
+      "pose":"Shirshasana, Sarvangasana, Paschimottanasana, Yoga Nidra, Ujjayi and Nadi Shodhana Pranayama, Uddiyana Bandha, Matsyendrasana."
+   },
+   {
+      "id":"979",
+      "condition_name":"Abdominal ulcer",
+      "pose":"Vajrasana, Mayurasana, Naukasana, Paadhastasana, Uttanasana, Padangusthasana, Shalabhasana."
+   },
+   {
+      "id":"980",
+      "condition_name":"Testicle growth",
+      "pose":"Shirshasana, Sarvangasana, Hanumanasana, Samkonasana, Paschimottanasana, Badh Konasana, Yoga Mudrasana, Brahmacharyasana, Vatayanasana, Vajrasana, Garudasana."
+   },
+   {
+      "id":"981",
+      "condition_name":"Heart disorder",
+      "pose":"Savasana, Ujjayi Parnayam, Yoga Nidra, Meditation in Sukhasana, Anulom Vilom Prnayama, Bharamari Prnayam."
+   },
+   {
+      "id":"982",
+      "condition_name":"Stomach disorder",
+      "pose":"Shirshasana, Sarvangasana, Paschimottanasana, Matsyendrasana, Dhaburasan, Bhujangasana, Mayurasana, Yoga Mudra, Uttanasana, Vajrasana, Pawanmuktasana, Trikonasana, Maha Mudra, Shalabhasana, Matsyendrasana, Ardh Chandrasana, Shashankasana, Padangusthasana."
+   },
+   {
+      "id":"983",
+      "condition_name":"Joint pain",
+      "pose":"Shirshasana, Sarvangasana, Padmasana, Siddhasana, Virasana, Paryankasana, Gaumukhasana, Paschimottanasana, Uttanasana, Pawanmuktasana."
+   },
+   {
+      "id":"984",
+      "condition_name":"Lungs disorder",
+      "pose":"Shirshasana, Sarvangasana, Padmasana, Surya Namaskar, Lolasana, Virasana, Chakarasana, Dhanurasana, Bharamari Pranayama, Anulom Vilom, Bhastrika."
+   },
+   {
+      "id":"985",
+      "condition_name":"Slip Disc/Servical Pain",
+      "pose":" Shalabhasana, Bhujangasana, Uttanapadasana, Vajrasana, Supt Vajrasana, Gaumukkhasana, Tadasana, Utkatasana, Makarasana, Dhanurasana."
+   },
+   {
+      "id":"986",
+      "condition_name":"to increase height",
+      "pose":"Tadasana, Surya Namaskar, Halasana, Dhanursana, Sarvangasna, Paschimottanasana.\n"
+   },
+   {
+      "id":"987",
+      "condition_name":"Deficiency of blood",
+      "pose":"Shirshasana, Sarvangasana, Paschimottanasana, Surya Namaskar, Ujjayi Pranayama, Nadi Dhodhana Pranayama and Kapalbhati."
+   },
+   {
+      "id":"988",
+      "condition_name":"Haemorrhoids",
+      "pose":"Shirshasana, Sarvangasana, Vipritkarani Mudra, Matasyasana, Singhasana, Salabhasana, Dhanurasana, Ujjayi and Nadi Shodhana Pranayama."
+   },
+   {
+      "id":"989",
+      "condition_name":"Insomnia/Anxiety/Mental impairment/Disappointment",
+      "pose":"Surya Namaskar, Sarvangasana, Kurmasana, Paschimottanasana, Shashankasana, Yoga Mudra, Uttanasana, Nadi Shodhan and Surya Bhedan Pranayama, Bharamari, Shitali and Sheetkari Pranayama, Yoga Nidra"
+   },
+   {
+      "id":"990",
+      "condition_name":"Nose problem",
+      "pose":"Sutraneti,Jalaneti,Kapalbhati"
+   }
+]

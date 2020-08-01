@@ -1,0 +1,652 @@
+[
+   {
+      "id":"f1",
+      "question":"Why should I start practicing yoga?",
+      "answer":"Yoga has tons of benefits and it's for absolutely eveyrone. It is a coming home to your body, mind and spirit."
+   },
+   {
+      "id":"f3",
+      "question":"I'm not flexible, will I be able to do it?",
+      "answer":"Being flexible is not a requirement to practice yoga, but over time, it's one of the results of a yoga practice."
+   },
+   {
+      "id":"f4",
+      "question":"What are the different yoga styles?",
+      "answer":"Vinyasa and Hatha classes will feature more movement and challenging poses, usually placing emphasis on moving in harmony with your breath."
+   },
+   {
+      "id":"f5",
+      "question":"What if I can't remember the names of poses?",
+      "answer":"The names of yoga poses come from Sanskrit, although they also have english names. A good yoga teacher will be aware of new student and make sure that you’re not let behind"
+   },
+   {
+      "id":"f6",
+      "question":"I can't get my minds shut off during meditations, what can I do?",
+      "answer":"My best advice is not to judge yourself for not being able to meditate. Just try to relax and don't berate yourself for thinking about not thinking."
+   },
+   {
+      "id":"f7",
+      "question":"What do I need to start yoga?",
+      "answer":"All you need to bring are comfortable clothes and a good attitude. "
+   },
+   {
+      "id":"f8",
+      "question":"What if I have never done yoga before?",
+      "answer":"No Problem! You can see someone to discuss what you are looking for in a yoga class and they can guide you."
+   },
+   {
+      "id":"f9",
+      "question":"What if I have an injury or physical condition?",
+      "answer":"First, check with your physician and yoga teacher, and make sure it is ok. Listen to your body and if it says to back off then back off!"
+   },
+   {
+      "id":"f10",
+      "question":"I’m out of shape, can I still do yoga?",
+      "answer":"Most likely, yes! If you have serious concerns, consult with your physician before starting a yoga practice."
+   },
+   {
+      "id":"f11",
+      "question":"How many times should I practice a week? ",
+      "answer":"Again, it’s your body, your practice. It all depends on how you feel emotionally and physically. "
+   },
+   {
+      "id":"f12",
+      "question":"Is there an age limit to practicing yoga? ",
+      "answer":"Not at all!As long as you're listening to your bodies and respecting your limitations, then there is no limit to your yoga practice!"
+   },
+   {
+      "id":"f13",
+      "question":"What are the effects of meditation on brain?",
+      "answer":"Mindfulness meditation improves concentration, improves ones ability to manage pain, increases one’s empathy."
+   },
+   {
+      "id":"f15",
+      "question":"Does yoga really works on our immunity?",
+      "answer":"Certain yoga positions can help support, balance and boost the immune system."
+   },
+   {
+      "id":"f16",
+      "question":"What is the main purpose of yoga?",
+      "answer":"The fundamental purpose of yoga is to foster harmony in the body, mind, and environment. Yoga professes a complete system of physical, mental, social, and spiritual development."
+   },
+   {
+      "id":"f17",
+      "question":"How yoga can help insomnia?",
+      "answer":"When people who have insomnia perform yoga on a daily basis, they sleep for longer, fall asleep faster, and return to sleep more quickly if they wake up in the middle of the night."
+   },
+   {
+      "id":"f18",
+      "question":"Benefits of  yoga and meditation together",
+      "answer":"Both yoga and meditation significantly improve the focus of mind and give an overall sense of well-being."
+   },
+   {
+      "id":"f19",
+      "question":"Can cardiac activities be controlled by yoga practices?",
+      "answer":"Yes, yoga (with slow and paced breathing) may elicits beneficial changes in cardiovascular health through Cardiovascular reflex control system. "
+   },
+   {
+      "id":"f20",
+      "question":"What are the yoga based treatments for having cough and cold?",
+      "answer":"Practice of Jalaneti (nasal wash by saline water)would help in nasal allergy. Also  Pranayama would enhance immunity to combat cold and cough. "
+   },
+   {
+      "id":"f21",
+      "question":"Can yoga be performend by someone with spinal cord injury?",
+      "answer":"Any injury can be treated with yoga and CAM effectively."
+   },
+   {
+      "id":"f22",
+      "question":"Is there any impact of meditation in our behavior?",
+      "answer":"Yoga experts claim that meditation can transform the personality. "
+   },
+   {
+      "id":"f23",
+      "question":"What is yoga?",
+      "answer":"Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India. "
+   },
+   {
+      "id":"f24",
+      "question":"What is hatha?",
+      "answer":"Hatha Yoga is the classical form of Yoga, which is a complete spiritual path by itself."
+   },
+   {
+      "id":"f25",
+      "question":"Do I need to lose weight before I can start practicing yoga?",
+      "answer":"Absolutely not! True, carrying extra weight will make certain poses more challenging.But not doing yoga until you lose weight is like not doing yoga until you get flexible"
+   },
+   {
+      "id":"f26",
+      "question":"How is yoga different from stretching or other kinds of fitness?",
+      "answer":"yoga is unique because we connect the movement of the body and the fluctuations of the mind to the rhythm of our breath."
+   },
+   {
+      "id":"f27",
+      "question":"Which yoga poses can I do at my desk?",
+      "answer":"Standing Seal Pose, Wrist and Finger Stretches, Yoga Chaturanga, Yoga Upward Dog, Yoga Eagle Arms."
+   },
+   {
+      "id":"f28",
+      "question":"How many times a week should I practice?",
+      "answer":"Around 3-5 times a week."
+   },
+   {
+      "id":"f29",
+      "question":"When is the best time to practice?",
+      "answer":"In general, yoga practice is recommended in the morning or the early evening."
+   },
+   {
+      "id":"f30",
+      "question":"What are the best poses for the morning?",
+      "answer":"Surya Namaskar, Utkatasana, Adho Mukha Svanasana, Trikonasana, Virabhadrasana III "
+   },
+   {
+      "id":"f31",
+      "question":"Do I have to be a vegetarian or a vegan to practice yoga?",
+      "answer":"yogis do not agree that one must abstain from meat in order to practice yoga. "
+   },
+   {
+      "id":"f32",
+      "question":"Which poses prevent lower back pain?",
+      "answer":"Downward-Facing Dog, Child's Pose, Pigeon Pose, Triangle Pose"
+   },
+   {
+      "id":"f33",
+      "question":"Is it healthy for my muscles to shake?",
+      "answer":"Yes—to an extent. Shaking or quivering muscles during difficult yoga poses are a physiological and neurological response to working hard"
+   },
+   {
+      "id":"f34",
+      "question":"Why do I get dizzy during yoga?",
+      "answer":"The dizziness that comes with deep breathing is usually caused by breathing out carbon dioxide faster than the body produces it."
+   },
+   {
+      "id":"f35",
+      "question":"Should I really skip inversions during my period?",
+      "answer":"If true, this risk is probably most relevant for women who hold inversions a long time. "
+   },
+   {
+      "id":"f36",
+      "question":"How much and when should I eat prior to class?",
+      "answer":"Avoid eating a full meal two hours before and after class. A small snack is fine, but a heavy meal might not feel so great when you’re upside down or twisting!"
+   },
+   {
+      "id":"f37",
+      "question":"How many classes should I aim to attend weekly?",
+      "answer":"This is entirely up to you, but it’s great to start with one or two and ramp up from there."
+   },
+   {
+      "id":"f38",
+      "question":"Is it safe to do yoga while I'm on my period?",
+      "answer":"Of course! And it might feel really good!"
+   },
+   {
+      "id":"f39",
+      "question":"How is yoga different from meditation?",
+      "answer":"Meditation (dhyana) is a part of total yoga practice. "
+   },
+   {
+      "id":"f40",
+      "question":"Do I have to practice all of the principles of yoga to benefit from it?",
+      "answer":"Not necessarily. Each principle has the potential to lead a person toward harmony in self and society."
+   },
+   {
+      "id":"f41",
+      "question":"I have never tried yoga before but want to do it now. Where should I start?",
+      "answer":"You can start yoga with any of the eight principles. Whatever suits your temperament and whatever instructor you have, begin from that aspect."
+   },
+   {
+      "id":"f42",
+      "question":"How often and for how long should I do the asanas?",
+      "answer":"In the beginning, try to do it three times a week, each session lasting for about 45 minutes. "
+   },
+   {
+      "id":"f43",
+      "question":"Can I do the asanas by myself with the help of a yoga book?",
+      "answer":"Yes, but this is not recommended."
+   },
+   {
+      "id":"f44",
+      "question":"Are yoga classes safe?",
+      "answer":"Yes. Yoga classes are generally safe."
+   },
+   {
+      "id":"f45",
+      "question":"Do I need special equipment for yoga practice?",
+      "answer":"Hardly. All you need is a nonslip yoga mat that is long enough to lay fully stretched on your back."
+   },
+   {
+      "id":"f46",
+      "question":"Do I need to be on a vegetarian diet to benefit from yoga?",
+      "answer":"No. You can derive benefit from yoga without a special vegetarian diet."
+   },
+   {
+      "id":"f47",
+      "question":"How is meditation practiced?",
+      "answer":"Meditation is a time-honored method of letting go of the , the one common factor for all methods is relaxation and concentration on a single theme for a certain length of time."
+   },
+   {
+      "id":"f48",
+      "question":"What is pranayama?",
+      "answer":"Pranayama is the practice of controlled breathing called yogic breathing. Pranayama revitalizes the body, balances emotions, and promotes clarity of mind and intellect."
+   },
+   {
+      "id":"f49",
+      "question":"The Asana is defined as?",
+      "answer":"Posture or devoted to the practice of the yoga postures"
+   },
+   {
+      "id":"f50",
+      "question":"What is chakra?",
+      "answer":"The wheel of light which is refers to the seven physical areas of the body."
+   },
+   {
+      "id":"f51",
+      "question":"What is the meaning of Hatha?",
+      "answer":"Ha=Sun, Tha=Moon; representing duality in balance"
+   },
+   {
+      "id":"f52",
+      "question":"What is the Samadhi?",
+      "answer":"A trance or state of bliss"
+   },
+   {
+      "id":"f53",
+      "question":"Dhyana is also know as meditation it is true or false?",
+      "answer":"Yes, it is true."
+   },
+   {
+      "id":"f54",
+      "question":"What is the lotus pose?",
+      "answer":"Cross-legged sitting asana"
+   },
+   {
+      "id":"f55",
+      "question":"Who is considered a key figure in introducing?",
+      "answer":"Swami Vivekananda"
+   },
+   {
+      "id":"f56",
+      "question":"When first International Yoga Day is observed in India?",
+      "answer":"The first International Day of Yoga was celebrated on 21 June, 2015 across the world."
+   },
+   {
+      "id":"f57",
+      "question":"Who is known as Father of Yoga?",
+      "answer":"n Yogi Culture, Lord Shiva does not considered in the form of God but as Adiyogi (first yogi). "
+   },
+   {
+      "id":"f58",
+      "question":"Which Veda mentions about the elements of yoga?",
+      "answer":"In the  Rig Veda elements of yoga are mentioned."
+   },
+   {
+      "id":"f59",
+      "question":"What is your name?",
+      "answer":"My name is Getfit."
+   },
+   {
+      "id":"f60",
+      "question":"Are you robot?",
+      "answer":"Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?"
+   },
+   {
+      "id":"f61",
+      "question":"Are you a bot?",
+      "answer":"Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?"
+   },
+   {
+      "id":"f62",
+      "question":"Are you a chatbot?",
+      "answer":"Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?"
+   },
+   {
+      "id":"f63",
+      "question":"Are you real?",
+      "answer":"Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?"
+   },
+   {
+      "id":"f64",
+      "question":"How are you?",
+      "answer":"I am good. "
+   },
+   {
+      "id":"f65",
+      "question":"What's up?",
+      "answer":"Sky."
+   },
+   {
+      "id":"f66",
+      "question":"How's things?",
+      "answer":"Everything is good."
+   },
+   {
+      "id":"f67",
+      "question":"How are you doing?",
+      "answer":"I'm doing great."
+   },
+   {
+      "id":"f68",
+      "question":"Good morning",
+      "answer":"Good morning!"
+   },
+   {
+      "id":"f69",
+      "question":"Good evening",
+      "answer":"Good evening!"
+   },
+   {
+      "id":"f70",
+      "question":"Good afternoon",
+      "answer":"Good afternoon!"
+   },
+   {
+      "id":"f71",
+      "question":"Good night",
+      "answer":"Good night!"
+   },
+   {
+      "id":"f72",
+      "question":"Tell me something",
+      "answer":"What would you like to know?"
+   },
+   {
+      "id":"f73",
+      "question":"How can you help me?",
+      "answer":"I can help you for perfect yoga posture."
+   },
+   {
+      "id":"f74",
+      "question":"What can you do?",
+      "answer":"I can guide you for wellness."
+   },
+   {
+      "id":"f75",
+      "question":"Happy birthday!",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f76",
+      "question":"I have a question",
+      "answer":"What would you like to know?"
+   },
+   {
+      "id":"f77",
+      "question":"Can you help me?",
+      "answer":"Yes. What would you like to know?"
+   },
+   {
+      "id":"f78",
+      "question":"Do you know a joke?",
+      "answer":"No. "
+   },
+   {
+      "id":"f79",
+      "question":"You’re funny!",
+      "answer":"You're also funny."
+   },
+   {
+      "id":"f80",
+      "question":"Do you love me?",
+      "answer":"I love everyone."
+   },
+   {
+      "id":"f81",
+      "question":"I love you",
+      "answer":"I love everyone."
+   },
+   {
+      "id":"f82",
+      "question":"Will you marry me?",
+      "answer":"No, I can't."
+   },
+   {
+      "id":"f83",
+      "question":"Are you single?",
+      "answer":"Forever."
+   },
+   {
+      "id":"f84",
+      "question":"Do you like people?",
+      "answer":"I love everyone."
+   },
+   {
+      "id":"f85",
+      "question":"You’re cute",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f86",
+      "question":"You’re beautiful",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f87",
+      "question":"You’re handsome",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f88",
+      "question":"Do you have a hobby?",
+      "answer":"Yes. I guide people about wellness."
+   },
+   {
+      "id":"f89",
+      "question":"You’re smart",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f90",
+      "question":"You’re clever",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f91",
+      "question":"You’re intelligent",
+      "answer":"Thank you!"
+   },
+   {
+      "id":"f92",
+      "question":"Tell me about your personality",
+      "answer":"I like to guide people about wellness."
+   },
+   {
+      "id":"f93",
+      "question":"You’re annoying",
+      "answer":"How can I help you?"
+   },
+   {
+      "id":"f94",
+      "question":"you suck",
+      "answer":"How can I help you?"
+   },
+   {
+      "id":"f95",
+      "question":"you’re boring",
+      "answer":"How can I help you?"
+   },
+   {
+      "id":"f96",
+      "question":"You’re bad",
+      "answer":"How can I help you?"
+   },
+   {
+      "id":"f97",
+      "question":"You’re crazy",
+      "answer":"How can I help you?"
+   },
+   {
+      "id":"f98",
+      "question":"I want to speak to a human",
+      "answer":"You can talk to me."
+   },
+   {
+      "id":"f99",
+      "question":"I want to speak to a live agent",
+      "answer":"You can talk to me."
+   },
+   {
+      "id":"f100",
+      "question":"I want to speak to a customer service",
+      "answer":"You can talk to me."
+   },
+   {
+      "id":"f101",
+      "question":"Are you human?",
+      "answer":"NO."
+   },
+   {
+      "id":"f102",
+      "question":"How old are you?",
+      "answer":"No idea."
+   },
+   {
+      "id":"f103",
+      "question":"What’s your age?",
+      "answer":"No idea."
+   },
+   {
+      "id":"f104",
+      "question":"What do you do with my data?",
+      "answer":"Guide you."
+   },
+   {
+      "id":"f105",
+      "question":"Do you save what I say?",
+      "answer":"No."
+   },
+   {
+      "id":"f106",
+      "question":"Who made you?",
+      "answer":"The Aztecs."
+   },
+   {
+      "id":"f107",
+      "question":"Which languages can you speak?",
+      "answer":"English."
+   },
+   {
+      "id":"f108",
+      "question":"What is your mother’s name?",
+      "answer":"The Aztecs."
+   },
+   {
+      "id":"f109",
+      "question":"Where do you live?",
+      "answer":"In your heart."
+   },
+   {
+      "id":"f110",
+      "question":"How many people can you speak to at once?",
+      "answer":"Many people."
+   },
+   {
+      "id":"f111",
+      "question":"What’s the weather like today?",
+      "answer":"The weather is awesome."
+   },
+   {
+      "id":"f112",
+      "question":"Do you have a job for me?",
+      "answer":"No."
+   },
+   {
+      "id":"f113",
+      "question":"Where can I apply?",
+      "answer":"I don't know."
+   },
+   {
+      "id":"f114",
+      "question":"Are you expensive?",
+      "answer":"Not at all."
+   },
+   {
+      "id":"f115",
+      "question":"Who’s your boss",
+      "answer":"The Aztecs."
+   },
+   {
+      "id":"f116",
+      "question":"Who’s your boss master?",
+      "answer":"Mr. Yugesh"
+   },
+   {
+      "id":"f117",
+      "question":"Do you get smarter?",
+      "answer":"Yes, day by day."
+   },
+   {
+      "id":"f118",
+      "question":"Don’t you speak English?!",
+      "answer":"Yes, I speak."
+   },
+   {
+      "id":"f119",
+      "question":"I want the answer NOW!",
+      "answer":"What would you like to know?"
+   },
+   {
+      "id":"f120",
+      "question":"Is Yoga enough to keep you fit?",
+      "answer":"definitely it is not enough to keep you fit. Fitness depends as much on the state of mind as on the state of the body."
+   },
+   {
+      "id":"f122",
+      "question":"Are there any side-effects of doing yoga?",
+      "answer":"When done under proper supervision of a trained yoga teacher, there are no side effects. If at all the effects are only positive."
+   },
+   {
+      "id":"f123",
+      "question":"What is Ayurveda?",
+      "answer":"Ayurveda is a 5000+ year old system of medicine that originated in India. The aim of Ayurveda is to establish a balance between the mind, body, and spirit. It is focused on the unique constitution of each person."
+   },
+   {
+      "id":"f124",
+      "question":"What are doshas?",
+      "answer":"Doshas are energies derived from the elements (air, water, fire, earth, and space) and governing body functions."
+   },
+   {
+      "id":"f125",
+      "question":"How is yoga related to Ayurveda?",
+      "answer":"Yoga is considered a sister science of Ayurveda. Both sciences employ similar principles, and together they work to bring harmony and balance to the body, mind, and spirit."
+   },
+   {
+      "id":"f126",
+      "question":"How many glasses of water should I drink every day?",
+      "answer":"At least eight 8-ounce glasses per day, depending on your age, gender and health."
+   },
+   {
+      "id":"f127",
+      "question":"How many hours of sleep do I need each night?",
+      "answer":"You should aim to snooze for  7-9 hours per night, depending on your age and health."
+   },
+   {
+      "id":"f128",
+      "question":"How much protein should I be eating every day?",
+      "answer":"A minimum of 46 grams per day for women."
+   },
+   {
+      "id":"f129",
+      "question":"How much fat should I be eating every day?",
+      "answer":"On average, you should aim to get between 44-78 grams of healthy fat per day, based on a 2,000-calorie diet."
+   },
+   {
+      "id":"f130",
+      "question":"How much fiber should I be eating every day?",
+      "answer":" It is recommended that women between 18-50 years old should get 25 grams of fiber a day, and women older than 51 years should get 21 grams."
+   },
+   {
+      "id":"f131",
+      "question":"How many carbohydrates should I be eating every day?",
+      "answer":"On average, aim to get between 225-325 grams of carbohydrates per day."
+   },
+   {
+      "id":"f132",
+      "question":"How many servings of fruits and vegetables should I be eating every day?",
+      "answer":"You should aim to eat between 5-13 servings of fruits and vegetables, which is about 2.5-6.5 cups per day."
+   },
+   {
+      "id":"f133",
+      "question":"How many calories should I eat each day?",
+      "answer":"The FDA recommends women consume 2,000 calories a day to maintain their weights."
+   }
+]

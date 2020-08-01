@@ -1,0 +1,534 @@
+{
+   "entities":[
+      {
+         "id":"m2",
+         "cname":"Piles",
+         "whitelist":["Bawasir"]
+      },
+      {
+         "id":"m3",
+         "cname":"Kidney stone",
+         "whitelist":["Gall stone"]
+      },
+      {
+         "id":"m4",
+         "cname":"Urinary problems",
+         "whitelist":[
+            "Urinary problems"
+         ]
+      },
+      {
+         "id":"m5",
+         "cname":"Abdominal pain",
+         "whitelist":[
+            "Dyspepsia",
+            "Indigestion",
+            "Liver diseases"
+         ]
+      },
+      {
+         "id":"m6",
+         "cname":"Constipation",
+         "whitelist":[
+            "digestive disorders"
+         ]
+      },
+      {
+         "id":"m7",
+         "cname":"Eczema",
+         "whitelist":[
+            "Psoriasis",
+            "Skin diseases",
+            "skin problems",
+            "Leukoderma",
+            "Scabies"
+         ]
+      },
+      {
+         "id":"m8",
+         "cname":"Skin diseases",
+         "whitelist":[
+            "Wounds Itching"
+         ]
+      },
+      {
+         "id":"m9",
+         "cname":"Liver problems",
+         "whitelist":[
+            "Fungal infections",
+            "Inflamatory diseases"
+         ]
+      },
+      {
+         "id":"m10",
+         "cname":"Hairfall",
+         "whitelist":[
+            "Scalp nourishment",
+            "Headaches"
+         ]
+      },
+      {
+         "id":"m11",
+         "cname":"Flatulence",
+         "whitelist":[
+            "Constipation",
+            "Abdominal distension",
+            "Gas",
+            "Acidity"
+         ]
+      },
+      {
+         "id":"m12",
+         "cname":"Intestinal faeces",
+         "whitelist":[
+            "Abdominal pain",
+            "Nausea"
+         ]
+      },
+      {
+         "id":"m13",
+         "cname":"Improves immunity",
+         "whitelist":[
+            "Improves digestion",
+            "Strengthens body",
+            "Tranquilizes brain",
+            "Strengthens liiver",
+            "Cholestrol control"
+         ]
+      },
+      {
+         "id":"m14",
+         "cname":"Cholera",
+         "whitelist":[
+            "Headache",
+            "Indigestion",
+            "Tooth ache",
+            "Ear disease",
+            "Epistaxis",
+            "Trauma",
+            "Urticaria",
+            "Coughing",
+            "Colic pain",
+            "gas",
+            "Asthama"
+         ]
+      },
+      {
+         "id":"m15",
+         "cname":"Strengthens gums",
+         "whitelist":[
+            "Avoid foul smell",
+            "Tooth problems"
+         ]
+      },
+      {
+         "id":"m16",
+         "cname":"Joint pain",
+         "whitelist":[
+            "Arthiritis",
+            "Lumbar pain",
+            "Cervial Spondylisis",
+            "Sciatica",
+            "All bodily pains"
+         ]
+      },
+      {
+         "id":"m17",
+         "cname":"Arthiritis",
+         "whitelist":[
+            "Joint pain",
+            "Arthiritis",
+            "All type of mascular",
+            "skeletal pains"
+         ]
+      },
+      {
+         "id":"m18",
+         "cname":"Knee pain",
+         "whitelist":[
+            "Slip disc",
+            "Trauma",
+            "Oedema",
+            "Inflamation"
+         ]
+      },
+      {
+         "id":"m19",
+         "cname":"Strengthens body",
+         "whitelist":[
+            "heart and brain",
+            "Promotes sexual desires",
+            "Impotency"
+         ]
+      },
+      {
+         "id":"m20",
+         "cname":"Pancreatic disorders",
+         "whitelist":[
+            "Brain health",
+            " Numb hands and feet",
+            "Diabetic weakness and tension",
+            "Morbid thirst",
+            "Frequent urination",
+            "Weight loss",
+            "tiredness",
+            "Blurred vision",
+            "Infection of skin",
+            "gums",
+            "urethra"
+         ]
+      },
+      {
+         "id":"m22",
+         "cname":"High blood pressure",
+         "whitelist":[
+            "Insomnia",
+            "Kidney disorders",
+            "heart diseases",
+            "uneasiness"
+         ]
+      },
+      {
+         "id":"m23",
+         "cname":"Chronic headache",
+         "whitelist":[
+            "Migraine",
+            "Sleeplessness",
+            "Negativity",
+            "depression",
+            "uneasiness",
+            "Promotes memory"
+         ]
+      },
+      {
+         "id":"m24",
+         "cname":"Mental disorders",
+         "whitelist":[
+            "confidence and memory",
+            "Cools down the brain"
+         ]
+      },
+      {
+         "id":"m25",
+         "cname":"Rejuvenation",
+         "whitelist":[
+            "Body nourisment",
+            "Eye disorders"
+         ]
+      },
+      {
+         "id":"m26",
+         "cname":"Indigestions",
+         "whitelist":[
+            "Thyroid disorders",
+            "Joint pains",
+            "Arthiritis",
+            "Obesity"
+         ]
+      },
+      {
+         "id":"m27",
+         "cname":"Lung disorders",
+         "whitelist":[
+            "Lung disorders",
+            "Promotes lung immuity",
+            "Cough",
+            "Cold",
+            "Sneezing",
+            "Sinusitis"
+         ]
+      },
+      {
+         "id":"m28",
+         "cname":"Irregular menstruation",
+         "whitelist":[
+            "Leucorrhoea",
+            "Menorrhagia",
+            "pain in lower abdomen or lumbar region",
+            "Excessive bleeding during menstruation",
+            "Face wrinkles",
+            "Laziness"
+         ]
+      },
+      {
+         "id":"m29",
+         "cname":"Heart health",
+         "whitelist":[
+            "Angina pain"
+         ]
+      },
+      {
+         "id":"m30",
+         "cname":"Sciatica",
+         "whitelist":[
+            "Arthiritis",
+            "Back and lumbar pain",
+            "Indigestion"
+         ]
+      },
+      {
+         "id":"m31",
+         "cname":"Leucorrhoea",
+         "whitelist":[
+            "Nervous system and kidney disorders",
+            "Promotes strength and quantity of semen",
+            "Urinary disorders",
+            "Night fall"
+         ]
+      },
+      {
+         "id":"m32",
+         "cname":"Hepatitis B",
+         "whitelist":[
+            "Hepatitis C",
+            "Jaundice",
+            "Liver disorders",
+            "Oedema",
+            "Oliguria",
+            "Stomach pain",
+            "Indigestion"
+         ]
+      },
+      {
+         "id":"m33",
+         "cname":"Pimple",
+         "whitelist":[
+            "Acne",
+            "Wrinkles",
+            "Loss of shine",
+            "Darkness"
+         ]
+      },
+      {
+         "id":"m34",
+         "cname":"Improves digestion",
+         "whitelist":[
+            "Constipation",
+            "Reduce joint pain",
+            "Enhance oral health"
+         ]
+      },
+      {
+         "id":"m35",
+         "cname":[
+            "Immunity"
+         ]
+      },
+      {
+         "id":"m36",
+         "cname":[
+            "Increase blood"
+         ]
+      },
+      {
+         "id":"m37",
+         "cname":"Boosts memory",
+         "whitelist":[
+            "Stress, Anxiety",
+            "Controls cortisol level in body, memory",
+            "male fertility"
+         ]
+      },
+      {
+         "id":"m38",
+         "cname":"Asthama",
+         "whitelist":[
+            "Stress",
+            "Anxiety",
+            "Controls cortisol level in body",
+            "male fertility"
+         ]
+      },
+      {
+         "id":"m39",
+         "cname":"ADHD",
+         "whitelist":[
+            "Improves brain function",
+            "Lower inflamation"
+         ]
+      },
+      {
+         "id":"m40",
+         "cname":"Diabetes",
+         "whitelist":[
+            "Heart disease",
+            "IBS",
+            "Protect against food borne disease"
+         ]
+      },
+      {
+         "id":"m41",
+         "cname":"Inflamation",
+         "whitelist":[
+            "Heart health",
+            "Brain health"
+         ]
+      },
+      {
+         "id":"m42",
+         "cname":"Inflamation",
+         "whitelist":[
+            "Infections",
+            "Digestive problems",
+            "skin irritation"
+         ]
+      },
+      {
+         "id":"m43",
+         "cname":"Stress",
+         "whitelist":[
+            "Anxiety",
+            "Depression",
+            "Boosts memory",
+            "Various skin conditions"
+         ]
+      },
+      {
+         "id":"m44",
+         "cname":"Lowers blood sugar level",
+         "whitelist":[
+            "Boosts insulin secretion",
+            "Reduces bad cholestrol level"
+         ]
+      },
+      {
+         "id":"m45",
+         "cname":"Lowers blood pressure",
+         "whitelist":[
+            "Improves breathing",
+            "Stomach ulcers"
+         ]
+      },
+      {
+         "id":"m46",
+         "cname":"Controls Blood Pressure",
+         "whitelist":["Blood Pressure"]
+      },
+      {
+         "id":"m47",
+         "cname":"Stomach problems",
+         "whitelist":["Stomach"]
+      },
+      {
+         "id":"m48",
+         "cname":"Menstrual problems",
+         "whitelist":["Menstrual"]
+      },
+      {
+         "id":"m49",
+         "cname":"Fever",
+         "whitelist":["temperature"]
+      },
+      {
+         "id":"m50",
+         "cname":"Poly Cystic Ovarian Disorders",
+         "whitelist":[
+            "PCOD"
+         ]
+      },
+      {
+         "id":"m51",
+         "cname":"Diabetes",
+         "whitelist":["Sugar"]
+      },
+      {
+         "id":"m52",
+         "cname":"Amlapitta",
+         "whitelist":["pitta"]
+      },
+      {
+         "id":"m53",
+         "cname":"Constipation",
+         "whitelist":[
+            "Acidity",
+            "Stomach problems"
+         ]
+      },
+      {
+         "id":"m54",
+         "cname":"Cough",
+         "whitelist":["Cold"]
+      },
+      {
+         "id":"m55",
+         "cname":"Nasal problems",
+         "whitelist":["Nasal"]
+      },
+      {
+         "id":"m56",
+         "cname":"Renal calculi",
+         "whitelist":["Renal"]
+      },
+      {
+         "id":"m57",
+         "cname":"Blocked nostrils",
+         "whitelist":["nostrils"]
+      },
+      {
+         "id":"m58",
+         "cname":"Cardiac diseases",
+         "whitelist":["Cardiac"]
+      },
+      {
+         "id":"m59",
+         "cname":"Cardiovascular disease",
+         "whitelist":["Cardiovascular"]
+      },
+      {
+         "id":"m60",
+         "cname":"Hyper acidity",
+         "whitelist":["acidity"]
+      },
+      {
+         "id":"m61",
+         "cname":"Flatulence",
+         "whitelist":["Flatu"]
+      },
+      {
+         "id":"m62",
+         "cname":"Indigestion",
+         "whitelist":[
+            "Stomach pain",
+            "Diarrhea"
+         ]
+      },
+      {
+         "id":"m63",
+         "cname":"Skin irritation",
+         "whitelist":[
+            "Itchy skin"
+         ]
+      },
+      {
+         "id":"m64",
+         "cname":"Joint pain",
+         "whitelist":[
+            "Osteoarthiritis",
+            "Cervical spondylosis"
+         ]
+      },
+      {
+         "id":"m65",
+         "cname":"Allergy",
+         "whitelist":[
+            "Flu",
+            "Asthama",
+            "Cough",
+            "Cold",
+            "Improves immunity"
+         ]
+      },
+      {
+         "id":"m65",
+         "cname":"Panchatulsi drops",
+         "whitelist":[
+            "Allergy",
+            "Flu",
+            "Asthama",
+            "Cough",
+            "Cold",
+            "Improves immunity"
+         ]
+      }
+   ]
+}

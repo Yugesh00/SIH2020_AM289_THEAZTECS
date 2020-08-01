@@ -1,0 +1,154 @@
+{
+   "entities":[
+      {
+         "id":"c1",
+         "cname":"Fitness",
+         "whitelist":[]
+      },
+      {
+         "id":"c2",
+         "cname":"Strength",
+         "whitelist":[]
+      },
+      {
+         "id":"c3",
+         "cname":"Full body workout",
+         "whitelist":[]
+      },
+      {
+         "id":"c4",
+         "cname":"Kids",
+         "whitelist":[]
+      },
+      {
+         "id":"c5",
+         "cname":"Old people",
+         "whitelist":[]
+      },
+      {
+         "id":"c6",
+         "cname":"Pregnant women",
+         "whitelist":[]
+      },
+      {
+         "id":"c7",
+         "cname":"Weight gain",
+         "whitelist":[]
+      },
+      {
+         "id":"c8",
+         "cname":"Weight loss",
+         "whitelist":[]
+      },
+      {
+         "id":"c9",
+         "cname":"Acidity",
+         "whitelist":[]
+      },
+      {
+         "id":"c10",
+         "cname":"Headache",
+         "whitelist":[]
+      },
+      {
+         "id":"c11",
+         "cname":"Beginner",
+         "whitelist":[]
+      },
+      {
+         "id":"c12",
+         "cname":"Digestion",
+         "whitelist":[]
+      },
+      {
+         "id":"c13",
+         "cname":"Flexibility",
+         "whitelist":[]
+      },
+      {
+         "id":"c14",
+         "cname":"Build muscle",
+         "whitelist":[]
+      },
+      {
+         "id":"c15",
+         "cname":"Perfect posture",
+         "whitelist":[]
+      },
+      {
+         "id":"c16",
+         "cname":"Bone health",
+         "whitelist":[]
+      },
+      {
+         "id":"c17",
+         "cname":"Increase bloodflow",
+         "whitelist":[]
+      },
+      {
+         "id":"c18",
+         "cname":"Boost immunity",
+         "whitelist":[]
+      },
+      {
+         "id":"c19",
+         "cname":"Up heart rate",
+         "whitelist":[]
+      },
+      {
+         "id":"c20",
+         "cname":"Feel happier",
+         "whitelist":[]
+      },
+      {
+         "id":"c21",
+         "cname":"Healthy lifestyle",
+         "whitelist":[]
+      },
+      {
+         "id":"c22",
+         "cname":"To lower blood sugar",
+         "whitelist":[]
+      },
+      {
+         "id":"c23",
+         "cname":"Focus",
+         "whitelist":[]
+      },
+      {
+         "id":"c24",
+         "cname":"Improve balance",
+         "whitelist":[]
+      },
+      {
+         "id":"c25",
+         "cname":"Maintain nervous system",
+         "whitelist":[]
+      },
+      {
+         "id":"c26",
+         "cname":"Sleep deeper",
+         "whitelist":[]
+      },
+      {
+         "id":"c27",
+         "cname":"Increase self esteem",
+         "whitelist":[]
+      },
+      {
+         "id":"c28",
+         "cname":"Inner strength",
+         "whitelist":[]
+      },
+      {
+         "id":"c29",
+         "cname":"Drug free",
+         "whitelist":[]
+      },
+      {
+         "id":"c30",
+         "cname":"Corona",
+         "whitelist":[]
+      }
+   ]
+}

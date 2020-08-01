@@ -1,0 +1,452 @@
+{
+   "entities":[
+      {
+         "id":"m2",
+         "cname":"Divya Arsa Kalpa Vati",
+         "whitelist":[
+            "Arsa Kalpa Vati"
+         ]
+      },
+      {
+         "id":"m3",
+         "cname":"Divya Asmari - Hara Kvatha",
+         "whitelist":[
+            "Asmari - Hara Kvatha"
+         ]
+      },
+      {
+         "id":"m4",
+         "cname":"Divya Asmarihara Rasa",
+         "whitelist":[
+            "Asmarihara Rasa"
+         ]
+      },
+      {
+         "id":"m5",
+         "cname":"Divya Udramrit Vati",
+         "whitelist":[
+            "Udramrit Vati"
+         ]
+      },
+      {
+         "id":"m6",
+         "cname":"Divya Udara Kalpa Churna",
+         "whitelist":[
+            "Udara Kalpa Churna"
+         ]
+      },
+      {
+         "id":"m7",
+         "cname":"Divya Kaya Kalpa Vati",
+         "whitelist":[
+            "Kaya Kalpa Vati"
+         ]
+      },
+      {
+         "id":"m8",
+         "cname":"Divya Kaya Kalpa Taila",
+         "whitelist":[
+            "Kaya Kalpa Taila"
+         ]
+      },
+      {
+         "id":"m9",
+         "cname":"Divya Kaya Kalpa Kwatha",
+         "whitelist":[
+            "Kaya Kalpa Kwatha"
+         ]
+      },
+      {
+         "id":"m10",
+         "cname":"Divya Kesh Taila",
+         "whitelist":[
+            "Kesh Taila"
+         ]
+      },
+      {
+         "id":"m11",
+         "cname":"Divya Gaisa - Hara Churna",
+         "whitelist":[
+            "Gaisa - Hara Churna"
+         ]
+      },
+      {
+         "id":"m12",
+         "cname":"Divya Churna",
+         "whitelist":[
+            "Churna"
+         ]
+      },
+      {
+         "id":"m13",
+         "cname":"Divya Peya",
+         "whitelist":[
+            "Peya"
+         ]
+      },
+      {
+         "id":"m14",
+         "cname":"Divya dhara",
+         "whitelist":[
+            "dhara"
+         ]
+      },
+      {
+         "id":"m15",
+         "cname":"Divya Danta Manjan",
+         "whitelist":[
+            "Danta Manjan"
+         ]
+      },
+      {
+         "id":"m16",
+         "cname":"Divya Pidantaka Rasa",
+         "whitelist":[
+            "Pidantaka Rasa"
+         ]
+      },
+      {
+         "id":"m17",
+         "cname":"Divya Pidantaka Kwatha",
+         "whitelist":[
+            "Pidantaka Kwatha"
+         ]
+      },
+      {
+         "id":"m18",
+         "cname":"Divya Pidantaka Taila",
+         "whitelist":[
+            "Pidantaka Taila"
+         ]
+      },
+      {
+         "id":"m19",
+         "cname":"Divya Yuavanamrita Vati",
+         "whitelist":[
+            "Yuavanamrita Vati"
+         ]
+      },
+      {
+         "id":"m20",
+         "cname":"Divya Madhunasini Vati",
+         "whitelist":[
+            "Madhunasini Vati"
+         ]
+      },
+      {
+         "id":"m21",
+         "cname":"Divya Madhukalpa Vati",
+         "whitelist":[
+            "Madhukalpa Vati"
+         ]
+      },
+      {
+         "id":"m22",
+         "cname":"Divya Mukta Vati",
+         "whitelist":[
+            "Mukta Vati"
+         ]
+      },
+      {
+         "id":"m23",
+         "cname":"Divya Medha Kwatha",
+         "whitelist":[
+            "Medha Kwatha"
+         ]
+      },
+      {
+         "id":"m24",
+         "cname":"Divya Medha Vati",
+         "whitelist":[
+            "Medha Vati"
+         ]
+      },
+      {
+         "id":"m25",
+         "cname":"Divya Amrita Rasayana",
+         "whitelist":[
+            "Amrita Rasayana"
+         ]
+      },
+      {
+         "id":"m26",
+         "cname":"Divya Medohara Vati",
+         "whitelist":[
+            "Medohara Vati"
+         ]
+      },
+      {
+         "id":"m27",
+         "cname":"Divya Swasari Rasa",
+         "whitelist":[
+            "Swasari Rasa"
+         ]
+      },
+      {
+         "id":"m28",
+         "cname":"Divya Stri Rasayana Vati",
+         "whitelist":[
+            "Stri Rasayana Vati"
+         ]
+      },
+      {
+         "id":"m29",
+         "cname":"Divya Hridayamrita Vati",
+         "whitelist":[
+            "Hridayamrita Vati"
+         ]
+      },
+      {
+         "id":"m30",
+         "cname":"Divya Vatari Churna",
+         "whitelist":[
+            "Vatari Churna"
+         ]
+      },
+      {
+         "id":"m31",
+         "cname":"Divya Shilajita Rasayana Vati",
+         "whitelist":[
+            "Shilajita Rasayana Vati"
+         ]
+      },
+      {
+         "id":"m32",
+         "cname":"Divya Sarva Kalpa Kwatha",
+         "whitelist":[
+            "Sarva Kalpa Kwatha"
+         ]
+      },
+      {
+         "id":"m33",
+         "cname":"Divya Kanti Lepa",
+         "whitelist":[
+            "Kanti Lepa"
+         ]
+      },
+      {
+         "id":"m34",
+         "cname":"Trifala",
+         "whitelist":[
+            "Trifala tablets"
+         ]
+      },
+      {
+         "id":"m35",
+         "cname":"Giloy",
+         "whitelist":[
+            "Giloy tablets"
+         ]
+      },
+      {
+         "id":"m36",
+         "cname":"Lohasava",
+         "whitelist":[
+            "Lohasava tablets"
+         ]
+      },
+      {
+         "id":"m37",
+         "cname":"Ashwagandha",
+         "whitelist":[
+            "Ashwagandha tablets"
+         ]
+      },
+      {
+         "id":"m38",
+         "cname":"Boswellia",
+         "whitelist":[
+            "Boswellia tablets"
+         ]
+      },
+      {
+         "id":"m39",
+         "cname":"Brahmi",
+         "whitelist":[
+            "Brahmi tablets"
+         ]
+      },
+      {
+         "id":"m40",
+         "cname":"Cumin",
+         "whitelist":[
+            "Cumin tablets"
+         ]
+      },
+      {
+         "id":"m41",
+         "cname":"Turmeric",
+         "whitelist":[
+            "Turmeric tablets"
+         ]
+      },
+      {
+         "id":"m42",
+         "cname":"Licorice root",
+         "whitelist":[
+            "Licorice root tablets"
+         ]
+      },
+      {
+         "id":"m43",
+         "cname":"Gotu Kola",
+         "whitelist":[
+            "Gotu Kola tablets"
+         ]
+      },
+      {
+         "id":"m44",
+         "cname":"Bitter melon",
+         "whitelist":[
+            "Bitter melon tablets"
+         ]
+      },
+      {
+         "id":"m45",
+         "cname":"Cardamom",
+         "whitelist":[
+            "Cardamom tablets"
+         ]
+      },
+      {
+         "id":"m46",
+         "cname":"Muktawati",
+         "whitelist":[
+            "Muktawati tablets"
+         ]
+      },
+      {
+         "id":"m47",
+         "cname":"Pravalpishti",
+         "whitelist":[
+            "Pravalpishti tablets"
+         ]
+      },
+      {
+         "id":"m48",
+         "cname":"Shatavari",
+         "whitelist":[
+            "Shatavari tablets"
+         ]
+      },
+      {
+         "id":"m49",
+         "cname":"Mahasudarshan kadha/churna",
+         "whitelist":[
+            "Mahasudarshan churna"
+         ]
+      },
+      {
+         "id":"m50",
+         "cname":"Pravalpishti",
+         "whitelist":[
+            "Pravalpishti tablets"
+         ]
+      },
+      {
+         "id":"m51",
+         "cname":"Madhunashini",
+         "whitelist":[
+            "Madhunashini tablets"
+         ]
+      },
+      {
+         "id":"m52",
+         "cname":"Kamadudha",
+         "whitelist":[
+            "Kamadudha tablets"
+         ]
+      },
+      {
+         "id":"m53",
+         "cname":"Abhayarishta",
+         "whitelist":[
+            "Abhayarishta tablets"
+         ]
+      },
+      {
+         "id":"m54",
+         "cname":"Arogya vati",
+         "whitelist":[
+            "Arogya vati tablets"
+         ]
+      },
+      {
+         "id":"m55",
+         "cname":"Shwasari",
+         "whitelist":[
+            "Shwasari tablets"
+         ]
+      },
+      {
+         "id":"m56",
+         "cname":"Ashmarihar ras",
+         "whitelist":[
+            "Ashmarihar ras tablets"
+         ]
+      },
+      {
+         "id":"m57",
+         "cname":"Anu tel",
+         "whitelist":[
+            "Anu tel tablets"
+         ]
+      },
+      {
+         "id":"m58",
+         "cname":"Hridayamrit",
+         "whitelist":[
+            "Hridayamrit tablets"
+         ]
+      },
+      {
+         "id":"m59",
+         "cname":"Guggul",
+         "whitelist":[
+            "Guggul tablets"
+         ]
+      },
+      {
+         "id":"m60",
+         "cname":"Avipattikara churna",
+         "whitelist":[
+            "Avipattikara"
+         ]
+      },
+      {
+         "id":"m61",
+         "cname":"Ajwain ark",
+         "whitelist":[
+            "ark"
+         ]
+      },
+      {
+         "id":"m62",
+         "cname":"Lasunadi vati/Gutika",
+         "whitelist":[
+            "Gutika"
+         ]
+      },
+      {
+         "id":"m63",
+         "cname":"Neem ghrita",
+         "whitelist":[
+            "ghrita"
+         ]
+      },
+      {
+         "id":"m64",
+         "cname":"Narayana taila",
+         "whitelist":[
+            "Narayana"
+         ]
+      },
+      {
+         "id":"m65",
+         "cname":"Panchatulsi drops",
+         "whitelist":[
+            "Panchatulsi"
+         ]
+      }
+   ]
+}

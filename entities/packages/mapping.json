@@ -1,0 +1,15 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "therapies",
+                "programs",
+                "treatments",
+                "package"
+            ],
+            "cname": "packages"
+        }
+    ]
+}
+
+

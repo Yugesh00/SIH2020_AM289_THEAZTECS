@@ -1,0 +1,15 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "precautions",
+            "precaution",
+            "care",
+            "advice",
+            "advices",
+            "affect"
+         ],
+         "cname":"pose_precautions"
+      }
+   ]
+}

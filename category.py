@@ -27,7 +27,7 @@ def category(request, responder):
 
 
     try:
-        responder.reply("For {category} you can perform {asanas}")
+        responder.reply("For {category} you can perform {asanas} \n\n Which yoga asanas would you like to know about?")
     except KeyError:
         responder.reply('Currently, I am not able to find a yoga pose for this category.')
 

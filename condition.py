@@ -27,7 +27,7 @@ def condition(request, responder):
 
 
     try:
-        responder.reply("For {condition_name} you can do yoga poses like {pose}")
+        responder.reply("For {condition_name} you can do yoga poses like {pose} \n\n Which yoga pose would you like to know about?")
     except KeyError:
         responder.reply('Currently, I am not able to find a yoga pose for this.')
 

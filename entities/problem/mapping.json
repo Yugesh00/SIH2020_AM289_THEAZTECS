@@ -1,0 +1,1243 @@
+{
+   "entities":[
+      {
+         "id":"m1",
+         "cname":"Piles",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m2",
+         "cname":"Kidney stone",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m3",
+         "cname":"Gall stone",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m4",
+         "cname":"Urinary problems.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m5",
+         "cname":"Abdominal pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m6",
+         "cname":"Dyspepsia",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m7",
+         "cname":"Liver diseases",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m8",
+         "cname":"Indigestion",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m9",
+         "cname":"Constipation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m10",
+         "cname":"Digestive disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m11",
+         "cname":"Eczema",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m12",
+         "cname":"Skin diseases/problems",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m13",
+         "cname":"Leukoderma",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m14",
+         "cname":"Scabies",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m15",
+         "cname":"Psoriasis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m16",
+         "cname":"Wounds Itching",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m17",
+         "cname":"Fungal infections",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m18",
+         "cname":"Hairfall",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m19",
+         "cname":"Headaches",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m20",
+         "cname":"Scalp nourishment",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m21",
+         "cname":"Flatulence",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m22",
+         "cname":"Abdominal distension",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m23",
+         "cname":"Acidity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m24",
+         "cname":"Intestinal faeces",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m25",
+         "cname":"Abdominal pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m26",
+         "cname":"Nausea",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m27",
+         "cname":"Improves immunity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m28",
+         "cname":"Cholestrol control",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m29",
+         "cname":"Strengthens liiver",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m30",
+         "cname":"Tranquilizes brain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m31",
+         "cname":"Strengthens body",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m32",
+         "cname":"Improves digestion",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m33",
+         "cname":"Cholera",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m34",
+         "cname":"Asthama",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m35",
+         "cname":"Gas",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m36",
+         "cname":"Colic pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m37",
+         "cname":"Trauma",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m38",
+         "cname":"Epistaxis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m39",
+         "cname":"Ear disease",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m40",
+         "cname":"Headache",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m41",
+         "cname":"Urticaria",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m42",
+         "cname":"Strengthens gums",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m43",
+         "cname":"Tooth problems",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m44",
+         "cname":"Avoid foul smell",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m45",
+         "cname":"Sciatica",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m46",
+         "cname":"Cervical spindylisis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m47",
+         "cname":"Lumbar pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m48",
+         "cname":"Arthritis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m49",
+         "cname":"All bodily pains",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m50",
+         "cname":"All type of mascular and skeletal pains",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m51",
+         "cname":"Knee pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m52",
+         "cname":"Slip disc",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m53",
+         "cname":"Trauma",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m54",
+         "cname":"Oedema",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m55",
+         "cname":"Inflamation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m56",
+         "cname":"Strengthens body, heart and brain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m57",
+         "cname":"Promoes sexual desires",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m58",
+         "cname":"Impotency",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m59",
+         "cname":"Pancreatic disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m60",
+         "cname":"Infection of skin, gums and urethra",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m61",
+         "cname":"Blurred vision",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m62",
+         "cname":"Frequent urination",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m63",
+         "cname":"Morbid thirst",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m64",
+         "cname":"Weight loss",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m65",
+         "cname":"Tiredness",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m66",
+         "cname":"Diabetic weakness and tension",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m67",
+         "cname":"Numb hands and feet",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m68",
+         "cname":"Brain health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m69",
+         "cname":"Pancreatic disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m70",
+         "cname":"High blood pressure",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m71",
+         "cname":"Insomnia",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m72",
+         "cname":"Kidney disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m73",
+         "cname":"Heart diseases",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m74",
+         "cname":"Uneasiness",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m75",
+         "cname":"Chronic headache",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m76",
+         "cname":"Migraine",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m77",
+         "cname":"Sleeplessness",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m78",
+         "cname":"Negativity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m79",
+         "cname":"Depression",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m80",
+         "cname":"Promotes memory",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m81",
+         "cname":"Mental disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m82",
+         "cname":"Promotes self - confidence and memory",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m83",
+         "cname":"Cools down the brain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m84",
+         "cname":"Rejuvenation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m85",
+         "cname":"Body nourishment",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m86",
+         "cname":"Eye disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m87",
+         "cname":"Thyroid disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m88",
+         "cname":"Obesity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m89",
+         "cname":"Lung disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m90",
+         "cname":"Promotes lung immunity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m91",
+         "cname":"Sneezing",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m92",
+         "cname":"Sinusitis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m93",
+         "cname":"Irregular menstruation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m94",
+         "cname":"Leucorrhoea",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m95",
+         "cname":"Menorrhoea",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m96",
+         "cname":"Pain in lower abdomen or lumbar region",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m97",
+         "cname":"Excessive bleeding during menstruation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m98",
+         "cname":"Face wrinkles",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m99",
+         "cname":"Laziness",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m100",
+         "cname":"Heart health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m101",
+         "cname":"Angina pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m102",
+         "cname":"Back and lumbar pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m103",
+         "cname":"Sciatica",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m104",
+         "cname":"Nervous system and kidney disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m105",
+         "cname":"Promotes strength and quantity of semen",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m106",
+         "cname":"Urinary disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m107",
+         "cname":"Night fall",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m108",
+         "cname":"Leucorrhoea",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m109",
+         "cname":"Hepatitis B",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m110",
+         "cname":"Hepatitis C",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m111",
+         "cname":"Jaundice",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m112",
+         "cname":"Liver disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m113",
+         "cname":"Oedema",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m114",
+         "cname":"Oliguria",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m115",
+         "cname":"Stomach pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m116",
+         "cname":"Pimple",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m117",
+         "cname":"Acne",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m118",
+         "cname":"Wrinkles",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m119",
+         "cname":"Loss of shine",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m120",
+         "cname":"Darkness",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m121",
+         "cname":"Oral health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m122",
+         "cname":"Immunity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m123",
+         "cname":"Increase blood",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m124",
+         "cname":"Stress",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m125",
+         "cname":"Anxiety",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m126",
+         "cname":"Controls cortisol level in body",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m127",
+         "cname":"Memory",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m128",
+         "cname":"Male fertility",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m129",
+         "cname":"Joint pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m130",
+         "cname":"Oral Health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m131",
+         "cname":"Brain function",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m132",
+         "cname":"Inflamation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m133",
+         "cname":"Protect against food borne disease",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m134",
+         "cname":"Diabetes",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m135",
+         "cname":"Heart diseases",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m136",
+         "cname":"IBS",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m137",
+         "cname":"Heart health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m138",
+         "cname":"Brain health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m139",
+         "cname":"Infections",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m140",
+         "cname":"Digestive problems",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m141",
+         "cname":"Skin irritation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m142",
+         "cname":"Stress",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m143",
+         "cname":"Anxiety",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m144",
+         "cname":"Depression",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m145",
+         "cname":"Boosts memory",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m146",
+         "cname":"Various skin conditions",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m147",
+         "cname":"Lowers blood sugar level",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m148",
+         "cname":"Boosts insulin secretion",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m149",
+         "cname":"Reduces bad cholestrol level",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m150",
+         "cname":"Lowers blood pressure",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m151",
+         "cname":"Improves breathing",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m152",
+         "cname":"Stomach ulcers",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m153",
+         "cname":"Controls Blood Pressure.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m154",
+         "cname":"Stomach problems.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m155",
+         "cname":"Menstrual problems.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m156",
+         "cname":"Fever.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m157",
+         "cname":"Poly Cystic Ovarian Disorders (PCOD).",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m158",
+         "cname":"Diabetes.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m159",
+         "cname":"Amlapitta.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m160",
+         "cname":"Constipation, Acidity, Stomach problems.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m161",
+         "cname":"Acidity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m162",
+         "cname":"Stomach problems",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m163",
+         "cname":"Cough",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m164",
+         "cname":"Cold",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m165",
+         "cname":"Nasal problems.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m166",
+         "cname":"Renal calculi.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m167",
+         "cname":"Blocked nostrils.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m168",
+         "cname":"Cardiac diseases.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m169",
+         "cname":"Cardiovascular disease.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m170",
+         "cname":"Hyper acidity.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m171",
+         "cname":"Flatulence.",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m172",
+         "cname":"Diarrhoea",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m173",
+         "cname":"Stomach pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m174",
+         "cname":"Osteoarthiritis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m175",
+         "cname":"Allergy",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m176",
+         "cname":"Flu",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"m177",
+         "cname":"Asthama",
+         "whitelist":[
+
+         ]
+      }
+   ]
+}

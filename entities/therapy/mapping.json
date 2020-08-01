@@ -1,0 +1,450 @@
+{
+   "entities":[
+      {
+         "id":"a1",
+         "cname":"arthritis",
+         "whitelist":[]
+      },
+      {
+         "id":"a2",
+         "cname":"diabetes",
+         "whitelist":[]
+      },
+      {
+         "id":"a3",
+         "cname":"anxiety and depression",
+         "whitelist":[]
+      },
+      {
+         "id":"a4",
+         "cname":"infertility ",
+         "whitelist":[]
+      },
+      {
+         "id":"a5",
+         "cname":"psoriasis",
+         "whitelist":[]
+      },
+      {
+         "id":"a6",
+         "cname":"sinusitis",
+         "whitelist":[]
+      },
+      {
+         "id":"a7",
+         "cname":"spondylosis",
+         "whitelist":[]
+      },
+      {
+         "id":"a8",
+         "cname":"constipation",
+         "whitelist":[]
+      },
+      {
+         "id":"a9",
+         "cname":"digestive disorders",
+         "whitelist":[]
+      },
+      {
+         "id":"a10",
+         "cname":"hair fall",
+         "whitelist":[]
+      },
+      {
+         "id":"a11",
+         "cname":"hyperacidity",
+         "whitelist":[]
+      },
+      {
+         "id":"a12",
+         "cname":"hypertension",
+         "whitelist":[]
+      },
+      {
+         "id":"a13",
+         "cname":"pimples and acne",
+         "whitelist":[]
+      },
+      {
+         "id":"a14",
+         "cname":"respiratory disorder",
+         "whitelist":[]
+      },
+      {
+         "id":"a15",
+         "cname":"ulcers.",
+         "whitelist":[]
+      },
+      {
+         "id":"a16",
+         "cname":"abhyanga",
+         "whitelist":[]
+      },
+      {
+         "id":"a17",
+         "cname":"Shirodhara",
+         "whitelist":[]
+      },
+      {
+         "id":"a18",
+         "cname":"shloka",
+         "whitelist":[]
+      },
+      {
+         "id":"a19",
+         "cname":"takradhara",
+         "whitelist":[]
+      },
+      {
+         "id":"a20",
+         "cname":"mukh lepa",
+         "whitelist":[]
+      },
+      {
+         "id":"a21",
+         "cname":"Yoga treatment",
+         "whitelist":[]
+      },
+      {
+         "id":"a22",
+         "cname":"meditation therepy",
+         "whitelist":[]
+      },
+      {
+         "id":"a23",
+         "cname":"healing treatments",
+         "whitelist":[]
+      },
+      {
+         "id":"a24",
+         "cname":"physiotherapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a25",
+         "cname":"Vedanta talk.",
+         "whitelist":[]
+      },
+      {
+         "id":"a26",
+         "cname":"spa therapies",
+         "whitelist":[]
+      },
+      {
+         "id":"a7",
+         "cname":"Ayurveda therapies",
+         "whitelist":[]
+      },
+      {
+         "id":"a28",
+         "cname":"naturopathy",
+         "whitelist":[]
+      },
+      {
+         "id":"a29",
+         "cname":"rejuvenating massages",
+         "whitelist":[]
+      },
+      {
+         "id":"a30",
+         "cname":"beauty treatments",
+         "whitelist":[]
+      },
+      {
+         "id":"a31",
+         "cname":"sciatica",
+         "whitelist":[]
+      },
+      {
+         "id":"a32",
+         "cname":"back pain or backaches",
+         "whitelist":[]
+      },
+      {
+         "id":"a33",
+         "cname":"neck & shoulder pain",
+         "whitelist":[]
+      },
+      {
+         "id":"a34",
+         "cname":"disc bulge",
+         "whitelist":[]
+      },
+      {
+         "id":"a35",
+         "cname":"frozen shoulders",
+         "whitelist":[]
+      },
+      {
+         "id":"a36",
+         "cname":"anxiety,",
+         "whitelist":[]
+      },
+      {
+         "id":"a37",
+         "cname":"mental stress,",
+         "whitelist":[]
+      },
+      {
+         "id":"a38",
+         "cname":"Therapeutic treatment",
+         "whitelist":[]
+      },
+      {
+         "id":"a39",
+         "cname":"Sowa rigpa",
+         "whitelist":[]
+      },
+      {
+         "id":"a40",
+         "cname":"Fitness",
+         "whitelist":[]
+      },
+      {
+         "id":"a41",
+         "cname":"aqua",
+         "whitelist":[]
+      },
+      {
+         "id":"a42",
+         "cname":"panchakarma",
+         "whitelist":[]
+      },
+      {
+         "id":"a43",
+         "cname":"weight reduction,",
+         "whitelist":[]
+      },
+      {
+         "id":"a44",
+         "cname":"body purification ",
+         "whitelist":[]
+      },
+      {
+         "id":"a45",
+         "cname":"sleeping disorder",
+         "whitelist":[]
+      },
+      {
+         "id":"a46",
+         "cname":"partial paralysis",
+         "whitelist":[]
+      },
+      {
+         "id":"a47",
+         "cname":"disc herniation",
+         "whitelist":[]
+      },
+      {
+         "id":"a48",
+         "cname":"fibromyalgia",
+         "whitelist":[]
+      },
+      {
+         "id":"a49",
+         "cname":"hypothyroidism",
+         "whitelist":[]
+      },
+      {
+         "id":"a50",
+         "cname":"obesity",
+         "whitelist":[]
+      },
+      {
+         "id":"a51",
+         "cname":"polycystic ovary syndrome",
+         "whitelist":[]
+      },
+      {
+         "id":"a52",
+         "cname":"acupressure aromatherapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a53",
+         "cname":"anti-aging facials",
+         "whitelist":[]
+      },
+      {
+         "id":"a54",
+         "cname":"purifying body polishes and wraps",
+         "whitelist":[]
+      },
+      {
+         "id":"a55",
+         "cname":"balneotherapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a56",
+         "cname":"colonics",
+         "whitelist":[]
+      },
+      {
+         "id":"a57",
+         "cname":"pranic healing",
+         "whitelist":[]
+      },
+      {
+         "id":"a58",
+         "cname":"Turkish hammam",
+         "whitelist":[]
+      },
+      {
+         "id":"a59",
+         "cname":"Vichy showers",
+         "whitelist":[]
+      },
+      {
+         "id":"a60",
+         "cname":"vibro massage",
+         "whitelist":[]
+      },
+      {
+         "id":"a61",
+         "cname":"ion detox",
+         "whitelist":[]
+      },
+      {
+         "id":"a62",
+         "cname":"diet therapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a63",
+         "cname":"mud pack hydra therapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a64",
+         "cname":"homeopathy",
+         "whitelist":[]
+      },
+      {
+         "id":"a65",
+         "cname":"detox",
+         "whitelist":[]
+      },
+      {
+         "id":"a66",
+         "cname":"ayurvedic herbal facial and manicure & pedicure clean up",
+         "whitelist":[]
+      },
+      {
+         "id":"a67",
+         "cname":"fertility enhancement panchakarma",
+         "whitelist":[]
+      },
+      {
+         "id":"a68",
+         "cname":"anti-stress program",
+         "whitelist":[]
+      },
+      {
+         "id":"a69",
+         "cname":"prameha chikitsa for diabetes management,",
+         "whitelist":[]
+      },
+      {
+         "id":"a70",
+         "cname":"kamila and yakrit vikara for liver disorders",
+         "whitelist":[]
+      },
+      {
+         "id":"a71",
+         "cname":"stri roga for gynaec disorders",
+         "whitelist":[]
+      },
+      {
+         "id":"a72",
+         "cname":"tweak rogas for skin disorders",
+         "whitelist":[]
+      },
+      {
+         "id":"a73",
+         "cname":"tranquil nature to spend some peaceful time here to stimulate both body and mind.",
+         "whitelist":[]
+      },
+      {
+         "id":"a74",
+         "cname":"ayurveda body ",
+         "whitelist":[]
+      },
+      {
+         "id":"a75",
+         "cname":"Acupuncture",
+         "whitelist":[]
+      },
+      {
+         "id":"a76",
+         "cname":"Aromatherapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a77",
+         "cname":"Bowen technique",
+         "whitelist":[]
+      },
+      {
+         "id":"a78",
+         "cname":"Hypnotherapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a79",
+         "cname":"Massage",
+         "whitelist":[]
+      },
+      {
+         "id":"a80",
+         "cname":"Mindfulness",
+         "whitelist":[]
+      },
+      {
+         "id":"a81",
+         "cname":"Reflexology",
+         "whitelist":[]
+      },
+      {
+         "id":"a82",
+         "cname":"Reiki",
+         "whitelist":[]
+      },
+      {
+         "id":"a83",
+         "cname":"Cupping Therapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a84",
+         "cname":"Impotency",
+         "whitelist":[]
+      },
+      {
+         "id":"a85",
+         "cname":"Naturopathic therapy",
+         "whitelist":[]
+      },
+      {
+         "id":"a86",
+         "cname":"Detoxification",
+         "whitelist":[]
+      },
+      {
+         "id":"a87",
+         "cname":"Pilates",
+         "whitelist":[]
+      },
+      {
+         "id":"a88",
+         "cname":"Beauty care",
+         "whitelist":[]
+      },
+      {
+         "id":"a89",
+         "cname":"Sound therapy",
+         "whitelist":[]
+      }
+   ]
+}
+
