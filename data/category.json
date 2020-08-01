@@ -1,0 +1,152 @@
+[
+   {
+      "id":" c1",
+      "category":"Fitness",
+      "asanas":"Boat Pose, Dolphin Plank Pose, Dolphin Pose, Extended Side Angle Pose, Four-Limbed Staff Pose, Locust Pose, Plank Pose, Revolved Side Angle Pose"
+   },
+   {
+      "id":"c2",
+      "category":"Strength",
+      "asanas":"Tree pose, Handstand, Awkard chair pose, Plank Pose, Four-Limbed Staff Pose, Cobra Pose, Boat Pose, Warrior II, Half Moon Pose"
+   },
+   {
+      "id":"c3",
+      "category":"Full body workout",
+      "asanas":"Downward dog, Plank, Forearm plank, Cobra pose, Upward Facing dog, Locust pose, Boat pose, Warrior I, Warrior II, Tree pose, Bridge pose, Wheel pose"
+   },
+   {
+      "id":"c4",
+      "category":"Kids",
+      "asanas":"The Dog Pose, The Tree Pose, Warrior Pose I, The Mountain Pose, The Rag Doll Pose, The Butterfly Pose, The Bridge Pose, Pranayama"
+   },
+   {
+      "id":"c5",
+      "category":"Old people",
+      "asanas":"Mountain Pose, Butterfly Pose, Child Pose, Cobra Pose, Downward Facing Dog Pose, Triangle Pose, Corpse Pose."
+   },
+   {
+      "id":"c6",
+      "category":"Pregnant women",
+      "asanas":"Bound Angle Pose, Easy Pose, Extended Triangle Pose, Head-to-Knee Forward Bend, Lotus Pose, Warrior II Pose"
+   },
+   {
+      "id":"c7",
+      "category":"Weight gain",
+      "asanas":"Reclining butterfly pose, Diamond pose, Thunderbolt pose, Shoulder stand pose, Cobra pose, Fish pose."
+   },
+   {
+      "id":"c8",
+      "category":"Weight loss",
+      "asanas":"Plank pose, Warrior pose, Triangle pose, Downward Dog pose, Shoulder stand, Bridge pose, Twisted Chair pose."
+   },
+   {
+      "id":"c9",
+      "category":"Acidity",
+      "asanas":"Forward bend pose, Reclining butterfly pose, cat/cow pose, Thunder bolt pose, Half spinal twist pose or Half lord of the fishes pose."
+   },
+   {
+      "id":"c10",
+      "category":"Headache",
+      "asanas":"Big toe pose, Bridge pose, Corpse pose, Dolphin pose, Downward facing dog, Plow pose."
+   },
+   {
+      "id":"c11",
+      "category":"Beginner",
+      "asanas":"Mountain Pose, Tree Pose, Downward Facing Dog Pose, Triangle Pose, Chair Pose, Boat Pose, Cobra Pose."
+   },
+   {
+      "id":"c12",
+      "category":"Digestion",
+      "asanas":"Seated forward bend pose, Child's pose, Wind relieving pose, Triangle pose, Half lord of the fishes pose."
+   },
+   {
+      "id":"c13",
+      "category":"Flexibility",
+      "asanas":"Reclined Hand to Big Toe Pose, Eye of the Needle Pose, Downward Facing Dog, Crescent Lunge, Pyramid Pose, Half Moon Pose, Garland Pose."
+   },
+   {
+      "id":"c14",
+      "category":"Build muscle",
+      "asanas":"Surya Namaskar Cycle, Warrior 1 Pose, Triangle Pose, Bridge Pose, Cobra Pose, Crow Pose, Headstand."
+   },
+   {
+      "id":"c15",
+      "category":"Perfect posture",
+      "asanas":"Child's Pose, Triangle pose, The Bow, Bridge Pose, Fierce Pose, Warrior Pose, Boat Pose."
+   },
+   {
+      "id":"c16",
+      "category":"Bone health",
+      "asanas":"Tree Pose, Extended Triangle Pose, Warrior Pose II, Extended Side Angle Pose, Locust Pose, Bridge Pose, Reclining Hand-to-Big-Toe Pose I."
+   },
+   {
+      "id":"c17",
+      "category":"Increase bloodflow",
+      "asanas":"Warrior pose, Shoulder stand, Corpse pose."
+   },
+   {
+      "id":"c18",
+      "category":"Boost immunity",
+      "asanas":"Locust Pose, Low lunge pose, Crow Pose, Mountain Pose, Four-Limbed Staff Pose on Elbows."
+   },
+   {
+      "id":"c19",
+      "category":"Up heart rate",
+      "asanas":"Extended triangle pose, Seated forward bend pose, Half spinal twist pose, Cow face pose."
+   },
+   {
+      "id":"c20",
+      "category":"Feel happier",
+      "asanas":"Camel Pose, Crescent Pose, Cat and Cow asanas, Warrior II Pose, Reclined Bound Angle Pose, Goddess Pose, Simple Spinal Twist Pose."
+   },
+   {
+      "id":"c21",
+      "category":"Healthy lifestyle",
+      "asanas":"Thunderbolt pose, Bow pose, Corpse pose."
+   },
+   {
+      "id":"c22",
+      "category":"To lower blood sugar",
+      "asanas":"Legs-Up-the-Wall Pose, Reclining Bound Ankle Pose, Seated forward bend, Supported shoulderstand, Plow pose, Upward-Facing Dog, Bow Pose."
+   },
+   {
+      "id":"c23",
+      "category":"Focus",
+      "asanas":"Vrksasana, Eagle Pose, Warrior III, Half Moon Pose, Dancer's Pose, Extended Hand-to-Big Toe Pose, Side Plank, Crow Pose."
+   },
+   {
+      "id":"c24",
+      "category":"Improve balance",
+      "asanas":"Mountain Pose, Tree Pose, Extended Hand-to-Big-Toe Pose, Dancer Pose, Warrior III,Half Moon Pose."
+   },
+   {
+      "id":"c25",
+      "category":"Maintain nervous system",
+      "asanas":"Child pose, Tree pose, Leg up the wall, Bridge pose, Crocodile pose."
+   },
+   {
+      "id":"c26",
+      "category":"Sleep deeper",
+      "asanas":"Legs-Up-The-Wall Pose, Restorative Bridge Pose, Reclining Bound Angle Pose, Wide-Knee Child's Pose, Happy Baby."
+   },
+   {
+      "id":"c27",
+      "category":"Increase self esteem",
+      "asanas":"Forearm Plank, Warrior III, Warrior II, Chair Pose, Half Moon Pose."
+   },
+   {
+      "id":"c28",
+      "category":"Inner strength",
+      "asanas":"Forearm Plank, Warrior III, Warrior II, Chair Pose,Half Moon Pose."
+   },
+   {
+      "id":"c29",
+      "category":"Drug free",
+      "asanas":"Pranayama, Fish pose, Downward facing dog, Pigeon pose."
+   },
+   {
+      "id":"c30",
+      "category":"Corona",
+      "asanas":"Dand, Dand Baithak, Dandasana, Mishra Dand, Vakasana Dand."
+   }
+]

@@ -1,0 +1,637 @@
+{
+   "entities":[
+      {
+         "id":"901",
+         "cname":"Abdominal Disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"902",
+         "cname":"Arthritis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"903",
+         "cname":"Asthama",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"904",
+         "cname":"Back-Ache",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"905",
+         "cname":"Bronchitis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"906",
+         "cname":"Cold",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"907",
+         "cname":"Constipation",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"908",
+         "cname":"Depression",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"909",
+         "cname":"Diabetes",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"910",
+         "cname":"Gall-bladder disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"911",
+         "cname":"Headache",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"912",
+         "cname":"Indigestion",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"913",
+         "cname":"Insomnia",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"914",
+         "cname":"kidney disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"915",
+         "cname":"liver disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"916",
+         "cname":"menopause disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"917",
+         "cname":"menstural disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"918",
+         "cname":"Neurasthenia",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"919",
+         "cname":"Obesity",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"920",
+         "cname":"piles",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"921",
+         "cname":"poor posture",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"922",
+         "cname":"prolapse",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"923",
+         "cname":"reproductive",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"924",
+         "cname":"Rheumatism",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"925",
+         "cname":"Sexual disability",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"926",
+         "cname":"sinus",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"927",
+         "cname":"Throat Disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"928",
+         "cname":"Thyroid Disorders",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"929",
+         "cname":"Varicose Veins",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"930",
+         "cname":"Wind Pains",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"931",
+         "cname":"Chronic Back Pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"932",
+         "cname":"Breast Cancer",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"933",
+         "cname":"Heart Disease",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"934",
+         "cname":"Mental health",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"935",
+         "cname":"Tyroid problem",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"936",
+         "cname":"Digestion troubles",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"937",
+         "cname":"PCOS",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"938",
+         "cname":"Bipolar disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"939",
+         "cname":"Flat feet",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"940",
+         "cname":"Shoulder bursitis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"941",
+         "cname":"High cholesterol",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"942",
+         "cname":"Hyperkyposis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"943",
+         "cname":"Spasticity (Muscle Stiffness)",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"944",
+         "cname":"Lumbopelvic Syndrome (Lower Back Pain)",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"945",
+         "cname":"Atherosclerosis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"946",
+         "cname":"Inflenza",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"947",
+         "cname":"Autism",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"948",
+         "cname":"Fatigue",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"949",
+         "cname":"Epilepsy",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"950",
+         "cname":"Gas in stomach",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"951",
+         "cname":"Ear disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"952",
+         "cname":"Eye disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"953",
+         "cname":"Ankle injury",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"954",
+         "cname":"Hernia",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"955",
+         "cname":"Infertility",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"956",
+         "cname":"Low blood pressure",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"957",
+         "cname":"Migraine",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"958",
+         "cname":"Neck pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"959",
+         "cname":"Scoliosis",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"960",
+         "cname":"Prevent wrist pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"961",
+         "cname":"Back pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"962",
+         "cname":"Knee pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"963",
+         "cname":"shoulder pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"964",
+         "cname":"Chronic fatigue syndrome",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"965",
+         "cname":"Protect against hamstring injury",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"966",
+         "cname":"Inflammatory bowel disease",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"967",
+         "cname":"IBS",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"968",
+         "cname":"Liopsoas syndrome",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"969",
+         "cname":"Prostate cancer",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"970",
+         "cname":"High blood pressure",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"971",
+         "cname":"Low Blood Pressure",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"972",
+         "cname":"Chest related disease",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"973",
+         "cname":"For the development of brain and memory power",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"974",
+         "cname":"Colic/Abdominal pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"975",
+         "cname":"kidney disease",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"976",
+         "cname":"Laziness",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"977",
+         "cname":"Diariaha",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"978",
+         "cname":"Visceral ulcer",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"979",
+         "cname":"Abdominal ulcer",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"980",
+         "cname":"Testicle growth",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"981",
+         "cname":"Heart disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"982",
+         "cname":"Stomach disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"983",
+         "cname":"Joint pain",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"984",
+         "cname":"Lungs disorder",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"985",
+         "cname":"Slip Disc",
+         "whitelist":[
+            "Servical Pain"
+         ]
+      },
+      {
+         "id":"986",
+         "cname":"to increase height",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"987",
+         "cname":"Deficiency of blood",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"988",
+         "cname":"Haemorrhoids",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"989",
+         "cname":"Insomnia",
+         "whitelist":[
+            "Anxiety",
+            "Mental",
+            "impairment",
+            "Disappointment"
+         ]
+      },
+      {
+         "id":"990",
+         "cname":"Nose problem",
+         "whitelist":[
+
+         ]
+      }
+   ]
+}

@@ -1,0 +1,819 @@
+{
+   "entities":[
+      {
+         "id":"p1",
+         "cname":"Lolasana",
+         "whitelist":[
+            "Swinging Posture",
+            "Pendant Pose",
+            "Lol Asan",
+            "Lola Asana",
+            "Uthitapadmasana",
+            "Uthitta",
+            "Uthita-Padma Asana",
+            "Uthit padm Asan"
+         ]
+      },
+      {
+         "id":"p2",
+         "cname":"Pavanmuktasana",
+         "whitelist":[
+            "Wind-freeing Posture",
+            "Wind releaving Pose",
+            "knee Squeeze Posture",
+            "Pavan or Pawan Mukt Asan",
+            "Pavana or Pawana Mukta Asana",
+            "Pawanmuktasana"
+         ]
+      },
+      {
+         "id":"p3",
+         "cname":"Bhujangasana",
+         "whitelist":[
+            "Full Snake Posture",
+            "Cobra Pose",
+            "Serpent",
+            "Samp Asan"
+         ]
+      },
+      {
+         "id":"p4",
+         "cname":"Purna-Salabhasana",
+         "whitelist":[
+            "Full Locust Posture/ Pose",
+            "Purna Shalabha",
+            "Salabha Asana",
+            "Puran Shalabh",
+            "Purn Salabh Asan"
+         ]
+      },
+      {
+         "id":"p5",
+         "cname":"Paschimottanasana",
+         "whitelist":[
+            "Paschimotanasana",
+            "Back-stretching Posture",
+            "seated forward bend pose",
+            "Pashchim Uttan Asan",
+            "Pashchima Uttana Asana",
+            "Paschimottana"
+         ]
+      },
+      {
+         "id":"p6",
+         "cname":"Shashankasana",
+         "whitelist":[
+            "The Moon Pose",
+            "Hare Posture",
+            "Shashanka-Asana",
+            "Shashank-Asan",
+            "Sasankasana",
+            "Sasank"
+         ]
+      },
+      {
+         "id":"p7",
+         "cname":"Setu-Bandha-Sarvangasana",
+         "whitelist":[
+            "Bridge Posture/ Pose",
+            "Setu Bandh Sarvang Asan",
+            "Bandha Sarvanga Asana"
+         ]
+      },
+      {
+         "id":"p8",
+         "cname":"kapalbhati",
+         "whitelist":[
+            "Skull Shining Breath",
+            "Frontal Brain Purification",
+            "Kapal-Bhati",
+            "Kapal-Bharti"
+         ]
+      },
+      {
+         "id":"p9",
+         "cname":"Siddhasana",
+         "whitelist":[
+            "Vajrasana",
+            "Muktasana",
+            "Perfect (Perfected) Posture",
+            "Perfect Pose",
+            "Adept's posture",
+            "Gupta Pose",
+            "Accomplished Posture",
+            "Sidha Mukta Vajra Asana"
+         ]
+      },
+      {
+         "id":"p10",
+         "cname":"Shirshasana",
+         "whitelist":[
+            "Sirsasana",
+            "Sirshasana",
+            "Sirshasana",
+            "Headstand Posture",
+            "pole posture Pose",
+            "Topsy-turvy Posture",
+            "Vipreet Karni Asan/ Mudra"
+         ]
+      },
+      {
+         "id":"p11",
+         "cname":"Sarvangasana-1",
+         "whitelist":[
+            "Shoulder Stand",
+            "Viprita Karni Asan/ Mudra",
+            "Viprit Karani Mudra",
+            "Saravanga"
+         ]
+      },
+      {
+         "id":"p12",
+         "cname":"Adva-Matsyasana",
+         "whitelist":[
+            "Prone Fish Posture/ Pose",
+            "Adho Matsya Asana",
+            "Adha Matsy Asan"
+         ]
+      },
+      {
+         "id":"p13",
+         "cname":"Ardha-Matsyendrasana",
+         "whitelist":[
+            "Half spinal twist Posture",
+            "Half lord of the fishes Pose",
+            "Ardho Matseyanrasana",
+            "Adha Matsynder Asan"
+         ]
+      },
+      {
+         "id":"p14",
+         "cname":"Supta-Vajrasana",
+         "whitelist":[
+            "The Supine Vajrasana",
+            "Pelvic Posture",
+            "Fixed Firm Pose",
+            "Supta-Vajra-Asana",
+            "Supt-Vajr-Asan"
+         ]
+      },
+      {
+         "id":"p15",
+         "cname":"Dhanurasana",
+         "whitelist":[
+            "Bow Posture",
+            "Bow pose",
+            "Dhanur Asana",
+            "Bowposture"
+         ]
+      },
+      {
+         "id":"p16",
+         "cname":"Majrasana",
+         "whitelist":[
+            "Cat Pose",
+            "Billi Posture",
+            "Majra Asana",
+            "Majr Asan"
+         ]
+      },
+      {
+         "id":"p17",
+         "cname":"Gomukhasana",
+         "whitelist":[
+            "Cow Face Posture",
+            "Cow head Pose",
+            "Gomukh Asan",
+            "Gomukha Asana"
+         ]
+      },
+      {
+         "id":"p18",
+         "cname":"Akaran-Dhanurasana",
+         "whitelist":[
+            "Bow To the Ear Pose",
+            "Bow And Arrow Posture",
+            "Akarn-Dhanushtankara",
+            "Karna-Dhanurasana",
+            "Akarna-Dhanush-Tankara Asana"
+         ]
+      },
+      {
+         "id":"p19",
+         "cname":"Chakrasana",
+         "whitelist":[
+            "Circle Pose",
+            "Full Wheel Posture",
+            "Full circle",
+            "Purna Chakra Asan",
+            "Puma Chakrasana",
+            "Up-ward Bow Posture",
+            "Back-bend Pose"
+         ]
+      },
+      {
+         "id":"p20",
+         "cname":"Matsyendrasana",
+         "whitelist":[
+            "Full spinal twist Posture",
+            "Full lord of the fishes Pose",
+            "Matseyanrasana",
+            "Matsynder Asan"
+         ]
+      },
+      {
+         "id":"p21",
+         "cname":"Padmasana",
+         "whitelist":[
+            "Lotus Posture/ Pose",
+            "Padm Asan",
+            "Padma Asana"
+         ]
+      },
+      {
+         "id":"p22",
+         "cname":"Simhasana",
+         "whitelist":[
+            "Lion Posture",
+            "Tiger Pose",
+            "Singh Asan",
+            "Singa or Singha Asana",
+            "Sinhasana"
+         ]
+      },
+      {
+         "id":"p23",
+         "cname":"Hastapadasana",
+         "whitelist":[
+            "Hand to Foot Pose",
+            "Foot to hand Forward Bend Posture",
+            "Standing Forward bend",
+            "Jackknife Pose",
+            "Padahastasana",
+            "Hasta-Pada Asana"
+         ]
+      },
+      {
+         "id":"p24",
+         "cname":"Halasana",
+         "whitelist":[
+            "Full Plough Posture",
+            "Full Plow Pose",
+            "Purn Hal Asan",
+            "Purna Hala Asana"
+         ]
+      },
+      {
+         "id":"p25",
+         "cname":"Vajrasana",
+         "whitelist":[
+            "Thunderbolt Posture",
+            "Adamantine Pose",
+            "Vajra Asana",
+            "Vajr Asan"
+         ]
+      },
+      {
+         "id":"p26",
+         "cname":"Yoga-Mudra",
+         "whitelist":[
+            "Psychic union Pose",
+            "Psychio-union posture",
+            "Yog-Mudra Asan",
+            "Yogmudra Asana"
+         ]
+      },
+      {
+         "id":"p27",
+         "cname":"Shavasana",
+         "whitelist":[
+            "Corpse Posture",
+            "Most-relaxed Pose",
+            "supine posture",
+            "Savasana",
+            "Shav Asan",
+            "Sava Asana",
+            "Shava Mudra",
+            "Mritasana",
+            "Mrita",
+            "Mrit",
+            "Dead pose"
+         ]
+      },
+      {
+         "id":"p28",
+         "cname":"Parvatasana",
+         "whitelist":[
+            "Seated Mountain Pose",
+            "Seated Hill Posture",
+            "Parvata Asana",
+            "Parvat Asan"
+         ]
+      },
+      {
+         "id":"p29",
+         "cname":"Trikonasana",
+         "whitelist":[
+            "Triangle Posture",
+            "Trikon Asan",
+            "Trikona Asan",
+            "Side Bend Pose"
+         ]
+      },
+      {
+         "id":"p30",
+         "cname":"Mayurasana",
+         "whitelist":[
+            "Peacock Posture",
+            "Pea-Cock Pose",
+            "Mayura Asana",
+            "Mayur Asan"
+         ]
+      },
+      {
+         "id":"p31",
+         "cname":"Mandukasana",
+         "whitelist":[
+            "Frog Pose",
+            "Froggy Posture",
+            "Manduka Asana",
+            "Manduk Asan"
+         ]
+      },
+      {
+         "id":"p32",
+         "cname":"Sitali",
+         "whitelist":[
+            "Tongue Hissing",
+            "Cooling Breath"
+         ]
+      },
+      {
+         "id":"p33",
+         "cname":"Katti-Chakrasana",
+         "whitelist":[
+            "Waist Rotating Pose",
+            "Waist rotation posture",
+            "Katti-Chakra Asana",
+            "Kati-Chakrasana",
+            "Kati Chakr Asan",
+            "Kati-Chakrasana",
+            "KatiChakrasana"
+         ]
+      },
+      {
+         "id":"p34",
+         "cname":"Tadasana",
+         "whitelist":[
+            "Mountain Pose",
+            "Hill Posture",
+            "Tada Asana",
+            "Tad Asan"
+         ]
+      },
+      {
+         "id":"p35",
+         "cname":"Vakrasana",
+         "whitelist":[
+            "Twisting Posture",
+            "Twist Pose",
+            "Vakra Asana",
+            "Vakr Asan"
+         ]
+      },
+      {
+         "id":"p36",
+         "cname":"Paripurna-Navasana",
+         "whitelist":[
+            "Full Boat Posture",
+            "Purna Nauka",
+            "Noka",
+            "Asan Nav Asana",
+            "Boat Pose"
+         ]
+      },
+      {
+         "id":"p37",
+         "cname":"Uddiyan-bandha",
+         "whitelist":[
+            "Uddiyan-Bandh",
+            "Udiyana",
+            "Udiyan",
+            "Abdominal Lock"
+         ]
+      },
+      {
+         "id":"p38",
+         "cname":"Virasana-2",
+         "whitelist":[
+            "Hero Posture/ Pose 2",
+            "Veera or Vira Asana",
+            "Veer or Vir Asan",
+            "Veerasana"
+         ]
+      },
+      {
+         "id":"p39",
+         "cname":"Ushtrasana",
+         "whitelist":[
+            "Camel Pose",
+            "Ustrasana",
+            "Unt or Unth Posture",
+            "Ustra or Ushtra Asana"
+         ]
+      },
+      {
+         "id":"p40",
+         "cname":"Tiriyaka-Tadasana",
+         "whitelist":[
+            "Side Bending Stretch Pose",
+            "Swaying Palm Tree Pose",
+            "Tiriyaka-Tada-Asana",
+            "Triyak-Tad-Asan"
+         ]
+      },
+      {
+         "id":"p41",
+         "cname":"Trikonasana",
+         "whitelist":[
+            "Triangle Posture",
+            "Trikon Asan",
+            "Trikona Asan",
+            "Side Bend Pose"
+         ]
+      },
+      {
+         "id":"p42",
+         "cname":"Adho-Mukha-Svanasana",
+         "whitelist":[
+            "Downward-Facing Dog Posture",
+            "headstand pose",
+            "downward facing tree",
+            "Adho Mukh Sav Asan",
+            "Savasana",
+            "Shavasana"
+         ]
+      },
+      {
+         "id":"p43",
+         "cname":"Balasana-1",
+         "whitelist":[
+            "Child Posture",
+            "Baby Pose",
+            "Foetus Pose",
+            "Bal Asan",
+            "Bala Asana",
+            "Garbhasana",
+            "Gharbha Asana",
+            "Gharabh Asan"
+         ]
+      },
+      {
+         "id":"p44",
+         "cname":"Bhastrika",
+         "whitelist":[
+            "Bellows"
+         ]
+      },
+      {
+         "id":"p45",
+         "cname":"Ujjai",
+         "whitelist":[
+            "Ujjayi",
+            "Ujjayee",
+            " Victorious Breath",
+            "Ocean Breath",
+            "Loud Breathing"
+         ]
+      },
+      {
+         "id":"p46",
+         "cname":"Vrikshasana",
+         "whitelist":[
+            "Tree Pose"
+         ]
+      },
+      {
+         "id":"p47",
+         "cname":"Kursiasana",
+         "whitelist":[
+            "Chair pose"
+         ]
+      },
+      {
+         "id":"p48",
+         "cname":"Naukasana",
+         "whitelist":[
+            "Boat pose"
+         ]
+      },
+      {
+         "id":"p49",
+         "cname":"Sukhasana",
+         "whitelist":[
+
+         ]
+      },
+      {
+         "id":"p50",
+         "cname":"Uttana shishisana",
+         "whitelist":[
+            "Down Dog on a chair"
+         ]
+      },
+      {
+         "id":"p51",
+         "cname":"Baddha konasana",
+         "whitelist":[
+            "Bound Ankle Pose"
+         ]
+      },
+      {
+         "id":"p52",
+         "cname":"Kumbhakasana",
+         "whitelist":[
+            "Plank Pose"
+         ]
+      },
+      {
+         "id":"p53",
+         "cname":"Urdhva mukha svanasana",
+         "whitelist":[
+            "Upward-Facing Dog"
+         ]
+      },
+      {
+         "id":"p54",
+         "cname":"Ardha chandrasana",
+         "whitelist":[
+            "Half moon pose"
+         ]
+      },
+      {
+         "id":"p55",
+         "cname":"Ardha pincha mayurasana",
+         "whitelist":[
+            "Dolphin pose"
+         ]
+      },
+      {
+         "id":"p56",
+         "cname":"Vasisthasana",
+         "whitelist":[
+            "Side plank"
+         ]
+      },
+      {
+         "id":"p57",
+         "cname":"Parivrtta trikonasana",
+         "whitelist":[
+            "Revolved Triangle Pose"
+         ]
+      },
+      {
+         "id":"p58",
+         "cname":"Bakasana",
+         "whitelist":[
+            "Crow pose"
+         ]
+      },
+      {
+         "id":"p59",
+         "cname":"Urdhva Dhanurasna",
+         "whitelist":[
+            "Wheel Pose"
+         ]
+      },
+      {
+         "id":"p60",
+         "cname":"Adho mukha vrksasana",
+         "whitelist":[
+            "Wall-assisted handstand"
+         ]
+      },
+      {
+         "id":"p61",
+         "cname":"Pincha Mayurasana",
+         "whitelist":[
+            "Wall-assisted forearm stand"
+         ]
+      },
+      {
+         "id":"p62",
+         "cname":"Salamba sarvangasana",
+         "whitelist":[
+            "Shoulder stand"
+         ]
+      },
+      {
+         "id":"p63",
+         "cname":"Datta Mudra",
+         "whitelist":[
+            "movement of neck"
+         ]
+      },
+      {
+         "id":"64",
+         "cname":"Suryanamaskar",
+         "whitelist":[
+            "Sun salutation"
+         ]
+      },
+      {
+         "id":"65",
+         "cname":"Utthita Parsvakonasana",
+         "whitelist":[
+            "Extended Side Angle Pose"
+         ]
+      },
+      {
+         "id":"66",
+         "cname":"Utkatasana",
+         "whitelist":[
+            "Awkard chair pose"
+         ]
+      },
+      {
+         "id":"67",
+         "cname":"Virabhadrasana II",
+         "whitelist":[
+            "Warrior II pose"
+         ]
+      },
+      {
+         "id":"68",
+         "cname":"Adho mukha svanasana",
+         "whitelist":[
+            "Downward dog pose"
+         ]
+      },
+      {
+         "id":"69",
+         "cname":"Urdhva Mukha Shvanasana",
+         "whitelist":[
+            "Upward Facing dog pose"
+         ]
+      },
+      {
+         "id":"70",
+         "cname":"Virabhadrasana I",
+         "whitelist":[
+            "Warrior I pose"
+         ]
+      },
+      {
+         "id":"71",
+         "cname":"Baddha Hasta Uttanasana",
+         "whitelist":[
+            "The Rag Doll Pose\",\"Dangling pose"
+         ]
+      },
+      {
+         "id":"72",
+         "cname":"Baddha Konasana",
+         "whitelist":[
+            "The Butterfly Pose"
+         ]
+      },
+      {
+         "id":"73",
+         "cname":"Janu Sirsasana",
+         "whitelist":[
+            " Head-to-Knee Forward Bend pose"
+         ]
+      },
+      {
+         "id":"74",
+         "cname":"Savasana",
+         "whitelist":[
+            "Corpse pose"
+         ]
+      },
+      {
+         "id":"75",
+         "cname":"Supta Padangusthasana",
+         "whitelist":[
+            "Reclined Hand to Big Toe Pose"
+         ]
+      },
+      {
+         "id":"76",
+         "cname":"Sucirandhrasana",
+         "whitelist":[
+            "Eye of the Needle Pose"
+         ]
+      },
+      {
+         "id":"77",
+         "cname":"Anjaneyasana",
+         "whitelist":[
+            "Crescent Lunge pose"
+         ]
+      },
+      {
+         "id":"78",
+         "cname":"Parsvottanasana",
+         "whitelist":[
+            "Pyramid Pose"
+         ]
+      },
+      {
+         "id":"79",
+         "cname":"Malasana",
+         "whitelist":[
+            "Garland Pose"
+         ]
+      },
+      {
+         "id":"80",
+         "cname":"Dhanurasana",
+         "whitelist":[
+            "The Bow pose"
+         ]
+      },
+      {
+         "id":"81",
+         "cname":"Utkatasana",
+         "whitelist":[
+            "Fierce Pose"
+         ]
+      },
+      {
+         "id":"82",
+         "cname":"Supta Baddha Konasana",
+         "whitelist":[
+            "Reclined Bound Angle Pose"
+         ]
+      },
+      {
+         "id":"83",
+         "cname":"Utkata Konasana",
+         "whitelist":[
+            "Goddess Pose"
+         ]
+      },
+      {
+         "id":"84",
+         "cname":"Vakrasana",
+         "whitelist":[
+            "Simple Spinal Twist Pose"
+         ]
+      },
+      {
+         "id":"85",
+         "cname":"Viparita Karani",
+         "whitelist":[
+            "Legs-Up-the-Wall Pose"
+         ]
+      },
+      {
+         "id":"86",
+         "cname":"Garudasana",
+         "whitelist":[
+            "Eagle Pose"
+         ]
+      },
+      {
+         "id":"87",
+         "cname":"Natarajasana",
+         "whitelist":[
+            "Dancer's Pose"
+         ]
+      },
+      {
+         "id":"88",
+         "cname":"Makarasana",
+         "whitelist":[
+            "Crocodile pose"
+         ]
+      },
+      {
+         "id":"89",
+         "cname":"Ananda Balasana",
+         "whitelist":[
+            "Happy Baby"
+         ]
+      },
+      {
+         "id":"90",
+         "cname":"Catur Svanasana",
+         "whitelist":[
+            "Forearm Plank"
+         ]
+      },
+      {
+         "id":"91",
+         "cname":"Eka Pada Rajakapotasana",
+         "whitelist":[
+            "Pigeon pose"
+         ]
+      },
+      {
+         "id":"93",
+         "cname":"Dand",
+         "whitelist":[
+            "Squats"
+         ]
+      }
+   ]
+}

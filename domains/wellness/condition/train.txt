@@ -1,0 +1,43 @@
+{Brief|pose} me {Abdominal Disorders|condition_name}
+{Show|pose} me {Arthritis|condition_name}
+How to {cure|pose} {Abdominal Disorders|condition_name} 
+Give {information|pose} of {Asthama|condition_name}
+{Information|pose} on {Asthama|condition_name}
+Give {overview|pose} of {Back-Ache|condition_name}
+{Overview|pose} of {Back-Ache|condition_name}
+Give {description|pose} of  {Bronchitis|condition_name}
+{Description|pose} of  {Bronchitis|condition_name}
+{Detail|pose} of {Constipation|condition_name}
+Brief me {about|pose} {Depression|condition_name}
+Tell me {about|pose} {Diabetes|condition_name}
+Which {yoga poses|pose} is used to cure {Arthritis|condition_name}
+For {cold|condition_name} which yoga should I {perform|pose}
+{Yoga|pose} to cure {Asthama|condition_name}
+How can I {cure|pose} {Back-Ache|condition_name}
+{asanas|pose} to cure {Bronchitis|condition_name}
+{Pranayama|pose} for {Constipation|condition_name}
+{Yoga|pose}  for {Depression|condition_name}
+Specific yoga {asanas|pose} to cure {Diabetes|condition_name}
+Show me how to {cure|pose} {Gall-bladder disorder|condition_name}
+how to {cure|pose} {Gall-bladder disorder|condition_name}
+Tell me how to {cure|pose} {Headache|condition_name}
+Give me name of {asanas|pose} to cure {Indigestion|condition_name}
+name of {asanas|pose} to cure {Indigestion|condition_name}
+Can you tell me how to {cure|pose} {Insomnia|condition_name}
+Can you tell name of {asanas|pose} to cure {kidney disorder|condition_name}
+Hey can you tell me how to {cure|pose} {liver disorder|condition_name}
+{Cure|pose} for {menopause disorder|condition_name}
+Is there any {cure|pose} for {menstural disorder|condition_name} 
+How can I {cure|pose} {Neurasthenia|condition_name}
+
+
+
+
+
+
+
+
+
+
+
+

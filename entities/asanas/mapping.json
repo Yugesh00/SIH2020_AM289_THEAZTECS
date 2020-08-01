@@ -1,0 +1,16 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "Yoga",
+                "pose",
+                "poses",
+                "yogas",
+		"asan"
+            ],
+            "cname": "asanas"
+        }
+    ]
+}
+
+

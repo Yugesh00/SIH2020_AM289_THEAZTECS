@@ -1,0 +1,28 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "courses",
+            "information",
+            "detail",
+            "details",
+            "overview",
+            "benefit",
+            "benefits",
+            "use",
+            "points",
+            "effect",
+            "effects",
+            "use",
+            "purpose",
+            "use",
+            "help",
+            "description",
+            "explanation",
+            "Explain",
+            "Brief"
+         ],
+         "cname":"pose_description"
+      }
+   ]
+}
