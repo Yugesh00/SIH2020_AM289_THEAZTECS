@@ -15,9 +15,6 @@ can you answer all my question
 can you answer this question i have
 enable question answering mode
 enable faq
-pose
-poses
-poses
 open faq system
 open question answering system
 can you answer an faq
@@ -29,14 +26,12 @@ please answer this for me
 answer this for me
 answer me this
 need some guidance
-pose
 i need some guidance
 can you give me some guidance
 can you guide me on yoga pose
 need some help with yoga 
 need help
 please help me
-ayurveda
 help me with a yoga pose
 help
 question
@@ -47,9 +42,3 @@ help
 can you answer my question
 i have a question
 i have a query
-yoga
-ayurveda
-yogas
-yoga pose
-ayurvedas
-

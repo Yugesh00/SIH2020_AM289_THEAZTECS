@@ -1,0 +1,27 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "treatment",
+            "threapy",
+            "Hatha yoga",
+            "pranayama",
+            "bandha",
+            "mudra",
+            "kriya",
+            "chakra",
+            "Ashtanga yoga courses",
+            "ayurvedic massage treatments",
+            "Rejuvenation Retreats",           
+            "Panchakarma therapy",
+            "Vedic Rituals",
+            "detoxification",
+            "meditation",
+            "Kundalini",
+            "Laya Yoga",
+            "Vipassana Yoga"
+         ],
+         "cname":"treatments"
+      }
+   ]
+}

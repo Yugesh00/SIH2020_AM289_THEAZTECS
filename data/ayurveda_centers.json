@@ -1,0 +1,447 @@
+[
+   {
+      "id":"a1",
+      "therapy":"arthritis",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala \n3) Devaaya, Goa"
+   },
+   {
+      "id":"a2",
+      "therapy":"diabetes",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n 2) Devaaya, Goa"
+   },
+   {
+      "id":"a3",
+      "therapy":"anxiety and depression",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Shreyas Yoga Retreat, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a4",
+      "therapy":"infertility ",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a5",
+      "therapy":"psoriasis",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a6",
+      "therapy":"sinusitis",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala"
+   },
+   {
+      "id":"a7",
+      "therapy":"spondylosis",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Shreyas Yoga Retreat, Bengaluru, Karnataka\n3) Devaaya, Goa"
+   },
+   {
+      "id":"a8",
+      "therapy":"constipation",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a9",
+      "therapy":"digestive disorders",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a10",
+      "therapy":"hair fall",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a11",
+      "therapy":"hyperacidity",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a12",
+      "therapy":"hypertension",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a13",
+      "therapy":"pimples and acne",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka\n2) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a14",
+      "therapy":"respiratory disorder",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a15",
+      "therapy":"ulcers",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a16",
+      "therapy":"abhyanga",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a17",
+      "therapy":"Shirodhara",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a18",
+      "therapy":"shloka",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a19",
+      "therapy":"takradhara",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a20",
+      "therapy":"mukh lepa",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a21",
+      "therapy":"Yoga treatment",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand\n2) Shreyas Yoga Retreat, Bengaluru, Karnataka\n3) The Leela, Kovalam, Kerala\n4) Vana, Dehradun, Uttarakhand\n5) Nimba Nature Cure, Mehsana, Gujarat\n6) The Beach House, Goa\n7) SwaSwara, Gokarna, Karnataka\n8) Kayakalp, Palampur, Himachal Pradesh\n9) Ashiyana, Goa\n10) Somatheeram, Kovalam, Kerala"
+   },
+   {
+      "id":"a22",
+      "therapy":"meditation therepy",
+      "hubs":"\n1) Soukya International Holistic Centre, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a23",
+      "therapy":"healing treatments",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a24",
+      "therapy":"physiotherapy",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand\n2) Nimba Nature Cure, Mehsana, Gujarat\n3) Kayakalp, Palampur, Himachal Pradesh"
+   },
+   {
+      "id":"a25",
+      "therapy":"Vedanta talk.",
+      "hubs":"\n1) Ananda in the Himalayas, Rishikesh, Uttarakhand"
+   },
+   {
+      "id":"a26",
+      "therapy":"spa therapies",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2)  The Leela, Kovalam, Kerala\n3) Vana, Dehradun, Uttarakhand\n4) Atmantan, Pune, Maharashtra\n5) Wildflower Hall, Shimla, Himachal Pradesh\n6)SwaSwara, Gokarna, Karnataka\n7) Amarvilas Spa, Agra, Uttar Pradesh\n8) Ashiyana, Goa"
+   },
+   {
+      "id":"a7",
+      "therapy":"Ayurveda therapies",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2)  The Leela, Kovalam, Kerala\n3) Vana, Dehradun, Uttarakhand\n4) Atmantan, Pune, Maharashtra\n5) Nimba Nature Cure, Mehsana, Gujarat\n6) The Beach House, Goa\n7) Wildflower Hall, Shimla, Himachal Pradesh\n8) Ashiyana, Goa\n9) Somatheeram, Kovalam, Kerala\n10) Amanbagh, Ajabgarh, Rajasthan"
+   },
+   {
+      "id":"a28",
+      "therapy":"naturopathy",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2) Vana, Dehradun, Uttarakhand\n3) Devaaya, Goa\n4) Nimba Nature Cure, Mehsana, Gujarat\n5) Soukya International Holistic Centre, Bengaluru, Karnataka\n6) Kayakalp, Palampur, Himachal Pradesh"
+   },
+   {
+      "id":"a29",
+      "therapy":"rejuvenating massages",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala\n3) Devaaya, Goa\n4) Kalari Kovilakom, Payyallur, Kerala\n5) Amanbagh, Ajabgarh, Rajasthan"
+   },
+   {
+      "id":"a30",
+      "therapy":"beauty treatments",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2) Somatheeram, Kovalam, Kerala"
+   },
+   {
+      "id":"a31",
+      "therapy":"sciatica",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a32",
+      "therapy":"back pain or backaches",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala"
+   },
+   {
+      "id":"a33",
+      "therapy":"neck & shoulder pain",
+      "hubs":"\n1) Shreyas Yoga Retreat, Bengaluru, Karnataka\n2) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala"
+   },
+   {
+      "id":"a34",
+      "therapy":"disc bulge",
+      "hubs":"\n1)Shreyas Yoga Retreat, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a35",
+      "therapy":"frozen shoulders",
+      "hubs":"\n1)Shreyas Yoga Retreat, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a36",
+      "therapy":"anxiety,",
+      "hubs":"\n1)Shreyas Yoga Retreat, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a37",
+      "therapy":"mental stress",
+      "hubs":"\n1)Shreyas Yoga Retreat, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a38",
+      "therapy":"Therapeutic treatment",
+      "hubs":"\n1)The Leela, Kovalam, Kerala"
+   },
+   {
+      "id":"a39",
+      "therapy":"Sowa rigpa",
+      "hubs":"\n1)Vana, Dehradun, Uttarakhand"
+   },
+   {
+      "id":"a40",
+      "therapy":"Fitness",
+      "hubs":"\n1)Vana, Dehradun, Uttarakhand"
+   },
+   {
+      "id":"a41",
+      "therapy":"aqua",
+      "hubs":"\n1)Vana, Dehradun, Uttarakhand"
+   },
+   {
+      "id":"a42",
+      "therapy":"panchakarma",
+      "hubs":"\n1) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala\n2) Kayakalp, Palampur, Himachal Pradesh\n3) Ashiyana, Goa\n4) Somatheeram, Kovalam, Kerala"
+   },
+   {
+      "id":"a43",
+      "therapy":"weight reduction",
+      "hubs":"\n1) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala\n2) Kalari Kovilakom, Payyallur, Kerala"
+   },
+   {
+      "id":"a44",
+      "therapy":"body purification",
+      "hubs":"\n1) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala\n2) Amanbagh, Ajabgarh, Rajasthan"
+   },
+   {
+      "id":"a45",
+      "therapy":"sleeping disorder",
+      "hubs":"\n1) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala"
+   },
+   {
+      "id":"a46",
+      "therapy":"partial paralysis",
+      "hubs":"\n1) Devaaya, Goa"
+   },
+   {
+      "id":"a47",
+      "therapy":"disc herniation",
+      "hubs":"\n1) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a48",
+      "therapy":"fibromyalgia",
+      "hubs":"\n1) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a49",
+      "therapy":"hypothyroidism",
+      "hubs":"\n1) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a50",
+      "therapy":"obesity",
+      "hubs":"\n1) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a51",
+      "therapy":"polycystic ovary syndrome",
+      "hubs":"\n1) Indus Valley Ayurvedic Centre, Mysore, Karnataka"
+   },
+   {
+      "id":"a52",
+      "therapy":"acupressure aromatherapy",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra\n2) Soukya International Holistic Centre, Bengaluru, Karnataka\n3) Kayakalp, Palampur, Himachal Pradesh"
+   },
+   {
+      "id":"a53",
+      "therapy":"anti-aging facials",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a54",
+      "therapy":"purifying body polishes and wraps",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a55",
+      "therapy":"balneotherapy",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a56",
+      "therapy":"colonics",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a57",
+      "therapy":"pranic healing",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a58",
+      "therapy":"Turkish hammam",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a59",
+      "therapy":"Vichy showers",
+      "hubs":"\n1) Atmantan, Pune, Maharashtra"
+   },
+   {
+      "id":"a60",
+      "therapy":"vibro massage",
+      "hubs":"\n1) Nimba Nature Cure, Mehsana, Gujarat"
+   },
+   {
+      "id":"a61",
+      "therapy":"ion detox",
+      "hubs":"\n1) Nimba Nature Cure, Mehsana, Gujarat"
+   },
+   {
+      "id":"a62",
+      "therapy":"diet therapy",
+      "hubs":"\n1) Nimba Nature Cure, Mehsana, Gujarat"
+   },
+   {
+      "id":"a63",
+      "therapy":"mud pack hydra therapy",
+      "hubs":"\n1) Nimba Nature Cure, Mehsana, Gujarat"
+   },
+   {
+      "id":"a64",
+      "therapy":"homeopathy",
+      "hubs":"\n1) Soukya International Holistic Centre, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a65",
+      "therapy":"detox",
+      "hubs":"\n1) The Beach House, Goa"
+   },
+   {
+      "id":"a66",
+      "therapy":"ayurvedic herbal facial and manicure & pedicure clean up",
+      "hubs":"\n1) The Beach House, Goa\n2) Wildflower Hall, Shimla, Himachal Pradesh\n3) Amarvilas Spa, Agra, Uttar Pradesh"
+   },
+   {
+      "id":"a67",
+      "therapy":"fertility enhancement panchakarma",
+      "hubs":"\n1) The Beach House, Goa"
+   },
+   {
+      "id":"a68",
+      "therapy":"anti-stress program",
+      "hubs":"\n1) Kalari Kovilakom, Payyallur, Kerala"
+   },
+   {
+      "id":"a69",
+      "therapy":"prameha chikitsa for diabetes management,",
+      "hubs":"\n1) Kalari Kovilakom, Payyallur, Kerala"
+   },
+   {
+      "id":"a70",
+      "therapy":"kamila and yakrit vikara for liver disorders",
+      "hubs":"\n1) Kalari Kovilakom, Payyallur, Kerala"
+   },
+   {
+      "id":"a71",
+      "therapy":"stri roga for gynaec disorders",
+      "hubs":"\n1) Kalari Kovilakom, Payyallur, Kerala"
+   },
+   {
+      "id":"a72",
+      "therapy":"tweak rogas for skin disorders",
+      "hubs":"\n1) Kalari Kovilakom, Payyallur, Kerala"
+   },
+   {
+      "id":"a73",
+      "therapy":"tranquil nature to spend some peaceful time here to stimulate both body and mind.",
+      "hubs":"\n1) SwaSwara, Gokarna, Karnataka"
+   },
+   {
+      "id":"a74",
+      "therapy":"ayurveda body ",
+      "hubs":"\n1) Somatheeram, Kovalam, Kerala"
+   },
+   {
+      "id":"a75",
+      "therapy":"Acupuncture",
+      "hubs":"\n1)Aceasis Wellness Solution, Kolkata  2)Dhatris center of healing, Bangalore  3)Ganesh accupuncture clicnic, Bangalore"
+   },
+   {
+      "id":"a76",
+      "therapy":"Aromatherapy",
+      "hubs":"\n1)Kasturi aroma therapy, Pune 2)Relax and cure clinic, Hyderabad"
+   },
+   {
+      "id":"a77",
+      "therapy":"Bowen technique",
+      "hubs":"\n1)Bowen therapy center, Delhi 2)Auralife, Chennai"
+   },
+   {
+      "id":"a78",
+      "therapy":"Hypnotherapy",
+      "hubs":"\n1)The hypnotherapy school of India"
+   },
+   {
+      "id":"a79",
+      "therapy":"Massage",
+      "hubs":"\n1)Vibrance spa and wellness center, Trivandrum 2)Ayurvedic massage center, Udaipur"
+   },
+   {
+      "id":"a80",
+      "therapy":"Mindfulness",
+      "hubs":"\n1)Osho International Meditation Resort, Pune 2)Auroville, Pondicherry 3)The Art of Living International Centre, Bengaluru"
+   },
+   {
+      "id":"a81",
+      "therapy":"Reflexology",
+      "hubs":"\n1)Kaya kalp the royal spa, Agra 2)Wildflower hall spa, Himachalpradesh"
+   },
+   {
+      "id":"a82",
+      "therapy":"Reiki",
+      "hubs":"\n1)Nalanda reiki center, Mumbai 2)Zendo reiki, Mumbai"
+   },
+   {
+      "id":"a83",
+      "therapy":"Cupping Therapy",
+      "hubs":"\n1)Hijama house, Mumbai 2)Hijama cupping center, Delhi"
+   },
+   {
+      "id":"a84",
+      "therapy":"Impotency",
+      "hubs":"\n1) Ayurvedagram Heritage Wellness Center, Bengaluru, Karnataka"
+   },
+   {
+      "id":"a85",
+      "therapy":"Naturopathic therapy",
+      "hubs":"\n1)Shankus Nature Health Centre, Gujrat 2)Nirvana Naturopathy and Retreat, Delhi 3)Shankus Nature Health Centre, Bengaluru"
+   },
+   {
+      "id":"a86",
+      "therapy":"Detoxification",
+      "hubs":"\n1) Sarovaram Ayurvedic Health Center, Ashtamudi, Kerala 2) Amanbagh, Ajabgarh, Rajasthan"
+   },
+   {
+      "id":"a87",
+      "therapy":"Pilates",
+      "hubs":"\n1)Body Image Pilates Studio, Mumbai 2)Nirvana Courtyard, Gurugram"
+   },
+   {
+      "id":"a88",
+      "therapy":"Beauty care",
+      "hubs":"\n1) Somatheeram, Kovalam, Kerala"
+   },
+   {
+      "id":"a89",
+      "therapy":"Sound therapy",
+      "hubs":"\n1)Maayaa Sound Healing Studio, Rishikesh"
+   }
+]

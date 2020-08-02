@@ -1,0 +1,21 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "Where",
+            "Treatment centers",
+            "wellness hub",
+            "Nursing",
+            "wellness hubs",
+            "place",
+            "ayurveda center",
+            "hub",
+            "Centers",
+	    "treated",
+	    "locations",
+	    "location"		
+         ],
+         "cname":"hubs"
+      }
+   ]
+}

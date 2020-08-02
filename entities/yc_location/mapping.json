@@ -1,0 +1,22 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "situated",
+                "located",
+                "address",
+                "Rishikesh",
+                "goa",
+                "kerala",
+                "dharamshala",
+                "Bihar",
+                "Maharashtra",
+                "Himachal pradesh",
+                "Ashtanga yoga courses",
+                "Mysore",
+                "Karnataka"
+            ],
+            "cname": "location"
+        }
+    ]
+}

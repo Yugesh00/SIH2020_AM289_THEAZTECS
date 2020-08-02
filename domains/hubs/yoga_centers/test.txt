@@ -1,0 +1,17 @@
+name of {yoga centres|yc_name} for {treatment|yc_treatments}
+{yoga centres|yc_name} for {treatment|yc_treatments}
+name of {yoga retreats|yc_name} for {treatment|yc_treatments}
+i want list of {yoga retreats|yc_name} for {treatment|yc_treatments}
+give me the list of {yoga centres|yc_name} for {treatment|yc_treatments}
+give me the list of {yoga retreats|yc_name} for {treatment|yc_treatments}
+list of {yoga retreats|yc_name} for {treatment|yc_treatments}
+I want list of {yoga centres|yc_name} in {Rishikesh|yc_location} for {treatment|yc_treatments}
+list of {yoga centres|yc_name} in {goa|yc_location} for {treatment|yc_treatments}
+name of {yoga centres|yc_name} in {kerala|yc_location} for {treatment|yc_treatments}
+{yoga centres|yc_name} in {dharamshala|yc_location} for {treatment|yc_treatments}
+name of {yoga retreats|yc_name} in {Karnataka|yc_location} for {treatment|yc_treatments}
+i want list of {yoga retreats|yc_name} in {Himachalpradesh|yc_location} for {treatment|yc_treatments}
+give me the list of {yoga centres|yc_name} in {Mysore|yc_location} for {treatment|yc_treatments}
+give me the list of {yoga retreats|yc_name} in {Maharashtra|yc_location} for {treatment|yc_treatments}
+list of {yoga retreats|yc_name} in {Bihar|yc_location} for {treatment|yc_treatments}
+{details|yc_description} of {Anand Prakash Yoga Ashram|yc_name}

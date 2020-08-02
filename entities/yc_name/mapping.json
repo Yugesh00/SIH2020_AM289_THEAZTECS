@@ -1,0 +1,206 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "Anand Prakash Ashram",
+            "Prakash Yoga Ashram"
+         ],
+         "cname":"Anand Prakash Yoga Ashram"
+      },
+      {
+         "whitelist":[
+            "Patanjali Yoga Foundation"
+         ],
+         "cname":"Patanjali International Yoga Foundation"
+      },
+      {
+         "whitelist":[
+            "Vishwa Shanti"
+         ],
+         "cname":"Vishwa Shanti Yoga"
+      },
+      {
+         "whitelist":[
+            "Rishikesh Yoga School",
+            "School of Yoga Rishikesh"
+         ],
+         "cname":"Rishikesh School of Yoga"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"Vyasa Yoga Peeth"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"Maa Yoga Ashram"
+      },
+      {
+         "whitelist":[
+            "Purple Valley Retreat",
+            "Purple Valley "
+         ],
+         "cname":"Purple Valley Yoga Retreat"
+      },
+      {
+         "whitelist":[
+            "Bamboo Retreat"
+         ],
+         "cname":"Bamboo Yoga Retreat"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"Satsanga Retreat"
+      },
+      {
+         "whitelist":[
+            "Ashiyana Yoga Goa",
+            "Ashiyana Resort Goa",
+            "Yoga Resort Goa"
+         ],
+         "cname":"Ashiyana Yoga Resort Goa"
+      },
+      {
+         "whitelist":[
+            "Lotus Yoga",
+            "Lotus  Retreat"
+         ],
+         "cname":"Lotus Yoga Retreat"
+      },
+      {
+         "whitelist":[
+            "Kranti Yoga Beach Resort",
+            "Kranti Village Beach Resort",
+            "Kranti Beach Resort",
+            "Kranti Yoga Village Beach Resort, Goa"
+         ],
+         "cname":"Kranti Yoga Village Beach Resort, Goa"
+      },
+      {
+         "whitelist":[
+            "Swan Yoga",
+            "Swan Retreat"
+         ],
+         "cname":"Swan Yoga Retreat"
+      },
+      {
+         "whitelist":[
+            "Vedic Valley Retreat"
+         ],
+         "cname":"Vedic Valley"
+      },
+      {
+         "whitelist":[
+            "Kaivalyam Retreat"
+         ],
+         "cname":"Kaivalyam Wellness Retreat"
+      },
+      {
+         "whitelist":[
+            "Agnihotra Retreat",
+            "Agnihotra Hub"
+         ],
+         "cname":"Agnihotra Yoga"
+      },
+      {
+         "whitelist":[
+            "Yoga Vidya Teacher Retreat",
+            "Yoga Vidya Retreat",
+            "Yoga Vidya Training Retreat"
+         ],
+         "cname":"Yoga Vidya Teacher Training Retreat"
+      },
+      {
+         "whitelist":[
+            "Aarsha Peetham",
+            "Aarsha Vidya Peetham"
+         ],
+         "cname":"Aarsha Yoga Vidya Peetham"
+      },
+      {
+         "whitelist":[
+            "Abhinam Retreat",
+            "Abhinam School"
+         ],
+         "cname":"Abhinam Yoga School"
+      },
+      {
+         "whitelist":[
+            "Agama Dharmashala",
+            "Dharmashala"
+         ],
+         "cname":"Agama Dharmashala"
+      },
+      {
+         "whitelist":[
+            "Aryan Yoga Retreat",
+            "Aryan Yoga Hub"
+         ],
+         "cname":"Aryan Yoga centre"
+      },
+      {
+         "whitelist":[
+            "Kailash School Yoga",
+            "School Of Yoga Kailash"
+         ],
+         "cname":"Kailash School Of Yoga"
+      },
+      {
+         "whitelist":[
+            "Kranti Yoga Resort Dharmashala"
+         ],
+         "cname":"Kranti Yoga Village Beach Resort, Dharmshala"
+      },
+      {
+         "whitelist":[
+            "Maa Shakti Yoga",
+            "Maa Shakti Centre"
+         ],
+         "cname":"Maa Shakti Yoga Centre"
+      },
+      {
+         "whitelist":[
+            "Neo Yoga",
+            "Neo Centre"
+         ],
+         "cname":"Neo Yoga Centre"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"Bihar yoga school"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"Kaivalyadham Ashram"
+      },
+      {
+         "whitelist":[
+            "Himalayan Iyengar Yoga",
+            "Himalayan Yoga Centre",
+            "Iyengar Yoga Centre"
+         ],
+         "cname":"Himalayan Iyengar Yoga Centre"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"Mysore Mandala"
+      },
+      {
+         "whitelist":[
+
+         ],
+         "cname":"The SwaSwara"
+      }
+   ]
+}
