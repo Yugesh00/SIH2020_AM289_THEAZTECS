@@ -20,6 +20,3 @@ def exit(request, responder):
         "Do exercise and yoga daily"
     ])
     responder.reply('Have a healthy day ahead, bye!\nTip of the day: '+ replies)
-
-
-

@@ -56,16 +56,16 @@
    {
       "id":"y7",
       "yc_name":"Purple Valley Yoga Retreat",
-      "yc_treatments":"One of the best Ashtanga yoga courses and ayurvedic massage yc_treatments",
+      "yc_treatments":"One of the best Ashtanga yoga courses and ayurvedic massage \nFor more visit: http://www.yogagoa.com/",
       "yc_location":"Goa",
       "yc_state":"Goa",
-      "yc_description":"Providing comfortable accommodations and ambience, this is amongst the finest yoga retreats in Goa",
+      "yc_description":"Providing comfortable accommodations and ambience, this is amongst the finest yoga retreats in Goa \nLink for more details:http://www.yogagoa.com/",
       "yc_link":"http://www.yogagoa.com/"
    },
    {
       "id":"y8",
       "yc_name":"Bamboo Yoga Retreat",
-      "yc_treatments":"Experience of deepening your practice to the sound of the waves and perfecting your poses to a breathtaking panoramic view of the sea.",
+      "yc_treatments":"Experience of deepening your practice to the sound of the waves and perfecting your poses to a breathtaking panoramic view of the sea. \nFor more visit: https://www.bamboo-yoga-retreat.com/",
       "yc_location":"Patnem Beach",
       "yc_state":"Goa",
       "yc_description":"Bamboo offers a range of yoga holidays, retreats and teacher training programs, imparted by professionals flown in from all over the globe.",
@@ -74,7 +74,7 @@
    {
       "id":"y9",
       "yc_name":"Satsanga Retreat",
-      "yc_treatments":"Splendid yoga shalas that are aesthetically crafted.",
+      "yc_treatments":"Splendid yoga shalas that are aesthetically crafted.  \nFor more visit: https://www.bamboo-yoga-retreat.com/",
       "yc_location":"Parra",
       "yc_state":"Goa",
       "yc_description":"The presence of tropical gardens in abundance makes the Satsanga Retreat a mini paradise. This retreat offers a home away from home experience.",
@@ -83,7 +83,7 @@
    {
       "id":"y10",
       "yc_name":"Ashiyana Yoga Resort Goa",
-      "yc_treatments":"Elemental Yoga Therapy, Detox and Rejuvenation Retreats and more.",
+      "yc_treatments":"Elemental Yoga Therapy, Detox and Rejuvenation Retreats and more.  \nFor more visit: https://www.ashiyana.com/",
       "yc_location":"Mandrem",
       "yc_state":"Goa",
       "yc_description":"With Ashiyana Yoga Retreats, learn different forms of yoga from experts in their respective disciplines.",
@@ -92,10 +92,10 @@
    {
       "id":"y11",
       "yc_name":"Lotus Yoga Retreat",
-      "yc_treatments":"Intensive yoga retreats reiki, massage, shiatsu, Ayurveda, and body scrubs.",
+      "yc_treatments":"Intensive yoga retreats reiki, massage, shiatsu, Ayurveda, and body scrubs.   \nFor more visit: https://www.ashiyana.com/",
       "yc_location":"Patnem",
       "yc_state":"Goa",
-      "yc_description":"Lotus Yoga Retreat has an idyllic yc_location, there are three dedicated yoga shalas, plus a separate spa area for massages and therapies.",
+      "yc_description":"Lotus Yoga Retreat has an idyllic yc_location, there are three dedicated yoga shalas, plus a separate spa area for massages and therapies.   \nFor more visit: https://www.ashiyana.com/",
       "yc_link":"http://www.lotus-yoga-retreat.com/"
    },
    {

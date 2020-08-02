@@ -1,0 +1,44 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "information",
+                "something",
+                "details",
+		"tell",
+                "Describe",
+                "charachteristics",
+		"facts",
+                "advice",
+                "environment",
+		"explanation",
+		"idea",
+                "advice",
+                "tips",
+                "data"
+            ],
+            "cname": "hub_description"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

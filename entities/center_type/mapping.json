@@ -1,0 +1,15 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "center",
+                "type",
+                "kind",
+                "sort"
+            ],
+            "cname": "center_type"
+        }
+    ]
+}
+
+

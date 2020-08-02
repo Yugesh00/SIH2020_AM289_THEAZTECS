@@ -1,0 +1,404 @@
+{
+   "entities":[
+      {
+         "id":"1",
+         "cname":"Shreyash Yoga Retreat",
+         "whitelist":"Shreyash Retreat"
+      },
+      {
+         "id":"2",
+         "cname":"Kare Ayurveda And Yoga Retreat",
+         "whitelist":"Kare Ayurveda And Yoga "
+      },
+      {
+         "id":"3",
+         "cname":"Atmantan Wellness Resort",
+         "whitelist":"Atmantan  Resort"
+      },
+      {
+         "id":"4",
+         "cname":"Balkatmane Heritage Spa Resort",
+         "whitelist":"Balkatmane Heritage Resort"
+      },
+      {
+         "id":"6",
+         "cname":"Sai Vishram Beach Resort",
+         "whitelist":"Sai Vishram Resort"
+      },
+      {
+         "id":"7",
+         "cname":"SwaSwara",
+         "whitelist":"SwaSwara Resort"
+      },
+      {
+         "id":"8",
+         "cname":"Indus Valley Ayurvedic Centre",
+         "whitelist":"Indus Valley Ayurvedic "
+      },
+      {
+         "id":"9",
+         "cname":"Lodha Wellness Retreat",
+         "whitelist":"Lodha Retreat"
+      },
+      {
+         "id":"10",
+         "cname":"Shree Hari Yoga Centre Gokarna",
+         "whitelist":"Shree Hari Yoga Centre "
+      },
+      {
+         "id":"11",
+         "cname":"Nirvana Yoga Shala",
+         "whitelist":"Nirvana  Shala"
+      },
+      {
+         "id":"12",
+         "cname":"The Yoga Institute",
+         "whitelist":"The Yoga Institute Centre"
+      },
+      {
+         "id":"13",
+         "cname":"Five Lotus Indo-German Nature Cure Centre",
+         "whitelist":"Five Lotus Indo-German Nature Cure "
+      },
+      {
+         "id":"14",
+         "cname":"Mysore Mandala",
+         "whitelist":"Mysore Mandala Centre"
+      },
+      {
+         "id":"15",
+         "cname":"Shathayu Ayurveda Retreat",
+         "whitelist":"Shathayu Ayurveda"
+      },
+      {
+         "id":"16",
+         "cname":"Ananda In Himalayas",
+         "whitelist":"Ananda In Himalayas Centre"
+      },
+      {
+         "id":"17",
+         "cname":"Maa Yoga Ashram",
+         "whitelist":"Maa Yoga Centre"
+      },
+      {
+         "id":"18",
+         "cname":"Rishikesh Sadan",
+         "whitelist":"Rishikesh Sadan Centre"
+      },
+      {
+         "id":"19",
+         "cname":"Jeevmoksha Yoga Gurukul",
+         "whitelist":"Jeevmoksha Yoga Gurukul Centre"
+      },
+      {
+         "id":"20",
+         "cname":"AYM Yoga School",
+         "whitelist":"AYM Yoga School Centre"
+      },
+      {
+         "id":"21",
+         "cname":"World Peace Yoga School",
+         "whitelist":"World Peace Yoga "
+      },
+      {
+         "id":"22",
+         "cname":"Kaivalya Yoga School",
+         "whitelist":"Kaivalya Yoga School Centre"
+      },
+      {
+         "id":"23",
+         "cname":"NaturOville Retreat",
+         "whitelist":"NaturOville Centre"
+      },
+      {
+         "id":"24",
+         "cname":"Om Shanti Om",
+         "whitelist":"Om Shanti Om Centre"
+      },
+      {
+         "id":"25",
+         "cname":"Rishikesh Nath Yogshala",
+         "whitelist":"Rishikesh Nath Yogshala Centre"
+      },
+      {
+         "id":"26",
+         "cname":"Siddha Yoga Peeth",
+         "whitelist":"Siddha Yoga Peeth Centre"
+      },
+      {
+         "id":"27",
+         "cname":"Ayurveda Bhavan",
+         "whitelist":"Ayurveda Bhavan Centre"
+      },
+      {
+         "id":"28",
+         "cname":"Aahana Resort",
+         "whitelist":"Aahana Centre"
+      },
+      {
+         "id":"29",
+         "cname":"Kastura- An Ayurvediv Spa Resort",
+         "whitelist":"Kastura- An Ayurvediv Resort"
+      },
+      {
+         "id":"30",
+         "cname":"Himalayan Holistic Yoga School",
+         "whitelist":"Himalayan Holistic Yoga School Centre"
+      },
+      {
+         "id":"31",
+         "cname":"Modi Yoga Retreat",
+         "whitelist":"Modi Yoga Centre"
+      },
+      {
+         "id":"32",
+         "cname":"Veda5 Ayurveda And Yoga Retreat",
+         "whitelist":"Veda5 Ayurveda And Yoga Centre"
+      },
+      {
+         "id":"33",
+         "cname":"Haritha Ayurveda And Yoga",
+         "whitelist":"Haritha Ayurveda And Yoga Centre"
+      },
+      {
+         "id":"34",
+         "cname":"Himalayan Yoga Association",
+         "whitelist":"Himalayan Yoga Association Centre"
+      },
+      {
+         "id":"35",
+         "cname":"Moksha School Of Yoga",
+         "whitelist":"Moksha School Of Yoga Centre"
+      },
+      {
+         "id":"36",
+         "cname":"Swastha Wellness",
+         "whitelist":"Swastha Centre"
+      },
+      {
+         "id":"37",
+         "cname":"Bapu Nature Cure Hospital & Yogashram",
+         "whitelist":"Bapu Nature Cure Hospital & Yogashram Centre"
+      },
+      {
+         "id":"38",
+         "cname":"Nimba Nature Cure Village",
+         "whitelist":"Nimba Nature Cure Village Centre"
+      },
+      {
+         "id":"39",
+         "cname":"Atharva Multi-Specialty Ayurveda Hospital",
+         "whitelist":"Atharva Multi-Specialty Ayurveda Hospital Centre"
+      },
+      {
+         "id":"40",
+         "cname":"Meghdhara Ayurved panchkarma hospital",
+         "whitelist":"Meghdhara Ayurved panchkarma hospital Centre"
+      },
+      {
+         "id":"41",
+         "cname":"Naad Wellness - Indian Residents",
+         "whitelist":"Naad Wellness - Indian Residents Centre"
+      },
+      {
+         "id":"42",
+         "cname":"Jivagram Ayurveda Hospital",
+         "whitelist":"Jivagram Ayurveda Hospital Centre"
+      },
+      {
+         "id":"43",
+         "cname":"Somatheeram Ayurveda Village",
+         "whitelist":"Somatheeram Ayurveda Village Centre"
+      },
+      {
+         "id":"44",
+         "cname":"Krishnatheeram Ayur Holy Beach Resort",
+         "whitelist":"Krishnatheeram Ayur Holy Beach Centre"
+      },
+      {
+         "id":"45",
+         "cname":"Poovar Ayurveda Village",
+         "whitelist":"Poovar Ayurveda Village Centre"
+      },
+      {
+         "id":"46",
+         "cname":"Dr Franklin's Panchakarma Institute & Research Centre",
+         "whitelist":"Dr Franklin's Panchakarma Institute & Research"
+      },
+      {
+         "id":"47",
+         "cname":"Uday Samudra Ayurveda & Yoga Beach Resort",
+         "whitelist":"Uday Samudra Ayurveda & Yoga Beach Resort Centre"
+      },
+      {
+         "id":"48",
+         "cname":"Deepanjali Wellness & Retreat",
+         "whitelist":"Deepanjali Wellness & Retreat Centre"
+      },
+      {
+         "id":"49",
+         "cname":"Vedas Wellness City",
+         "whitelist":"Vedas Wellness City Centre"
+      },
+      {
+         "id":"50",
+         "cname":"Dr. Saji D'Souza's KSAC Hospital",
+         "whitelist":"Dr. Saji D'Souza's KSAC Hospital Centre"
+      },
+      {
+         "id":"51",
+         "cname":"ShinShiva Ayurvedic Ashram",
+         "whitelist":"ShinShiva Ayurvedic Ashram Centre"
+      },
+      {
+         "id":"52",
+         "cname":"Anantya Resorts",
+         "whitelist":"Anantya Resorts Centre"
+      },
+      {
+         "id":"53",
+         "cname":"Krishnendu Ayurveda",
+         "whitelist":"Krishnendu Ayurveda Centre"
+      },
+      {
+         "id":"54",
+         "cname":"Vidyagrama",
+         "whitelist":"Vidyagrama Centre"
+      },
+      {
+         "id":"55",
+         "cname":"Kalpaviruksha Ayurvedic Centre",
+         "whitelist":"Kalpaviruksha Ayurvedic "
+      },
+      {
+         "id":"55",
+         "cname":"Kalpaviruksha Ayurvedic Centre",
+         "whitelist":"Kalpaviruksha Ayurvedic"
+      },
+      {
+         "id":"56",
+         "cname":"Mr. Sudha's Ayurveda Kendra",
+         "whitelist":"Mr. Sudha's Ayurveda Kendra Centre"
+      },
+      {
+         "id":"57",
+         "cname":"The White House Lotus",
+         "whitelist":"The White House Lotus Centre"
+      },
+      {
+         "id":"58",
+         "cname":"Keraliya Ayurvedic Panchakarma Centre",
+         "whitelist":"Keraliya Ayurvedic Panchakarma "
+      },
+      {
+         "id":"59",
+         "cname":"Raas Devigarh",
+         "whitelist":"Raas Devigarh Centre"
+      },
+      {
+         "id":"60",
+         "cname":"Yogasthali Yoga Society",
+         "whitelist":"Yogasthali Yoga Society Centre"
+      },
+      {
+         "id":"61",
+         "cname":"Mahi Yoga Centre",
+         "whitelist":"Mahi Yoga "
+      },
+      {
+         "id":"62",
+         "cname":"Shree Hari Yoga Centre",
+         "whitelist":"Shree Hari Yoga "
+      },
+      {
+         "id":"63",
+         "cname":"Sarvaguna Yoga Dhaama",
+         "whitelist":"Sarvaguna Yoga Dhaama Centre"
+      },
+      {
+         "id":"64",
+         "cname":"Aryamarga Society",
+         "whitelist":"Aryamarga Society Centre"
+      },
+      {
+         "id":"65",
+         "cname":"Sandhya Sulphur Hot Spring Health Care",
+         "whitelist":"Sandhya Sulphur Hot Spring Health Care Centre"
+      },
+      {
+         "id":"66",
+         "cname":"Vishuddhi Yoga",
+         "whitelist":"Vishuddhi Yoga Centre"
+      },
+      {
+         "id":"67",
+         "cname":"Ayurveda House",
+         "whitelist":"Ayurveda House Centre"
+      },
+      {
+         "id":"68",
+         "cname":"Avs Punarnava Ayurveda Hospital",
+         "whitelist":"Avs Punarnava Ayurveda Hospital Centre"
+      },
+      {
+         "id":"69",
+         "cname":"The Yoga Institute",
+         "whitelist":"The Yoga Institute Centre"
+      },
+      {
+         "id":"70",
+         "cname":"Devaaya Ayurveda And Natural Cure Centre",
+         "whitelist":"Devaaya Ayurveda And Natural Cure "
+      },
+      {
+         "id":"71",
+         "cname":"Mahi Yoga Centre",
+         "whitelist":"Mahi Yoga Centre "
+      },
+      {
+         "id":"72",
+         "cname":"The Beach House",
+         "whitelist":"The Beach House Centre"
+      },
+      {
+         "id":"73",
+         "cname":"Yogvit Yogshala",
+         "whitelist":"Yogvit Yogshala Centre"
+      },
+      {
+         "id":"74",
+         "cname":"Kashish Yoga",
+         "whitelist":"Kashish Yoga Centre"
+      },
+      {
+         "id":"75",
+         "cname":"Shiva Shakti Yoga",
+         "whitelist":"Shiva Shakti Yoga Centre"
+      },
+      {
+         "id":"76",
+         "cname":"AAYAA YOGA",
+         "whitelist":"AAYAA YOGA Centre"
+      },
+      {
+         "id":"77",
+         "cname":"The YogaCave initiative",
+         "whitelist":"The YogaCave initiative Centre"
+      },
+      {
+         "id":"78",
+         "cname":"Arunachal Yoga Centre",
+         "whitelist":"Arunachal Yoga Centre "
+      },
+      {
+         "id":"79",
+         "cname":"Devarya Wellness",
+         "whitelist":"Devarya Wellness Centre"
+      },
+      {
+         "id":"80",
+         "cname":"AYM Yoga School",
+         "whitelist":"AYM Yoga Centre"
+      }
+   ]
+}

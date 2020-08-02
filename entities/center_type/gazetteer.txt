@@ -1,0 +1,5 @@
+center_type
+center
+type
+kind
+sort

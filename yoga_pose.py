@@ -11,7 +11,7 @@ def extract_entities_from_type(request, entity_type):
 def get_other_names(request, responder):
     responder = _get_yoga_pose(request, responder, 'other_names')
     try:
-        responder.reply("Other names for {name_c} are {other_names} ")
+        responder.reply("Other names for {name_c} are {other_names}")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
     return
@@ -30,7 +30,7 @@ def get_pose_description(request, responder):
 def get_pose_steps(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_steps')
     try:
-        responder.reply("Steps for {name_c} are: {pose_steps} \n\n You can ask for 'Video for {name_c}' or 'Benefits for {name_c}'")
+        responder.reply("Steps for {name_c} are: {pose_steps}\n\n You can ask for 'Video for {name_c}' or 'Benefits for {name_c}'")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
@@ -40,7 +40,7 @@ def get_pose_steps(request, responder):
 def get_pose_release(request, responder):
     responder = _get_yoga_pose(request, responder, 'pose_release')
     try:
-        responder.reply("{pose_release}")
+        responder.reply("Pose can be released as \n'{pose_release}'")
     except KeyError:
         responder.reply(DO_NOT_KNOW)
         return
