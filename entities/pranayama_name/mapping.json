@@ -1,0 +1,89 @@
+{
+   "entities":[
+      {
+         "id":"p1",
+         "cname":"Natural Breathing",
+         "whitelist":[]
+      },
+      {
+         "id":"p2",
+         "cname":"Adham Pranayama",
+         "whitelist":[]
+      },
+      {
+         "id":"p3",
+         "cname":"Thoracic breathing",
+         "whitelist":[]
+      },
+      {
+         "id":"p4",
+         "cname":"Deep Breathing",
+         "whitelist":[]
+      },
+      {
+         "id":"p5",
+         "cname":"Nadi Sanchalana",
+         "whitelist":[]
+      },
+      {
+         "id":"p6",
+         "cname":"Viloma",
+         "whitelist":[]
+      },
+      {
+         "id":"p7",
+         "cname":"Anulom-Vilom",
+         "whitelist":[]
+      },
+      {
+         "id":"p8",
+         "cname":"Sheetali",
+         "whitelist":[]
+      },
+      {
+         "id":"p9",
+         "cname":"Sitkari",
+         "whitelist":[]
+      },
+      {
+         "id":"p20",
+         "cname":"Kaki Mudra",
+         "whitelist":[]
+      },
+      {
+         "id":"p21",
+         "cname":"Kumbhaka",
+         "whitelist":[]
+      },
+      {
+         "id":"p22",
+         "cname":"Kapalabhati",
+         "whitelist":[]
+      },
+      {
+         "id":"p23",
+         "cname":"Ujjayi Pranayama",
+         "whitelist":[]
+      },
+      {
+         "id":"p24",
+         "cname":"Bramari Pranayma",
+         "whitelist":[]
+      },
+      {
+         "id":"p25",
+         "cname":"Bhastrika Pranayma",
+         "whitelist":[]
+      },
+      {
+         "id":"p26",
+         "cname":"Surya-Bhedan Pranayama",
+         "whitelist":[]
+      },
+      {
+         "id":"p27",
+         "cname":"Nadi Shodhana",
+         "whitelist":[]
+      }
+   ]
+}

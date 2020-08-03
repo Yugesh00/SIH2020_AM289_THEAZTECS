@@ -1,0 +1,12 @@
+I want train from {NGP|destination|origin} to {NZM|destination|dest} 
+train ticket from {NGP|destination|origin} to {NZM|destination|dest}
+train from {HW|destination|origin} to {CDG|destination|dest}
+i want train
+train
+find a train
+find me a train
+book a train
+book train
+search train
+trains
+trainss

@@ -1,0 +1,2 @@
+flight from {SYD|origin_city|origin} to {BKK|origin_city|dest} 
+I want a flight ticket 

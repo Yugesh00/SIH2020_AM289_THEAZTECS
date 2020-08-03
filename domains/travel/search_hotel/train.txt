@@ -1,0 +1,14 @@
+Find me a hotel in {SYD|origin_city}
+Get me a hotel in {LAX|origin_city}
+Get me a hotel in {SYD|origin_city}
+Find me a hotel in {LON|origin_city}
+Get me a hotel in {SYD|origin_city}
+Get me a hotel in {SYD|origin_city}
+Tell me a hotel in {SYD|origin_city}
+Tell me a hotel in {LON|origin_city}
+Tell me a hotel in {DEL|origin_city}
+Find me a hotel
+Get me a hotel
+hotel
+room
+hotels

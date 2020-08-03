@@ -1,0 +1,1 @@
+train ticket from {NGP|origin_city} to {NZM|destination_city}

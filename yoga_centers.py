@@ -21,7 +21,7 @@ def get_yc_treatments(request, responder):
 def get_yc_location(request, responder):
     responder = _get_yoga_centers(request, responder, 'yc_location')
     try:
-        responder.reply("{name} is located at {yc_location}")
+        responder.reply("{name} is located at {yc_location} \n\nIf you want to experience this place. Please say 'flights' or 'trains'")
     except KeyError:
         responder.reply(NOT_KNOW)
         return

@@ -25,7 +25,7 @@ def ayurvedic_centers(request, responder):
     responder = _get_ayurvedic_centers(request, responder, 'hubs')
 
     try:
-        responder.reply("For *{therapy}* you can visit {hubs}")
+        responder.reply("For *{therapy}* you can visit {hubs} \nIf you want to get this therapy at this place. Please say 'flights' or 'trains'")
     except KeyError:
         responder.reply("I\'m afraid, I can\'t suggest any medicine for this problem. \nKindly consult a doctor.")
 

@@ -7,8 +7,8 @@ def greet(request, responder):
     replies = [
         "Hi {name}, how can I help with your wellness ? You can ask about yoga poses like tadasana, lolasana, etc."
         "and ayurveedic medicines for various problems",
-        "Hello {name}, as your Wellness assistant. You can do things "
-        "like: ask for poses for your different problems.",
+        "Hello {name},I'm your Wellness assistant. You can do things "
+        "like: know about different yoga centers and wellness hubs",
     ]
     responder.reply(replies)
 

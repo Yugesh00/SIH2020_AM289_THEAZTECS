@@ -20,7 +20,7 @@ def get_packages(request, responder):
 def get_center_type(request, responder):
     responder = _get_wellness_hub(request, responder, 'center_type')
     try:
-        responder.reply("It is a {center_type}")
+        responder.reply("It is a {center_type} \n\nYou can ask 'What packages are available at {name}' or 'Where is {name} located' ")
     except KeyError:
         responder.reply(NOT_KNOW)
         return
@@ -40,7 +40,7 @@ def get_hub_description(request, responder):
 def get_place(request, responder):
     responder = _get_wellness_hub(request, responder, 'place')
     try:
-        responder.reply("{name} located at {place}")
+        responder.reply("{name} located at {place}  \n\nIf you are planning for a tour here say 'flights' or 'trains'")
     except KeyError:
         responder.reply(NOT_KNOW)
         return

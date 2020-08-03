@@ -1,0 +1,17 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "steps",
+            "perform",
+            "procedure",
+            "step",
+            "carry out",
+            "practice",
+            "practiced",
+            "do"
+         ],
+         "cname":"pranayama_steps"
+      }
+   ]
+}

@@ -8,7 +8,7 @@ import random
 class UnitNotFound(Exception):
     pass
 
-# Weather constants
+
 CITY_NOT_FOUND_CODE = 400
 INVALID_API_KEY_CODE = 401
 DEFAULT_cityCode = 'DEL'
@@ -61,14 +61,7 @@ def search_hotel(request, responder):
     When the user asks for weather, return the weather in that location or use San Francisco if no
       location is given.
     """
-    # Check to make sure API key is present, if not tell them to follow setup instructions
-    # try:
-    #     flight_api_key = os.environ['FLIGHT_KEY']
-    # except KeyError:
-    #     reply = "Open weather API is not setup, please register an API key at https://" \
-    #             "openweathermap.org/api and set env variable FLIGHT_KEY to be that key."
-    #     responder.reply(reply)
-    #     return
+   
 
     try:
         for entity in request.entities:
@@ -86,7 +79,7 @@ def search_hotel(request, responder):
                 )    
         # Get weather information via the API
         url_string = _construct_search_hotel_api_url(selected_city)
-        headers = {'Authorization' : 'Bearer ZgI7v2K9F28Tg6DpbLGmhcFpJcEL'}
+        headers = {'Authorization' : 'Bearer rfl94dxYGEALKkI01KZKiyybZr31'}
         payload = {}
         # hotel_info = requests.get(url_string, headers=headers).json()
         hotel_info = requests.request("GET", url_string, headers = headers, data = payload).json()
@@ -133,30 +126,6 @@ def search_hotel(request, responder):
 def _construct_search_hotel_api_url(selected_city):
     url_string = "{base_string}?cityCode={location}".format(base_string=HOTEL_BASE_STRING, location=selected_city.replace(" ", "+"))
     return url_string
-
-
-# Entity Resolvers
-
-# def _get_city(request):
-#     """
-#     Get's the user location from the query, defaulting to San Francisco if none provided
-
-#     Args:
-#         request (Request): contains info about the conversation up to this point (e.g. domain,
-#           intent, entities, etc)
-
-#     Returns:
-#         string: resolved location entity
-#     """
-#     city_entity = next((e for e in request.entities if e['type'] == 'city'), None)
-
-#     if city_entity:
-#         return city_entity['text']
-#     else:
-#         # Default to San Francisco
-#         return DEFAULT_cityCode
-
-
 
 
 

@@ -1,0 +1,11 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "Precautions",
+            "preventive measures"
+         ],
+         "cname":"pranayama_precautions"
+      }
+   ]
+}

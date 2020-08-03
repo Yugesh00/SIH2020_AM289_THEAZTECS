@@ -9,9 +9,10 @@ def unsupported(request, responder):
                            "How is yoga different from stretching or other kinds of fitness?",
                            "How can I cure Indigestion",
                            "Benefits of Shirshasana",
+                           "Find me a flight",
                            "Yoga poses for fitness", "Show me the list of hubs in goa",
                            "Where can i get treatment for Diabetes?"])
 
     responder.slots['query'] = query
-    responder.reply("Hmmm, I don't quite understand, you can ask me something like '{query}'")
+    responder.reply("Sorry, I don't quite understand this, you can ask me something like '{query}'")
     responder.listen()

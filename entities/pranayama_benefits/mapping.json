@@ -1,0 +1,15 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "benefits",
+                "benefited",
+                "advantages",
+                "good factors"
+            ],
+            "cname": "pranayama_benefits"
+        }
+    ]
+}
+
+

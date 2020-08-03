@@ -1,0 +1,14 @@
+{
+   "entities":[
+      {
+         "whitelist":[
+            "duration",
+            "time",
+            "time period",
+            "span",
+            "timings"
+         ],
+         "cname":"pranayama_timing"
+      }
+   ]
+}

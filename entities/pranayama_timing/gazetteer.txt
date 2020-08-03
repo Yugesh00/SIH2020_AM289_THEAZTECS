@@ -1,0 +1,7 @@
+pranayama_timing
+duration
+time
+time period
+repetitions
+span
+timings

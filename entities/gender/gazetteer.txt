@@ -1,0 +1,6 @@
+MALE
+FEMALE
+male 
+female
+F
+M
