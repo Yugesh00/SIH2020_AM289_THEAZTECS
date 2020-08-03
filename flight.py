@@ -119,9 +119,8 @@ def search_flight(request, responder):
         responder.slots['lastTicketingDate'] = flight_info['data'][0]['lastTicketingDate']
         responder.slots['numberOfBookableSeats'] = flight_info['data'][0]['numberOfBookableSeats']
         responder.slots['carrierCode'] = flight_info['dictionaries']['carriers'][x]
-        responder.reply("Found a flight of {carrierCode} for {currency} {price}.\n No. of seats available are {numberOfBookableSeats} and last date for booking is {lastTicketingDate}.")
         responder.slots['code'] =random.choice(["T1H2E","A1Z3T","E2C1S"])
-        responder.prompt("You can also book this flight. \nUse this code '{code}' to start the booking process.")
+        responder.reply("Found a flight of {carrierCode} for {currency} {price}.\n No. of seats available are {numberOfBookableSeats} and last date for booking is {lastTicketingDate}.\n\nYou can also book this flight. \nUse this code '{code}' to start the booking process.")
         responder.listen()
 
     except:

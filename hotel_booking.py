@@ -104,11 +104,9 @@ def search_hotel(request, responder):
         responder.slots['postal_code'] = hotel_info['data'][0]['hotel']['address']['postalCode']
         responder.slots['city_name'] = hotel_info['data'][0]['hotel']['address']['cityName']
         responder.slots['phone'] = hotel_info['data'][0]['hotel']['contact']['phone']
-        # responder.slots['email'] = hotel_info['data'][0]['hotel']['contact']['email']
         responder.slots['description'] = hotel_info['data'][0]['hotel']['description']['text']
-        responder.reply("Found a hotel in *{city_name}*, \n*{name}* having rating *{rating}* for *{currency} {price}*. \n{description}\n*Address-* {lines}, {city_name}-{postal_code}\n*Contact No.-* {phone} ")
         responder.slots['code'] =random.choice(["T1H2E","A1Z3T","E2C1S"])
-        responder.prompt("You can also book the hotel. \nUse this code '{code}' to start the booking process.")
+        responder.reply("Found a hotel in *{city_name}*, \n*{name}* having rating *{rating}* for *{currency} {price}*. \n{description}\n*Address-* {lines}, {city_name}-{postal_code}\n*Contact No.-* {phone} \nYou can also book the hotel. \nUse this code '{code}' to start the booking process.")
         responder.listen()
 
     except:
