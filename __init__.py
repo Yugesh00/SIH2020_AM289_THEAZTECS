@@ -12,5 +12,7 @@ import getfit.getfit_faq
 import getfit.hubs_location
 import getfit.centers_location
 import getfit.category
+import getfit.search_train
+import getfit.hotel_booking
 
 __all__ = ['app']
