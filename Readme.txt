@@ -1,4 +1,4 @@
-Description:- GetFit, a mindmeld AI conversational platform.
+Description:- GetFit, a mindmeld AI conversational platform's chat assistant for wellness tourism.
 Peace and tranquility of the mind and body , harmony and purity of the heart, are all the elements which create harmony of the mind. 
 Peace is the only thing which every human is seeking these days be it mental or physical.
 For which people search for best retreats, ashrams ,yoga centers for building mental and physical peace. 
